@@ -1,0 +1,1501 @@
+feedback_id,customer_id,feedback_text,sentiment,source,date,timestamp
+F1,CUST2517,This is exactly what I was looking for. Great quality!,Positive,chat,2025-05-05,2025-05-05 13:00:35
+F2,CUST8903,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-10-07,2025-10-07 13:00:35
+F3,CUST4684,Mediocre experience overall. Issue with customer service.,Neutral,review_site,2024-12-19,2024-12-19 13:00:35
+F4,CUST7417,Satisfactory service. Nothing to complain about. _|' Issue with technical issues.,Neutral,email,2025-01-12,2025-01-12 13:00:35
+F5,CUST4907,Outstanding customer support. They resolved my issue quickly. Issue with website navigation.,Positive,social_media,2025-08-29,2025-08-29 13:00:35
+F6,CUST5450,It's alright. Nothing remarkable to mention. (,Neutral,review_site,2025-04-15,2025-04-15 13:00:35
+F7,CUST6402,Average experience. Some good points and some bad.,Neutral,review_site,2024-12-25,2024-12-25 13:00:35
+F8,CUST6119,Great value for money. Worth every penny! *] Issue with customer service.,Positive,email,2024-12-13,2024-12-13 13:00:35
+F9,CUST7920,Extremely disappointed with the quality. Not recommended.,Negative,chat,2025-03-25,2025-03-25 13:00:35
+F10,CUST1581,Impressive features and functionality. Love it! ~[ Issue with delivery delays.,Positive,chat,2025-06-25,2025-06-25 13:00:35
+F11,CUST8153,Standard quality. Meets basic expectations. %)/,Neutral,review_site,2024-11-15,2024-11-15 13:00:35
+F12,CUST1772,Reliable and durable product. No complaints whatsoever.,Positive,email,2025-04-29,2025-04-29 13:00:35
+F13,CUST3772,Acceptable product for the price point. > Issue with return process.,Neutral,social_media,2025-06-21,2025-06-21 13:00:35
+F14,CUST3103,Impressive features and functionality. Love it! Issue with product features.,Positive,social_media,2024-11-19,2024-11-19 13:00:35
+F15,CUST6529,It's alright. Nothing remarkable to mention. Issue with customer service.,Neutral,social_media,2024-11-04,2024-11-04 13:00:35
+F16,CUST3601,Difficult to use and confusing interface. :*. Issue with technical issues.,Negative,chat,2024-12-25,2024-12-25 13:00:35
+F17,CUST4202,Standard quality. Meets basic expectations. <^<`},Neutral,review_site,2025-03-10,2025-03-10 13:00:35
+F18,CUST9302,Poor customer service. No one responded to my queries.,Negative,review_site,2024-11-15,2024-11-15 13:00:35
+F19,CUST6173,"It's fine, not great but not terrible either.",Neutral,review_site,2025-07-06,2025-07-06 13:00:35
+F20,CUST4419,This is exactly what I was looking for. Great quality! Issue with return process.,Positive,review_site,2025-10-17,2025-10-17 13:00:35
+F21,CUST4501,This is exactly what I was looking for. Great quality! Issue with delivery delays.,Positive,review_site,2025-07-04,2025-07-04 13:00:35
+F22,CUST6918,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-09-25,2025-09-25 13:00:35
+F23,CUST9829,Extremely disappointed with the quality. Not recommended. \ Issue with website navigation.,Negative,social_media,2025-10-25,2025-10-25 13:00:35
+F24,CUST4944,Product is okay. Nothing special but does the job. Issue with website navigation.,Neutral,email,2024-12-21,2024-12-21 13:00:35
+F25,CUST4225,Overpriced for the features provided. Not worth it.,Negative,chat,2025-02-19,2025-02-19 13:00:35
+F26,CUST2851,Great value for money. Worth every penny!,Positive,review_site,2025-01-28,2025-01-28 13:00:35
+F27,CUST9070,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,chat,2025-10-02,2025-10-02 13:00:35
+F28,CUST9569,"This is exactly what I was looking for. Great quality! ""'`;",Positive,chat,2025-01-07,2025-01-07 13:00:35
+F29,CUST6642,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-06-12,2025-06-12 13:00:35
+F30,CUST5668,Great value for money. Worth every penny! Issue with product availability.,Positive,email,2025-03-09,2025-03-09 13:00:35
+F31,CUST2234,Outstanding customer support. They resolved my issue quickly. Issue with website navigation.,Positive,social_media,2025-09-01,2025-09-01 13:00:35
+F32,CUST7673,Frequent crashes and bugs. Needs improvement. Issue with product availability.,Negative,social_media,2025-02-04,2025-02-04 13:00:35
+F33,CUST5438,It's alright. Nothing remarkable to mention. ~{?~~,Neutral,social_media,2025-09-10,2025-09-10 13:00:35
+F34,CUST5241,The product exceeded my expectations. Very satisfied! <&~ Issue with delivery delays.,Positive,social_media,2025-08-27,2025-08-27 13:00:35
+F35,CUST9126,This is exactly what I was looking for. Great quality!,Positive,email,2025-05-29,2025-05-29 13:00:35
+F36,CUST8250,Poor customer service. No one responded to my queries. !@~ Issue with delivery delays.,Negative,chat,2025-05-09,2025-05-09 13:00:35
+F37,CUST6067,Frequent crashes and bugs. Needs improvement. =,Negative,social_media,2025-01-21,2025-01-21 13:00:35
+F38,CUST5292,I absolutely love this product! It's amazing and works perfectly. Issue with technical issues.,Positive,chat,2025-01-12,2025-01-12 13:00:35
+F39,CUST3864,Reliable and durable product. No complaints whatsoever.,Positive,email,2025-09-03,2025-09-03 13:00:35
+F40,CUST4957,Late delivery and damaged packaging. Very upset! ];! Issue with product availability.,Negative,email,2025-07-27,2025-07-27 13:00:35
+F41,CUST8452,Acceptable product for the price point.,Neutral,review_site,2025-04-24,2025-04-24 13:00:35
+F42,CUST5953,Excellent service and fast delivery. Highly recommended! Issue with product quality.,Positive,chat,2025-04-30,2025-04-30 13:00:35
+F43,CUST2775,Decent product with room for improvement.,Neutral,social_media,2025-01-25,2025-01-25 13:00:35
+F44,CUST4960,Impressive features and functionality. Love it!,Positive,email,2025-04-04,2025-04-04 13:00:35
+F45,CUST5401,"Frequent crashes and bugs. Needs improvement. _\?""",Negative,social_media,2025-09-13,2025-09-13 13:00:35
+F46,CUST8719,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-07-20,2025-07-20 13:00:35
+F47,CUST9637,Waste of money. Product doesn't work as advertised.,Negative,email,2024-11-04,2024-11-04 13:00:35
+F48,CUST2874,This is exactly what I was looking for. Great quality! Issue with pricing.,Positive,review_site,2025-05-14,2025-05-14 13:00:35
+F49,CUST7499,It's alright. Nothing remarkable to mention. Issue with customer service.,Neutral,social_media,2024-12-23,2024-12-23 13:00:35
+F50,CUST5507,Frequent crashes and bugs. Needs improvement. Issue with delivery delays.,Negative,email,2025-01-30,2025-01-30 13:00:35
+F51,CUST9794,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-04-10,2025-04-10 13:00:35
+F52,CUST8065,It's alright. Nothing remarkable to mention. .^;/<,Neutral,email,2025-06-08,2025-06-08 13:00:35
+F53,CUST6082,Product is okay. Nothing special but does the job.,Neutral,email,2025-03-18,2025-03-18 13:00:35
+F54,CUST8527,Waste of money. Product doesn't work as advertised. Issue with delivery delays.,Negative,chat,2025-05-14,2025-05-14 13:00:35
+F55,CUST4236,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-09-27,2025-09-27 13:00:35
+F56,CUST7939,Difficult to use and confusing interface.,Negative,review_site,2025-01-22,2025-01-22 13:00:35
+F57,CUST8865,Functional but could be better. %$}$+ Issue with delivery delays.,Neutral,social_media,2025-03-27,2025-03-27 13:00:35
+F58,CUST6064,"Terrible experience. Product broke after one day. ^"";=#",Negative,chat,2025-02-14,2025-02-14 13:00:35
+F59,CUST4912,I absolutely love this product! It's amazing and works perfectly. ; Issue with product availability.,Positive,review_site,2025-01-04,2025-01-04 13:00:35
+F60,CUST6591,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,social_media,2025-07-13,2025-07-13 13:00:35
+F61,CUST5396,Product stopped working within a week. Poor quality.,Negative,chat,2025-01-09,2025-01-09 13:00:35
+F62,CUST7787,Mediocre experience overall.,Neutral,review_site,2025-09-14,2025-09-14 13:00:35
+F63,CUST6707,Difficult to use and confusing interface. Issue with technical issues.,Negative,social_media,2025-10-17,2025-10-17 13:00:35
+F64,CUST9184,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-10-05,2025-10-05 13:00:35
+F65,CUST7447,Extremely disappointed with the quality. Not recommended.,Negative,chat,2025-01-02,2025-01-02 13:00:35
+F66,CUST8684,The product exceeded my expectations. Very satisfied! Issue with product features.,Positive,chat,2025-06-05,2025-06-05 13:00:35
+F67,CUST4804,Product stopped working within a week. Poor quality.,Negative,chat,2024-11-19,2024-11-19 13:00:35
+F68,CUST7134,Poor customer service. No one responded to my queries.,Negative,review_site,2025-08-30,2025-08-30 13:00:35
+F69,CUST8829,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2024-12-02,2024-12-02 13:00:35
+F70,CUST3810,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-02-06,2025-02-06 13:00:35
+F71,CUST9557,Great value for money. Worth every penny!,Positive,social_media,2025-04-23,2025-04-23 13:00:35
+F72,CUST7388,This is exactly what I was looking for. Great quality!,Positive,email,2025-03-22,2025-03-22 13:00:35
+F73,CUST5032,"It's fine, not great but not terrible either.",Neutral,social_media,2025-08-28,2025-08-28 13:00:35
+F74,CUST1948,The product exceeded my expectations. Very satisfied!,Positive,social_media,2025-03-21,2025-03-21 13:00:35
+F75,CUST9906,Frequent crashes and bugs. Needs improvement. Issue with website navigation.,Negative,chat,2025-10-10,2025-10-10 13:00:35
+F76,CUST5315,Standard quality. Meets basic expectations.,Neutral,social_media,2024-11-02,2024-11-02 13:00:35
+F77,CUST1586,Terrible experience. Product broke after one day. ',Negative,social_media,2025-03-20,2025-03-20 13:00:35
+F78,CUST6548,The product exceeded my expectations. Very satisfied! .)%,Positive,social_media,2024-12-31,2024-12-31 13:00:35
+F79,CUST8444,"It's fine, not great but not terrible either.",Neutral,review_site,2024-11-27,2024-11-27 13:00:35
+F80,CUST6111,Average experience. Some good points and some bad. Issue with website navigation.,Neutral,social_media,2025-04-14,2025-04-14 13:00:35
+F81,CUST1914,Mediocre experience overall. Issue with customer service.,Neutral,social_media,2025-07-01,2025-07-01 13:00:35
+F82,CUST7390,Product is okay. Nothing special but does the job. Issue with return process.,Neutral,review_site,2025-06-22,2025-06-22 13:00:35
+F83,CUST9989,Functional but could be better. Issue with technical issues.,Neutral,chat,2025-04-04,2025-04-04 13:00:35
+F84,CUST8459,Standard quality. Meets basic expectations.,Neutral,social_media,2025-04-07,2025-04-07 13:00:35
+F85,CUST6533,"It's fine, not great but not terrible either. Issue with pricing.",Neutral,review_site,2025-03-18,2025-03-18 13:00:35
+F86,CUST2683,Acceptable product for the price point. Issue with pricing.,Neutral,review_site,2024-12-04,2024-12-04 13:00:35
+F87,CUST2036,Waste of money. Product doesn't work as advertised. ).?]~ Issue with customer service.,Negative,review_site,2025-08-10,2025-08-10 13:00:35
+F88,CUST7226,The product exceeded my expectations. Very satisfied! Issue with technical issues.,Positive,review_site,2025-09-01,2025-09-01 13:00:35
+F89,CUST3121,I absolutely love this product! It's amazing and works perfectly. Issue with product availability.,Positive,email,2025-05-01,2025-05-01 13:00:35
+F90,CUST7027,Average experience. Some good points and some bad.,Neutral,email,2024-11-18,2024-11-18 13:00:35
+F91,CUST4513,I absolutely love this product! It's amazing and works perfectly. Issue with return process.,Positive,chat,2025-08-29,2025-08-29 13:00:35
+F92,CUST2070,Late delivery and damaged packaging. Very upset! %;,Negative,review_site,2025-04-22,2025-04-22 13:00:35
+F93,CUST3107,Acceptable product for the price point.,Neutral,social_media,2025-03-17,2025-03-17 13:00:35
+F94,CUST9353,Excellent service and fast delivery. Highly recommended! $,Positive,email,2025-07-17,2025-07-17 13:00:35
+F95,CUST9400,Product is okay. Nothing special but does the job. @.< Issue with customer service.,Neutral,email,2025-01-04,2025-01-04 13:00:35
+F96,CUST3080,Late delivery and damaged packaging. Very upset!,Negative,review_site,2025-05-30,2025-05-30 13:00:35
+F97,CUST7184,This is exactly what I was looking for. Great quality! _/=[,Positive,email,2025-04-19,2025-04-19 13:00:35
+F98,CUST7986,Poor customer service. No one responded to my queries.,Negative,social_media,2025-09-21,2025-09-21 13:00:35
+F99,CUST5907,Waste of money. Product doesn't work as advertised.,Negative,email,2025-07-29,2025-07-29 13:00:35
+F100,CUST6787,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-04-26,2025-04-26 13:00:35
+F101,CUST9957,Impressive features and functionality. Love it! /?,Positive,chat,2025-03-12,2025-03-12 13:00:35
+F102,CUST9350,Waste of money. Product doesn't work as advertised.,Negative,review_site,2024-12-02,2024-12-02 13:00:35
+F103,CUST5374,Frequent crashes and bugs. Needs improvement. ;}>,Negative,review_site,2025-02-13,2025-02-13 13:00:35
+F104,CUST5639,Extremely disappointed with the quality. Not recommended. Issue with product quality.,Negative,email,2025-04-08,2025-04-08 13:00:35
+F105,CUST2363,Outstanding customer support. They resolved my issue quickly.,Positive,chat,2025-04-04,2025-04-04 13:00:35
+F106,CUST4523,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2024-11-06,2024-11-06 13:00:35
+F107,CUST5685,Frequent crashes and bugs. Needs improvement. *,Negative,social_media,2025-08-28,2025-08-28 13:00:35
+F108,CUST1838,Fantastic experience overall. Will definitely buy again! Issue with customer service.,Positive,review_site,2025-02-21,2025-02-21 13:00:35
+F109,CUST8512,Satisfactory service. Nothing to complain about. Issue with customer service.,Neutral,review_site,2025-05-15,2025-05-15 13:00:35
+F110,CUST2811,Product stopped working within a week. Poor quality. @'<*\ Issue with product availability.,Negative,social_media,2025-09-07,2025-09-07 13:00:35
+F111,CUST8723,Impressive features and functionality. Love it! _*{},Positive,social_media,2025-01-16,2025-01-16 13:00:35
+F112,CUST2632,"Fantastic experience overall. Will definitely buy again! `"" Issue with delivery delays.",Positive,chat,2024-12-02,2024-12-02 13:00:35
+F113,CUST4282,The product exceeded my expectations. Very satisfied! Issue with product availability.,Positive,chat,2025-06-10,2025-06-10 13:00:35
+F114,CUST2598,Overpriced for the features provided. Not worth it.,Negative,chat,2025-10-13,2025-10-13 13:00:35
+F115,CUST8788,Mediocre experience overall. Issue with website navigation.,Neutral,chat,2025-04-29,2025-04-29 13:00:35
+F116,CUST6484,Horrible experience. Will never buy from here again. \{ Issue with return process.,Negative,review_site,2025-10-22,2025-10-22 13:00:35
+F117,CUST2069,Reliable and durable product. No complaints whatsoever.,Positive,email,2024-12-15,2024-12-15 13:00:35
+F118,CUST2566,Overpriced for the features provided. Not worth it.,Negative,chat,2025-08-12,2025-08-12 13:00:35
+F119,CUST6987,The product exceeded my expectations. Very satisfied!,Positive,social_media,2025-08-08,2025-08-08 13:00:35
+F120,CUST1279,Overpriced for the features provided. Not worth it. Issue with pricing.,Negative,email,2025-05-16,2025-05-16 13:00:35
+F121,CUST1327,Horrible experience. Will never buy from here again. >$$#~,Negative,chat,2025-05-31,2025-05-31 13:00:35
+F122,CUST4422,Mediocre experience overall. Issue with product features.,Neutral,chat,2025-01-21,2025-01-21 13:00:35
+F123,CUST3922,Mediocre experience overall.,Neutral,email,2024-12-20,2024-12-20 13:00:35
+F124,CUST2638,This is exactly what I was looking for. Great quality! Issue with pricing.,Positive,email,2025-06-18,2025-06-18 13:00:35
+F125,CUST2230,This is exactly what I was looking for. Great quality! Issue with product quality.,Positive,social_media,2025-06-02,2025-06-02 13:00:35
+F126,CUST3173,Excellent service and fast delivery. Highly recommended!,Positive,social_media,2025-08-11,2025-08-11 13:00:35
+F127,CUST8578,Decent product with room for improvement.,Neutral,email,2025-08-19,2025-08-19 13:00:35
+F128,CUST5266,"Difficult to use and confusing interface. '[,~",Negative,review_site,2025-06-16,2025-06-16 13:00:35
+F129,CUST6897,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-07-20,2025-07-20 13:00:35
+F130,CUST1879,Reliable and durable product. No complaints whatsoever. Issue with customer service.,Positive,chat,2025-01-14,2025-01-14 13:00:35
+F131,CUST6260,Extremely disappointed with the quality. Not recommended.,Negative,review_site,2025-01-26,2025-01-26 13:00:35
+F132,CUST7892,Product stopped working within a week. Poor quality. ]*,Negative,email,2025-01-17,2025-01-17 13:00:35
+F133,CUST7486,Waste of money. Product doesn't work as advertised.,Negative,review_site,2025-01-23,2025-01-23 13:00:35
+F134,CUST7933,Horrible experience. Will never buy from here again. Issue with product availability.,Negative,chat,2025-04-04,2025-04-04 13:00:35
+F135,CUST2045,Average experience. Some good points and some bad. Issue with pricing.,Neutral,review_site,2025-01-11,2025-01-11 13:00:35
+F136,CUST7217,Standard quality. Meets basic expectations. Issue with customer service.,Neutral,review_site,2024-11-27,2024-11-27 13:00:35
+F137,CUST8150,Overpriced for the features provided. Not worth it. !,Negative,review_site,2025-01-30,2025-01-30 13:00:35
+F138,CUST3670,Average experience. Some good points and some bad. Issue with product quality.,Neutral,email,2024-12-31,2024-12-31 13:00:35
+F139,CUST6934,Great value for money. Worth every penny!,Positive,social_media,2025-10-07,2025-10-07 13:00:35
+F140,CUST9337,Overpriced for the features provided. Not worth it. Issue with delivery delays.,Negative,review_site,2025-02-01,2025-02-01 13:00:35
+F141,CUST9744,Mediocre experience overall.,Neutral,social_media,2025-08-06,2025-08-06 13:00:35
+F142,CUST9778,Reliable and durable product. No complaints whatsoever. Issue with product availability.,Positive,chat,2024-12-16,2024-12-16 13:00:35
+F143,CUST1676,Fantastic experience overall. Will definitely buy again! Issue with customer service.,Positive,social_media,2025-03-14,2025-03-14 13:00:35
+F144,CUST7996,Poor customer service. No one responded to my queries.,Negative,review_site,2025-03-16,2025-03-16 13:00:35
+F145,CUST5902,I absolutely love this product! It's amazing and works perfectly.,Positive,social_media,2024-12-28,2024-12-28 13:00:35
+F146,CUST4519,Average experience. Some good points and some bad.,Neutral,social_media,2025-06-11,2025-06-11 13:00:35
+F147,CUST1551,Impressive features and functionality. Love it!,Positive,review_site,2025-10-26,2025-10-26 13:00:35
+F148,CUST6563,Average experience. Some good points and some bad. Issue with product features.,Neutral,chat,2025-07-08,2025-07-08 13:00:35
+F149,CUST9813,Product is okay. Nothing special but does the job. Issue with delivery delays.,Neutral,social_media,2025-03-30,2025-03-30 13:00:35
+F150,CUST5027,The product exceeded my expectations. Very satisfied!,Positive,review_site,2024-11-07,2024-11-07 13:00:35
+F151,CUST9555,Product is okay. Nothing special but does the job. Issue with pricing.,Neutral,social_media,2025-07-03,2025-07-03 13:00:35
+F152,CUST5601,Poor customer service. No one responded to my queries.,Negative,review_site,2025-07-17,2025-07-17 13:00:35
+F153,CUST9089,Average experience. Some good points and some bad. `,Neutral,email,2024-11-22,2024-11-22 13:00:35
+F154,CUST8257,User-friendly interface and intuitive design.,Positive,social_media,2025-09-13,2025-09-13 13:00:35
+F155,CUST6550,Average experience. Some good points and some bad.,Neutral,social_media,2025-08-14,2025-08-14 13:00:35
+F156,CUST7192,"It's fine, not great but not terrible either. ^('| Issue with product availability.",Neutral,review_site,2025-02-11,2025-02-11 13:00:35
+F157,CUST4056,Poor customer service. No one responded to my queries.,Negative,chat,2025-03-23,2025-03-23 13:00:35
+F158,CUST1153,It's alright. Nothing remarkable to mention. Issue with customer service.,Neutral,chat,2025-01-25,2025-01-25 13:00:35
+F159,CUST7381,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-06-08,2025-06-08 13:00:35
+F160,CUST2523,Reliable and durable product. No complaints whatsoever. Issue with return process.,Positive,review_site,2024-12-18,2024-12-18 13:00:35
+F161,CUST1289,Terrible experience. Product broke after one day. ?',Negative,chat,2025-07-27,2025-07-27 13:00:35
+F162,CUST8012,User-friendly interface and intuitive design. Issue with delivery delays.,Positive,email,2025-09-26,2025-09-26 13:00:35
+F163,CUST8109,Acceptable product for the price point.,Neutral,email,2025-10-17,2025-10-17 13:00:35
+F164,CUST7014,Fantastic experience overall. Will definitely buy again!,Positive,chat,2024-11-01,2024-11-01 13:00:35
+F165,CUST3104,Terrible experience. Product broke after one day.,Negative,social_media,2025-01-10,2025-01-10 13:00:35
+F166,CUST7617,Fantastic experience overall. Will definitely buy again! Issue with product availability.,Positive,social_media,2025-03-11,2025-03-11 13:00:35
+F167,CUST4330,Standard quality. Meets basic expectations.,Neutral,chat,2024-11-29,2024-11-29 13:00:35
+F168,CUST1782,Difficult to use and confusing interface. _|$!,Negative,chat,2025-04-19,2025-04-19 13:00:35
+F169,CUST1090,Standard quality. Meets basic expectations. Issue with product features.,Neutral,social_media,2025-04-04,2025-04-04 13:00:35
+F170,CUST7488,Acceptable product for the price point. &'%> Issue with return process.,Neutral,email,2025-08-09,2025-08-09 13:00:35
+F171,CUST2678,"Product stopped working within a week. Poor quality. %""",Negative,chat,2025-07-11,2025-07-11 13:00:35
+F172,CUST2168,Mediocre experience overall.,Neutral,email,2025-01-26,2025-01-26 13:00:35
+F173,CUST5370,Great value for money. Worth every penny!,Positive,email,2025-06-15,2025-06-15 13:00:35
+F174,CUST7908,Product stopped working within a week. Poor quality. Issue with product quality.,Negative,chat,2025-06-30,2025-06-30 13:00:35
+F175,CUST8389,Average experience. Some good points and some bad. ?[@@,Neutral,review_site,2025-01-14,2025-01-14 13:00:35
+F176,CUST9414,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-09-23,2025-09-23 13:00:35
+F177,CUST5738,Mediocre experience overall.,Neutral,chat,2025-09-09,2025-09-09 13:00:35
+F178,CUST3949,Frequent crashes and bugs. Needs improvement. Issue with product quality.,Negative,chat,2025-10-15,2025-10-15 13:00:35
+F179,CUST1838,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-01-16,2025-01-16 13:00:35
+F180,CUST1392,Acceptable product for the price point. Issue with delivery delays.,Neutral,social_media,2025-03-21,2025-03-21 13:00:35
+F181,CUST5990,Waste of money. Product doesn't work as advertised.,Negative,email,2025-06-06,2025-06-06 13:00:35
+F182,CUST6617,Mediocre experience overall.,Neutral,chat,2024-12-23,2024-12-23 13:00:35
+F183,CUST6695,Mediocre experience overall.,Neutral,email,2025-08-15,2025-08-15 13:00:35
+F184,CUST7931,Product is okay. Nothing special but does the job. / Issue with product features.,Neutral,email,2025-09-27,2025-09-27 13:00:35
+F185,CUST6640,Fantastic experience overall. Will definitely buy again! Issue with pricing.,Positive,social_media,2025-02-19,2025-02-19 13:00:35
+F186,CUST5339,Mediocre experience overall.,Neutral,review_site,2025-04-24,2025-04-24 13:00:35
+F187,CUST5545,Average experience. Some good points and some bad. Issue with pricing.,Neutral,chat,2025-01-20,2025-01-20 13:00:35
+F188,CUST1377,Poor customer service. No one responded to my queries. :_|)| Issue with technical issues.,Negative,social_media,2025-05-12,2025-05-12 13:00:35
+F189,CUST3348,Satisfactory service. Nothing to complain about. ? Issue with return process.,Neutral,email,2025-07-19,2025-07-19 13:00:35
+F190,CUST9715,Functional but could be better. Issue with customer service.,Neutral,chat,2025-01-24,2025-01-24 13:00:35
+F191,CUST5653,I absolutely love this product! It's amazing and works perfectly. Issue with product quality.,Positive,email,2025-10-11,2025-10-11 13:00:35
+F192,CUST1458,Waste of money. Product doesn't work as advertised. Issue with technical issues.,Negative,social_media,2025-05-07,2025-05-07 13:00:35
+F193,CUST6982,User-friendly interface and intuitive design.,Positive,email,2025-04-10,2025-04-10 13:00:35
+F194,CUST4610,Standard quality. Meets basic expectations. Issue with return process.,Neutral,chat,2025-09-13,2025-09-13 13:00:35
+F195,CUST9822,Overpriced for the features provided. Not worth it. Issue with product quality.,Negative,chat,2025-01-16,2025-01-16 13:00:35
+F196,CUST2769,Great value for money. Worth every penny!,Positive,review_site,2025-08-05,2025-08-05 13:00:35
+F197,CUST9946,Frequent crashes and bugs. Needs improvement. ;;{<,Negative,social_media,2025-08-24,2025-08-24 13:00:35
+F198,CUST8745,Acceptable product for the price point. Issue with website navigation.,Neutral,review_site,2024-11-29,2024-11-29 13:00:35
+F199,CUST4718,Functional but could be better. }_,Neutral,email,2025-10-05,2025-10-05 13:00:35
+F200,CUST6159,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-10-01,2025-10-01 13:00:35
+F201,CUST4184,"It's fine, not great but not terrible either. ![",Neutral,email,2025-02-25,2025-02-25 13:00:35
+F202,CUST4291,Horrible experience. Will never buy from here again.,Negative,review_site,2025-04-08,2025-04-08 13:00:35
+F203,CUST6030,I absolutely love this product! It's amazing and works perfectly.,Positive,email,2025-01-09,2025-01-09 13:00:35
+F204,CUST2823,Horrible experience. Will never buy from here again.,Negative,review_site,2025-05-30,2025-05-30 13:00:35
+F205,CUST7235,Average experience. Some good points and some bad.,Neutral,chat,2025-03-12,2025-03-12 13:00:35
+F206,CUST3839,Late delivery and damaged packaging. Very upset! Issue with delivery delays.,Negative,chat,2025-05-29,2025-05-29 13:00:35
+F207,CUST9495,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2024-12-03,2024-12-03 13:00:35
+F208,CUST8899,"Satisfactory service. Nothing to complain about. ,[&*` Issue with delivery delays.",Neutral,email,2025-02-13,2025-02-13 13:00:35
+F209,CUST2335,This is exactly what I was looking for. Great quality!,Positive,email,2024-11-20,2024-11-20 13:00:35
+F210,CUST8426,Decent product with room for improvement.,Neutral,review_site,2024-12-10,2024-12-10 13:00:35
+F211,CUST3101,Acceptable product for the price point.,Neutral,chat,2025-03-19,2025-03-19 13:00:35
+F212,CUST8570,Impressive features and functionality. Love it! Issue with delivery delays.,Positive,review_site,2025-07-19,2025-07-19 13:00:35
+F213,CUST3488,Great value for money. Worth every penny! Issue with website navigation.,Positive,review_site,2024-11-23,2024-11-23 13:00:35
+F214,CUST1759,Standard quality. Meets basic expectations.,Neutral,review_site,2024-12-11,2024-12-11 13:00:35
+F215,CUST1517,I absolutely love this product! It's amazing and works perfectly. ~ Issue with return process.,Positive,chat,2024-12-18,2024-12-18 13:00:35
+F216,CUST5864,Satisfactory service. Nothing to complain about. Issue with product availability.,Neutral,chat,2025-04-06,2025-04-06 13:00:35
+F217,CUST7227,Extremely disappointed with the quality. Not recommended. >{},Negative,chat,2024-12-25,2024-12-25 13:00:35
+F218,CUST2782,Horrible experience. Will never buy from here again. Issue with product quality.,Negative,social_media,2025-01-19,2025-01-19 13:00:35
+F219,CUST2825,Acceptable product for the price point. Issue with product features.,Neutral,social_media,2024-12-31,2024-12-31 13:00:35
+F220,CUST3782,Overpriced for the features provided. Not worth it. _`!?? Issue with product features.,Negative,social_media,2025-10-27,2025-10-27 13:00:35
+F221,CUST1804,I absolutely love this product! It's amazing and works perfectly. \. Issue with product features.,Positive,review_site,2025-05-08,2025-05-08 13:00:35
+F222,CUST2462,Horrible experience. Will never buy from here again.,Negative,review_site,2025-04-09,2025-04-09 13:00:35
+F223,CUST5762,Functional but could be better. {$#,Neutral,social_media,2025-10-03,2025-10-03 13:00:35
+F224,CUST5209,Product is okay. Nothing special but does the job. Issue with product features.,Neutral,review_site,2025-01-19,2025-01-19 13:00:35
+F225,CUST1136,The product exceeded my expectations. Very satisfied! .*,Positive,review_site,2025-01-23,2025-01-23 13:00:35
+F226,CUST1986,"Fantastic experience overall. Will definitely buy again! ?""`",Positive,review_site,2025-05-14,2025-05-14 13:00:35
+F227,CUST6278,Functional but could be better.,Neutral,review_site,2025-05-02,2025-05-02 13:00:35
+F228,CUST9414,I absolutely love this product! It's amazing and works perfectly. Issue with website navigation.,Positive,chat,2025-05-10,2025-05-10 13:00:35
+F229,CUST8415,Average experience. Some good points and some bad.,Neutral,social_media,2025-06-07,2025-06-07 13:00:35
+F230,CUST6772,Product stopped working within a week. Poor quality. Issue with product features.,Negative,email,2025-04-10,2025-04-10 13:00:35
+F231,CUST6171,Decent product with room for improvement.,Neutral,email,2025-04-24,2025-04-24 13:00:35
+F232,CUST7884,Horrible experience. Will never buy from here again.,Negative,review_site,2025-09-30,2025-09-30 13:00:35
+F233,CUST8132,"This is exactly what I was looking for. Great quality! ?@"">",Positive,chat,2025-04-01,2025-04-01 13:00:35
+F234,CUST1584,Overpriced for the features provided. Not worth it. Issue with technical issues.,Negative,email,2025-08-20,2025-08-20 13:00:35
+F235,CUST1886,Late delivery and damaged packaging. Very upset! ;]|,Negative,chat,2024-10-30,2024-10-30 13:00:35
+F236,CUST5711,This is exactly what I was looking for. Great quality! {?'$ Issue with return process.,Positive,chat,2025-05-11,2025-05-11 13:00:35
+F237,CUST9710,Decent product with room for improvement. :}#),Neutral,review_site,2025-05-13,2025-05-13 13:00:35
+F238,CUST4118,"It's fine, not great but not terrible either. _| Issue with delivery delays.",Neutral,review_site,2025-05-23,2025-05-23 13:00:35
+F239,CUST4589,Product is okay. Nothing special but does the job. Issue with return process.,Neutral,social_media,2025-01-18,2025-01-18 13:00:35
+F240,CUST3269,Impressive features and functionality. Love it!,Positive,review_site,2025-01-30,2025-01-30 13:00:35
+F241,CUST5239,Difficult to use and confusing interface.,Negative,review_site,2024-10-30,2024-10-30 13:00:35
+F242,CUST2512,"It's fine, not great but not terrible either.",Neutral,email,2025-08-29,2025-08-29 13:00:35
+F243,CUST8469,Standard quality. Meets basic expectations. Issue with technical issues.,Neutral,social_media,2025-05-13,2025-05-13 13:00:35
+F244,CUST5493,Terrible experience. Product broke after one day.,Negative,email,2025-07-25,2025-07-25 13:00:35
+F245,CUST7037,Excellent service and fast delivery. Highly recommended! )?,Positive,email,2024-11-03,2024-11-03 13:00:35
+F246,CUST3714,Product is okay. Nothing special but does the job.,Neutral,review_site,2025-06-12,2025-06-12 13:00:35
+F247,CUST1162,Excellent service and fast delivery. Highly recommended!,Positive,chat,2024-12-12,2024-12-12 13:00:35
+F248,CUST6925,Extremely disappointed with the quality. Not recommended.,Negative,review_site,2024-12-02,2024-12-02 13:00:35
+F249,CUST8979,Decent product with room for improvement. $<.,Neutral,email,2025-03-18,2025-03-18 13:00:35
+F250,CUST7485,Impressive features and functionality. Love it!,Positive,review_site,2025-02-07,2025-02-07 13:00:35
+F251,CUST2303,Impressive features and functionality. Love it!,Positive,chat,2025-09-09,2025-09-09 13:00:35
+F252,CUST8513,Fantastic experience overall. Will definitely buy again! Issue with product quality.,Positive,social_media,2025-03-02,2025-03-02 13:00:35
+F253,CUST4484,Decent product with room for improvement. Issue with product quality.,Neutral,chat,2025-06-02,2025-06-02 13:00:35
+F254,CUST6287,Functional but could be better.,Neutral,review_site,2025-10-05,2025-10-05 13:00:35
+F255,CUST2800,This is exactly what I was looking for. Great quality! Issue with pricing.,Positive,chat,2024-12-08,2024-12-08 13:00:35
+F256,CUST4107,Overpriced for the features provided. Not worth it. Issue with product features.,Negative,social_media,2025-09-19,2025-09-19 13:00:35
+F257,CUST6566,Mediocre experience overall. [,Neutral,review_site,2025-03-03,2025-03-03 13:00:35
+F258,CUST2122,User-friendly interface and intuitive design.,Positive,review_site,2025-04-02,2025-04-02 13:00:35
+F259,CUST4047,Difficult to use and confusing interface.,Negative,email,2025-03-18,2025-03-18 13:00:35
+F260,CUST2177,It's alright. Nothing remarkable to mention. /!/?.,Neutral,email,2025-02-19,2025-02-19 13:00:35
+F261,CUST9509,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-08-22,2025-08-22 13:00:35
+F262,CUST5388,Overpriced for the features provided. Not worth it. Issue with return process.,Negative,social_media,2025-08-26,2025-08-26 13:00:35
+F263,CUST4616,Difficult to use and confusing interface.,Negative,email,2025-08-16,2025-08-16 13:00:35
+F264,CUST2199,Impressive features and functionality. Love it! Issue with product availability.,Positive,chat,2025-03-15,2025-03-15 13:00:35
+F265,CUST9417,Functional but could be better. Issue with product availability.,Neutral,review_site,2025-05-03,2025-05-03 13:00:35
+F266,CUST5431,Reliable and durable product. No complaints whatsoever. !>#,Positive,review_site,2025-10-21,2025-10-21 13:00:35
+F267,CUST4075,It's alright. Nothing remarkable to mention.,Neutral,chat,2024-12-15,2024-12-15 13:00:35
+F268,CUST7401,Functional but could be better. {+!$:,Neutral,email,2025-03-28,2025-03-28 13:00:35
+F269,CUST7330,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-09-29,2025-09-29 13:00:35
+F270,CUST3485,Impressive features and functionality. Love it! Issue with customer service.,Positive,social_media,2025-03-22,2025-03-22 13:00:35
+F271,CUST3027,The product exceeded my expectations. Very satisfied! Issue with pricing.,Positive,review_site,2025-08-12,2025-08-12 13:00:35
+F272,CUST1259,Functional but could be better. Issue with delivery delays.,Neutral,social_media,2025-05-31,2025-05-31 13:00:35
+F273,CUST4770,Reliable and durable product. No complaints whatsoever. <&!$,Positive,email,2025-03-22,2025-03-22 13:00:35
+F274,CUST8199,The product exceeded my expectations. Very satisfied! #`\#,Positive,chat,2025-05-04,2025-05-04 13:00:35
+F275,CUST2041,User-friendly interface and intuitive design. Issue with delivery delays.,Positive,review_site,2025-09-20,2025-09-20 13:00:35
+F276,CUST1888,Horrible experience. Will never buy from here again.,Negative,review_site,2025-09-06,2025-09-06 13:00:35
+F277,CUST1334,Overpriced for the features provided. Not worth it.,Negative,review_site,2024-12-12,2024-12-12 13:00:35
+F278,CUST7452,Functional but could be better. Issue with pricing.,Neutral,review_site,2025-06-19,2025-06-19 13:00:35
+F279,CUST4075,Horrible experience. Will never buy from here again.,Negative,email,2024-11-21,2024-11-21 13:00:35
+F280,CUST5063,Overpriced for the features provided. Not worth it.,Negative,email,2025-08-08,2025-08-08 13:00:35
+F281,CUST1437,Terrible experience. Product broke after one day.,Negative,email,2024-11-07,2024-11-07 13:00:35
+F282,CUST7022,Decent product with room for improvement.,Neutral,review_site,2025-01-05,2025-01-05 13:00:35
+F283,CUST4492,Impressive features and functionality. Love it! . Issue with return process.,Positive,review_site,2025-02-23,2025-02-23 13:00:35
+F284,CUST4122,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2025-04-03,2025-04-03 13:00:35
+F285,CUST3145,The product exceeded my expectations. Very satisfied! Issue with pricing.,Positive,email,2025-05-01,2025-05-01 13:00:35
+F286,CUST4408,Late delivery and damaged packaging. Very upset! Issue with technical issues.,Negative,email,2025-01-19,2025-01-19 13:00:35
+F287,CUST1185,Overpriced for the features provided. Not worth it.,Negative,social_media,2025-07-09,2025-07-09 13:00:35
+F288,CUST4323,Acceptable product for the price point.,Neutral,chat,2025-10-19,2025-10-19 13:00:35
+F289,CUST5649,Standard quality. Meets basic expectations.,Neutral,social_media,2025-05-11,2025-05-11 13:00:35
+F290,CUST3462,Acceptable product for the price point. ^/; Issue with pricing.,Neutral,email,2025-10-08,2025-10-08 13:00:35
+F291,CUST9255,Waste of money. Product doesn't work as advertised.,Negative,email,2025-09-17,2025-09-17 13:00:35
+F292,CUST5339,Horrible experience. Will never buy from here again.,Negative,review_site,2025-03-01,2025-03-01 13:00:35
+F293,CUST5060,Excellent service and fast delivery. Highly recommended! {=+ Issue with product features.,Positive,email,2025-04-23,2025-04-23 13:00:35
+F294,CUST3743,Mediocre experience overall. |,Neutral,social_media,2025-10-23,2025-10-23 13:00:35
+F295,CUST7320,Standard quality. Meets basic expectations.,Neutral,social_media,2025-05-16,2025-05-16 13:00:35
+F296,CUST7228,Outstanding customer support. They resolved my issue quickly.,Positive,social_media,2025-02-16,2025-02-16 13:00:35
+F297,CUST6710,Reliable and durable product. No complaints whatsoever. Issue with technical issues.,Positive,email,2025-10-17,2025-10-17 13:00:35
+F298,CUST8406,Satisfactory service. Nothing to complain about.,Neutral,social_media,2025-05-04,2025-05-04 13:00:35
+F299,CUST7481,Product is okay. Nothing special but does the job.,Neutral,email,2024-12-16,2024-12-16 13:00:35
+F300,CUST6769,Overpriced for the features provided. Not worth it.,Negative,social_media,2025-04-03,2025-04-03 13:00:35
+F301,CUST1196,I absolutely love this product! It's amazing and works perfectly. Issue with return process.,Positive,review_site,2024-12-28,2024-12-28 13:00:35
+F302,CUST9656,This is exactly what I was looking for. Great quality! Issue with product quality.,Positive,review_site,2025-07-02,2025-07-02 13:00:35
+F303,CUST9424,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-03-21,2025-03-21 13:00:35
+F304,CUST8448,Mediocre experience overall. Issue with pricing.,Neutral,email,2025-08-07,2025-08-07 13:00:35
+F305,CUST4077,Fantastic experience overall. Will definitely buy again! ?*.>$ Issue with return process.,Positive,chat,2025-04-07,2025-04-07 13:00:35
+F306,CUST3321,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-04-11,2025-04-11 13:00:35
+F307,CUST2053,Outstanding customer support. They resolved my issue quickly. .{&+~,Positive,email,2025-10-01,2025-10-01 13:00:35
+F308,CUST4087,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-10-26,2025-10-26 13:00:35
+F309,CUST7178,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-02-20,2025-02-20 13:00:35
+F310,CUST5500,Waste of money. Product doesn't work as advertised. }][,Negative,review_site,2025-05-10,2025-05-10 13:00:35
+F311,CUST5147,Fantastic experience overall. Will definitely buy again!,Positive,email,2025-09-03,2025-09-03 13:00:35
+F312,CUST1464,This is exactly what I was looking for. Great quality! Issue with product quality.,Positive,chat,2025-01-30,2025-01-30 13:00:35
+F313,CUST3935,Waste of money. Product doesn't work as advertised.,Negative,chat,2025-03-22,2025-03-22 13:00:35
+F314,CUST3798,Extremely disappointed with the quality. Not recommended. @:,Negative,social_media,2024-11-02,2024-11-02 13:00:35
+F315,CUST7000,User-friendly interface and intuitive design. Issue with technical issues.,Positive,chat,2025-09-26,2025-09-26 13:00:35
+F316,CUST3175,Poor customer service. No one responded to my queries.,Negative,chat,2025-10-26,2025-10-26 13:00:35
+F317,CUST8775,Decent product with room for improvement.,Neutral,social_media,2025-08-10,2025-08-10 13:00:35
+F318,CUST9090,"It's fine, not great but not terrible either.",Neutral,email,2024-12-01,2024-12-01 13:00:35
+F319,CUST2704,Average experience. Some good points and some bad.,Neutral,social_media,2024-11-10,2024-11-10 13:00:35
+F320,CUST2157,Acceptable product for the price point.,Neutral,email,2025-10-13,2025-10-13 13:00:35
+F321,CUST6163,Impressive features and functionality. Love it! *\ Issue with technical issues.,Positive,social_media,2024-11-09,2024-11-09 13:00:35
+F322,CUST4206,Great value for money. Worth every penny! Issue with delivery delays.,Positive,email,2025-07-21,2025-07-21 13:00:35
+F323,CUST9992,This is exactly what I was looking for. Great quality! {,Positive,social_media,2024-12-01,2024-12-01 13:00:35
+F324,CUST9258,"Outstanding customer support. They resolved my issue quickly. ,:# Issue with product features.",Positive,email,2025-06-23,2025-06-23 13:00:35
+F325,CUST7647,"Poor customer service. No one responded to my queries. ""@(&^",Negative,review_site,2024-12-03,2024-12-03 13:00:35
+F326,CUST3973,Impressive features and functionality. Love it!,Positive,review_site,2025-07-23,2025-07-23 13:00:35
+F327,CUST2924,Great value for money. Worth every penny!,Positive,review_site,2024-12-03,2024-12-03 13:00:35
+F328,CUST1990,Product stopped working within a week. Poor quality. Issue with product availability.,Negative,email,2025-09-18,2025-09-18 13:00:35
+F329,CUST8784,Late delivery and damaged packaging. Very upset! '`{,Negative,email,2025-06-29,2025-06-29 13:00:35
+F330,CUST3265,"Functional but could be better. ,^|%<",Neutral,chat,2025-05-23,2025-05-23 13:00:35
+F331,CUST8744,Mediocre experience overall. ? Issue with delivery delays.,Neutral,chat,2024-12-04,2024-12-04 13:00:35
+F332,CUST5540,Standard quality. Meets basic expectations. Issue with delivery delays.,Neutral,chat,2025-10-17,2025-10-17 13:00:35
+F333,CUST4552,Acceptable product for the price point. ],Neutral,email,2025-09-26,2025-09-26 13:00:35
+F334,CUST1677,Overpriced for the features provided. Not worth it. !%> Issue with pricing.,Negative,review_site,2025-01-09,2025-01-09 13:00:35
+F335,CUST8813,It's alright. Nothing remarkable to mention. %,Neutral,review_site,2024-12-13,2024-12-13 13:00:35
+F336,CUST2440,The product exceeded my expectations. Very satisfied! Issue with product availability.,Positive,review_site,2025-03-17,2025-03-17 13:00:35
+F337,CUST1089,Reliable and durable product. No complaints whatsoever.,Positive,chat,2025-03-21,2025-03-21 13:00:35
+F338,CUST7189,Horrible experience. Will never buy from here again.,Negative,review_site,2025-10-09,2025-10-09 13:00:35
+F339,CUST3466,Decent product with room for improvement. `= Issue with website navigation.,Neutral,email,2025-08-11,2025-08-11 13:00:35
+F340,CUST9192,This is exactly what I was looking for. Great quality! Issue with pricing.,Positive,email,2025-03-02,2025-03-02 13:00:35
+F341,CUST8825,It's alright. Nothing remarkable to mention.,Neutral,chat,2025-01-26,2025-01-26 13:00:35
+F342,CUST1879,Outstanding customer support. They resolved my issue quickly. ^,Positive,chat,2024-11-06,2024-11-06 13:00:35
+F343,CUST5588,Terrible experience. Product broke after one day. ?^],Negative,chat,2025-08-31,2025-08-31 13:00:35
+F344,CUST2923,Outstanding customer support. They resolved my issue quickly. ^):~,Positive,email,2025-06-19,2025-06-19 13:00:35
+F345,CUST1114,"Fantastic experience overall. Will definitely buy again! +'""*)",Positive,review_site,2024-11-10,2024-11-10 13:00:35
+F346,CUST6190,Great value for money. Worth every penny!,Positive,social_media,2025-04-16,2025-04-16 13:00:35
+F347,CUST5320,Acceptable product for the price point.,Neutral,social_media,2025-02-19,2025-02-19 13:00:35
+F348,CUST5088,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-09-25,2025-09-25 13:00:35
+F349,CUST1008,"It's fine, not great but not terrible either.",Neutral,chat,2025-09-18,2025-09-18 13:00:35
+F350,CUST3967,Outstanding customer support. They resolved my issue quickly.,Positive,chat,2025-05-21,2025-05-21 13:00:35
+F351,CUST4228,Acceptable product for the price point. ]$:|,Neutral,social_media,2025-01-31,2025-01-31 13:00:35
+F352,CUST3382,It's alright. Nothing remarkable to mention.,Neutral,chat,2025-07-30,2025-07-30 13:00:35
+F353,CUST1058,Functional but could be better. : Issue with product features.,Neutral,email,2025-10-17,2025-10-17 13:00:35
+F354,CUST3100,This is exactly what I was looking for. Great quality! Issue with product features.,Positive,chat,2025-10-23,2025-10-23 13:00:35
+F355,CUST7561,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-05-03,2025-05-03 13:00:35
+F356,CUST2937,Product stopped working within a week. Poor quality. +[\,Negative,chat,2024-12-18,2024-12-18 13:00:35
+F357,CUST2460,Poor customer service. No one responded to my queries.,Negative,social_media,2025-06-09,2025-06-09 13:00:35
+F358,CUST5288,Extremely disappointed with the quality. Not recommended. }\@~,Negative,chat,2025-05-01,2025-05-01 13:00:35
+F359,CUST3575,Difficult to use and confusing interface.,Negative,email,2025-01-27,2025-01-27 13:00:35
+F360,CUST4035,Satisfactory service. Nothing to complain about.,Neutral,social_media,2025-07-16,2025-07-16 13:00:35
+F361,CUST2310,"Excellent service and fast delivery. Highly recommended! }["">]",Positive,social_media,2025-08-24,2025-08-24 13:00:35
+F362,CUST9159,Excellent service and fast delivery. Highly recommended!,Positive,social_media,2024-11-13,2024-11-13 13:00:35
+F363,CUST3349,Product is okay. Nothing special but does the job.,Neutral,social_media,2024-11-04,2024-11-04 13:00:35
+F364,CUST2458,Difficult to use and confusing interface. </<\},Negative,email,2025-06-29,2025-06-29 13:00:35
+F365,CUST4542,Frequent crashes and bugs. Needs improvement.,Negative,chat,2025-07-09,2025-07-09 13:00:35
+F366,CUST7687,Mediocre experience overall. Issue with return process.,Neutral,social_media,2025-06-26,2025-06-26 13:00:35
+F367,CUST3011,"It's fine, not great but not terrible either. Issue with customer service.",Neutral,social_media,2024-11-04,2024-11-04 13:00:35
+F368,CUST4847,Satisfactory service. Nothing to complain about. Issue with customer service.,Neutral,email,2025-10-08,2025-10-08 13:00:35
+F369,CUST8116,User-friendly interface and intuitive design. Issue with customer service.,Positive,chat,2025-02-20,2025-02-20 13:00:35
+F370,CUST1770,Mediocre experience overall.,Neutral,chat,2025-05-24,2025-05-24 13:00:35
+F371,CUST1221,Average experience. Some good points and some bad. Issue with product features.,Neutral,email,2024-11-11,2024-11-11 13:00:35
+F372,CUST5298,Product is okay. Nothing special but does the job.,Neutral,review_site,2025-04-05,2025-04-05 13:00:35
+F373,CUST9592,Reliable and durable product. No complaints whatsoever. Issue with product features.,Positive,social_media,2025-04-10,2025-04-10 13:00:35
+F374,CUST9446,Mediocre experience overall.,Neutral,review_site,2025-01-25,2025-01-25 13:00:35
+F375,CUST1793,Great value for money. Worth every penny! Issue with customer service.,Positive,review_site,2025-09-01,2025-09-01 13:00:35
+F376,CUST8794,Outstanding customer support. They resolved my issue quickly. &*?\ Issue with return process.,Positive,review_site,2025-01-31,2025-01-31 13:00:35
+F377,CUST2623,Reliable and durable product. No complaints whatsoever. ;> Issue with website navigation.,Positive,email,2025-07-28,2025-07-28 13:00:35
+F378,CUST4367,Mediocre experience overall. + Issue with product quality.,Neutral,email,2024-11-02,2024-11-02 13:00:35
+F379,CUST7766,Functional but could be better. Issue with product quality.,Neutral,email,2024-11-25,2024-11-25 13:00:35
+F380,CUST3013,Decent product with room for improvement.,Neutral,email,2025-05-06,2025-05-06 13:00:35
+F381,CUST9540,"Outstanding customer support. They resolved my issue quickly. &""=.^ Issue with delivery delays.",Positive,chat,2024-11-13,2024-11-13 13:00:35
+F382,CUST2693,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-05-06,2025-05-06 13:00:35
+F383,CUST1383,Difficult to use and confusing interface.,Negative,review_site,2025-09-01,2025-09-01 13:00:35
+F384,CUST2429,Difficult to use and confusing interface.,Negative,email,2025-10-17,2025-10-17 13:00:35
+F385,CUST5129,Satisfactory service. Nothing to complain about. Issue with customer service.,Neutral,email,2024-11-28,2024-11-28 13:00:35
+F386,CUST9846,Poor customer service. No one responded to my queries. ){=^ Issue with product availability.,Negative,chat,2025-03-21,2025-03-21 13:00:35
+F387,CUST5092,Satisfactory service. Nothing to complain about.,Neutral,email,2025-05-21,2025-05-21 13:00:35
+F388,CUST8653,Waste of money. Product doesn't work as advertised. '.$_# Issue with customer service.,Negative,chat,2025-10-09,2025-10-09 13:00:35
+F389,CUST1309,"It's alright. Nothing remarkable to mention. ""%:",Neutral,review_site,2024-11-01,2024-11-01 13:00:35
+F390,CUST2064,Average experience. Some good points and some bad.,Neutral,social_media,2025-10-15,2025-10-15 13:00:35
+F391,CUST7194,Excellent service and fast delivery. Highly recommended!,Positive,email,2024-12-14,2024-12-14 13:00:35
+F392,CUST9166,Impressive features and functionality. Love it! Issue with technical issues.,Positive,email,2025-07-04,2025-07-04 13:00:35
+F393,CUST2027,Standard quality. Meets basic expectations.,Neutral,chat,2025-10-30,2025-10-30 13:00:35
+F394,CUST2107,Product stopped working within a week. Poor quality.,Negative,review_site,2025-04-06,2025-04-06 13:00:35
+F395,CUST9309,Standard quality. Meets basic expectations.,Neutral,chat,2025-05-16,2025-05-16 13:00:35
+F396,CUST2910,Outstanding customer support. They resolved my issue quickly. % Issue with pricing.,Positive,social_media,2025-05-16,2025-05-16 13:00:35
+F397,CUST8488,Satisfactory service. Nothing to complain about. }'],Neutral,chat,2025-10-16,2025-10-16 13:00:35
+F398,CUST7328,Horrible experience. Will never buy from here again. ?>`?+ Issue with website navigation.,Negative,social_media,2024-12-29,2024-12-29 13:00:35
+F399,CUST5850,Extremely disappointed with the quality. Not recommended.,Negative,social_media,2025-01-13,2025-01-13 13:00:35
+F400,CUST8409,Great value for money. Worth every penny! _;==| Issue with product availability.,Positive,review_site,2025-03-17,2025-03-17 13:00:35
+F401,CUST6898,User-friendly interface and intuitive design. Issue with product features.,Positive,email,2025-01-20,2025-01-20 13:00:35
+F402,CUST3837,Late delivery and damaged packaging. Very upset! ~!?{! Issue with pricing.,Negative,review_site,2024-10-30,2024-10-30 13:00:35
+F403,CUST5209,It's alright. Nothing remarkable to mention. );'+],Neutral,chat,2025-03-27,2025-03-27 13:00:35
+F404,CUST8079,"Great value for money. Worth every penny! ,",Positive,email,2025-01-23,2025-01-23 13:00:35
+F405,CUST7665,"Horrible experience. Will never buy from here again. @~""^",Negative,social_media,2025-04-18,2025-04-18 13:00:35
+F406,CUST8561,Horrible experience. Will never buy from here again. Issue with product features.,Negative,email,2025-05-01,2025-05-01 13:00:35
+F407,CUST4112,Decent product with room for improvement.,Neutral,chat,2025-08-28,2025-08-28 13:00:35
+F408,CUST7388,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-09-05,2025-09-05 13:00:35
+F409,CUST8760,It's alright. Nothing remarkable to mention. Issue with customer service.,Neutral,social_media,2024-12-31,2024-12-31 13:00:35
+F410,CUST9224,Poor customer service. No one responded to my queries.,Negative,chat,2025-03-11,2025-03-11 13:00:35
+F411,CUST2247,Poor customer service. No one responded to my queries.,Negative,chat,2025-10-16,2025-10-16 13:00:35
+F412,CUST8323,Impressive features and functionality. Love it!,Positive,chat,2025-03-14,2025-03-14 13:00:35
+F413,CUST7478,User-friendly interface and intuitive design.,Positive,review_site,2025-09-19,2025-09-19 13:00:35
+F414,CUST4186,Product is okay. Nothing special but does the job.,Neutral,social_media,2025-01-11,2025-01-11 13:00:35
+F415,CUST7916,Extremely disappointed with the quality. Not recommended. Issue with website navigation.,Negative,email,2025-10-27,2025-10-27 13:00:35
+F416,CUST9355,Waste of money. Product doesn't work as advertised.,Negative,social_media,2024-12-09,2024-12-09 13:00:35
+F417,CUST9351,Great value for money. Worth every penny! Issue with product availability.,Positive,chat,2024-11-19,2024-11-19 13:00:35
+F418,CUST3940,Reliable and durable product. No complaints whatsoever. @/: Issue with return process.,Positive,review_site,2025-07-22,2025-07-22 13:00:35
+F419,CUST2570,Average experience. Some good points and some bad. &>?,Neutral,email,2025-01-27,2025-01-27 13:00:35
+F420,CUST9818,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-09-29,2025-09-29 13:00:35
+F421,CUST4568,"Acceptable product for the price point. %,,",Neutral,chat,2025-07-03,2025-07-03 13:00:35
+F422,CUST7352,Terrible experience. Product broke after one day.,Negative,review_site,2025-03-09,2025-03-09 13:00:35
+F423,CUST1527,Functional but could be better.,Neutral,chat,2025-10-03,2025-10-03 13:00:35
+F424,CUST1013,User-friendly interface and intuitive design.,Positive,social_media,2025-01-16,2025-01-16 13:00:35
+F425,CUST9348,Standard quality. Meets basic expectations.,Neutral,review_site,2025-04-09,2025-04-09 13:00:35
+F426,CUST5031,Average experience. Some good points and some bad.,Neutral,review_site,2024-12-25,2024-12-25 13:00:35
+F427,CUST2030,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2024-11-15,2024-11-15 13:00:35
+F428,CUST6673,Mediocre experience overall.,Neutral,chat,2025-02-11,2025-02-11 13:00:35
+F429,CUST4150,Fantastic experience overall. Will definitely buy again! ?}{,Positive,email,2025-07-14,2025-07-14 13:00:35
+F430,CUST7300,Excellent service and fast delivery. Highly recommended! Issue with pricing.,Positive,review_site,2024-12-20,2024-12-20 13:00:35
+F431,CUST6103,Fantastic experience overall. Will definitely buy again! Issue with delivery delays.,Positive,social_media,2024-12-29,2024-12-29 13:00:35
+F432,CUST4426,The product exceeded my expectations. Very satisfied! {{@ Issue with website navigation.,Positive,email,2025-10-13,2025-10-13 13:00:35
+F433,CUST7406,"Fantastic experience overall. Will definitely buy again! |#""@",Positive,social_media,2025-03-10,2025-03-10 13:00:35
+F434,CUST1749,Outstanding customer support. They resolved my issue quickly. Issue with pricing.,Positive,review_site,2025-02-03,2025-02-03 13:00:35
+F435,CUST4305,Functional but could be better. $&[>; Issue with return process.,Neutral,email,2025-09-07,2025-09-07 13:00:35
+F436,CUST5418,I absolutely love this product! It's amazing and works perfectly. Issue with website navigation.,Positive,chat,2025-02-25,2025-02-25 13:00:35
+F437,CUST4915,Great value for money. Worth every penny!,Positive,email,2024-12-27,2024-12-27 13:00:35
+F438,CUST3532,User-friendly interface and intuitive design.,Positive,email,2025-02-27,2025-02-27 13:00:35
+F439,CUST5302,"It's fine, not great but not terrible either.",Neutral,social_media,2025-06-13,2025-06-13 13:00:35
+F440,CUST3589,User-friendly interface and intuitive design. $+& Issue with product quality.,Positive,review_site,2025-07-11,2025-07-11 13:00:35
+F441,CUST8981,Satisfactory service. Nothing to complain about.,Neutral,review_site,2025-10-19,2025-10-19 13:00:35
+F442,CUST5815,I absolutely love this product! It's amazing and works perfectly. /,Positive,social_media,2024-12-10,2024-12-10 13:00:35
+F443,CUST8996,Mediocre experience overall. $%[{} Issue with technical issues.,Neutral,email,2025-10-14,2025-10-14 13:00:35
+F444,CUST9216,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-03-21,2025-03-21 13:00:35
+F445,CUST4070,Mediocre experience overall. *? Issue with customer service.,Neutral,social_media,2025-06-10,2025-06-10 13:00:35
+F446,CUST4626,Functional but could be better. _.} Issue with pricing.,Neutral,email,2025-08-08,2025-08-08 13:00:35
+F447,CUST3638,Excellent service and fast delivery. Highly recommended! $:%,Positive,social_media,2025-10-10,2025-10-10 13:00:35
+F448,CUST8755,Great value for money. Worth every penny!,Positive,review_site,2025-06-26,2025-06-26 13:00:35
+F449,CUST3642,Reliable and durable product. No complaints whatsoever.,Positive,chat,2024-12-18,2024-12-18 13:00:35
+F450,CUST4392,Overpriced for the features provided. Not worth it. Issue with website navigation.,Negative,chat,2025-03-11,2025-03-11 13:00:35
+F451,CUST4886,Acceptable product for the price point. Issue with product features.,Neutral,chat,2025-06-07,2025-06-07 13:00:35
+F452,CUST3067,Impressive features and functionality. Love it!,Positive,chat,2025-04-24,2025-04-24 13:00:35
+F453,CUST1054,Standard quality. Meets basic expectations.,Neutral,review_site,2025-04-06,2025-04-06 13:00:35
+F454,CUST8208,Late delivery and damaged packaging. Very upset!,Negative,chat,2025-03-24,2025-03-24 13:00:35
+F455,CUST1103,Terrible experience. Product broke after one day.,Negative,email,2024-12-04,2024-12-04 13:00:35
+F456,CUST9720,Great value for money. Worth every penny!,Positive,social_media,2025-09-27,2025-09-27 13:00:35
+F457,CUST7233,This is exactly what I was looking for. Great quality!,Positive,email,2025-04-19,2025-04-19 13:00:35
+F458,CUST3871,Decent product with room for improvement. :~$[ Issue with technical issues.,Neutral,chat,2025-08-14,2025-08-14 13:00:35
+F459,CUST5012,Horrible experience. Will never buy from here again. Issue with return process.,Negative,chat,2025-07-04,2025-07-04 13:00:35
+F460,CUST3671,"Reliable and durable product. No complaints whatsoever. =,)",Positive,chat,2025-10-24,2025-10-24 13:00:35
+F461,CUST8482,"Horrible experience. Will never buy from here again. ,",Negative,social_media,2025-08-09,2025-08-09 13:00:35
+F462,CUST7439,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-06-25,2025-06-25 13:00:35
+F463,CUST8056,Mediocre experience overall. Issue with return process.,Neutral,email,2025-01-16,2025-01-16 13:00:35
+F464,CUST4678,Decent product with room for improvement.,Neutral,review_site,2025-08-31,2025-08-31 13:00:35
+F465,CUST4585,Extremely disappointed with the quality. Not recommended.,Negative,email,2024-11-26,2024-11-26 13:00:35
+F466,CUST6751,Frequent crashes and bugs. Needs improvement.,Negative,social_media,2025-07-01,2025-07-01 13:00:35
+F467,CUST5971,User-friendly interface and intuitive design.,Positive,social_media,2025-07-03,2025-07-03 13:00:35
+F468,CUST2642,Poor customer service. No one responded to my queries.,Negative,review_site,2025-09-25,2025-09-25 13:00:35
+F469,CUST1793,"Average experience. Some good points and some bad. *~""",Neutral,social_media,2025-06-02,2025-06-02 13:00:35
+F470,CUST7696,It's alright. Nothing remarkable to mention. Issue with customer service.,Neutral,chat,2025-06-27,2025-06-27 13:00:35
+F471,CUST1840,Terrible experience. Product broke after one day.,Negative,review_site,2025-04-23,2025-04-23 13:00:35
+F472,CUST2970,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-07-26,2025-07-26 13:00:35
+F473,CUST6880,The product exceeded my expectations. Very satisfied! ` Issue with technical issues.,Positive,review_site,2024-12-03,2024-12-03 13:00:35
+F474,CUST4222,Decent product with room for improvement.,Neutral,chat,2025-05-10,2025-05-10 13:00:35
+F475,CUST5128,Product is okay. Nothing special but does the job.,Neutral,chat,2025-08-16,2025-08-16 13:00:35
+F476,CUST9020,Outstanding customer support. They resolved my issue quickly. Issue with product features.,Positive,chat,2024-12-29,2024-12-29 13:00:35
+F477,CUST4616,I absolutely love this product! It's amazing and works perfectly. ;_}^/,Positive,social_media,2025-06-03,2025-06-03 13:00:35
+F478,CUST3175,Fantastic experience overall. Will definitely buy again! +),Positive,email,2025-05-04,2025-05-04 13:00:35
+F479,CUST8919,Standard quality. Meets basic expectations. Issue with customer service.,Neutral,chat,2025-10-10,2025-10-10 13:00:35
+F480,CUST4721,Impressive features and functionality. Love it! Issue with technical issues.,Positive,email,2025-10-01,2025-10-01 13:00:35
+F481,CUST1528,User-friendly interface and intuitive design.,Positive,chat,2025-07-18,2025-07-18 13:00:35
+F482,CUST2295,Terrible experience. Product broke after one day. <,Negative,email,2025-10-09,2025-10-09 13:00:35
+F483,CUST6550,Standard quality. Meets basic expectations.,Neutral,review_site,2025-08-02,2025-08-02 13:00:35
+F484,CUST5024,This is exactly what I was looking for. Great quality! Issue with return process.,Positive,email,2025-09-05,2025-09-05 13:00:35
+F485,CUST7833,Mediocre experience overall. /%% Issue with product features.,Neutral,email,2025-08-03,2025-08-03 13:00:35
+F486,CUST9186,This is exactly what I was looking for. Great quality! Issue with return process.,Positive,review_site,2025-01-09,2025-01-09 13:00:35
+F487,CUST8169,Product is okay. Nothing special but does the job.,Neutral,review_site,2024-11-27,2024-11-27 13:00:35
+F488,CUST9737,Average experience. Some good points and some bad. Issue with product quality.,Neutral,email,2024-12-12,2024-12-12 13:00:35
+F489,CUST6743,Standard quality. Meets basic expectations.,Neutral,social_media,2025-05-30,2025-05-30 13:00:35
+F490,CUST2148,Frequent crashes and bugs. Needs improvement. Issue with product features.,Negative,social_media,2025-05-13,2025-05-13 13:00:35
+F491,CUST4482,Horrible experience. Will never buy from here again. Issue with customer service.,Negative,review_site,2025-10-16,2025-10-16 13:00:35
+F492,CUST4028,This is exactly what I was looking for. Great quality! Issue with delivery delays.,Positive,chat,2025-09-15,2025-09-15 13:00:35
+F493,CUST4683,The product exceeded my expectations. Very satisfied! @[,Positive,chat,2025-08-11,2025-08-11 13:00:35
+F494,CUST8159,Satisfactory service. Nothing to complain about. Issue with return process.,Neutral,email,2025-06-07,2025-06-07 13:00:35
+F495,CUST1456,Mediocre experience overall. Issue with technical issues.,Neutral,email,2025-02-22,2025-02-22 13:00:35
+F496,CUST6261,Poor customer service. No one responded to my queries. !.,Negative,email,2025-03-04,2025-03-04 13:00:35
+F497,CUST6823,Functional but could be better. ( Issue with product features.,Neutral,email,2025-07-19,2025-07-19 13:00:35
+F498,CUST7044,Mediocre experience overall.,Neutral,review_site,2025-01-19,2025-01-19 13:00:35
+F499,CUST1998,Product stopped working within a week. Poor quality.,Negative,review_site,2025-03-22,2025-03-22 13:00:35
+F500,CUST7136,Extremely disappointed with the quality. Not recommended. :(?,Negative,chat,2024-12-08,2024-12-08 13:00:35
+F501,CUST4312,Acceptable product for the price point. Issue with return process.,Neutral,chat,2025-10-08,2025-10-08 13:00:35
+F502,CUST7810,The product exceeded my expectations. Very satisfied! ;<< Issue with return process.,Positive,social_media,2025-09-23,2025-09-23 13:00:35
+F503,CUST8764,It's alright. Nothing remarkable to mention. %~`?[ Issue with product features.,Neutral,social_media,2025-08-28,2025-08-28 13:00:35
+F504,CUST4869,Satisfactory service. Nothing to complain about.,Neutral,chat,2025-03-21,2025-03-21 13:00:35
+F505,CUST3729,Extremely disappointed with the quality. Not recommended.,Negative,email,2024-12-24,2024-12-24 13:00:35
+F506,CUST4910,Functional but could be better. Issue with pricing.,Neutral,email,2025-09-06,2025-09-06 13:00:35
+F507,CUST2266,Extremely disappointed with the quality. Not recommended. Issue with pricing.,Negative,email,2025-03-08,2025-03-08 13:00:35
+F508,CUST5126,Waste of money. Product doesn't work as advertised. Issue with pricing.,Negative,email,2025-06-11,2025-06-11 13:00:35
+F509,CUST1649,Impressive features and functionality. Love it!,Positive,email,2025-03-10,2025-03-10 13:00:35
+F510,CUST3580,The product exceeded my expectations. Very satisfied! Issue with customer service.,Positive,review_site,2025-05-04,2025-05-04 13:00:35
+F511,CUST2408,Poor customer service. No one responded to my queries. Issue with pricing.,Negative,email,2024-12-10,2024-12-10 13:00:35
+F512,CUST5954,This is exactly what I was looking for. Great quality! Issue with customer service.,Positive,review_site,2025-05-21,2025-05-21 13:00:35
+F513,CUST7357,"Mediocre experience overall. [,",Neutral,email,2024-12-15,2024-12-15 13:00:35
+F514,CUST3471,Great value for money. Worth every penny!,Positive,social_media,2025-10-29,2025-10-29 13:00:35
+F515,CUST6717,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2025-06-15,2025-06-15 13:00:35
+F516,CUST6571,Reliable and durable product. No complaints whatsoever.,Positive,chat,2025-05-31,2025-05-31 13:00:35
+F517,CUST5761,Extremely disappointed with the quality. Not recommended.,Negative,social_media,2025-05-22,2025-05-22 13:00:35
+F518,CUST6974,Great value for money. Worth every penny!,Positive,email,2025-01-10,2025-01-10 13:00:35
+F519,CUST7137,I absolutely love this product! It's amazing and works perfectly.,Positive,social_media,2025-10-21,2025-10-21 13:00:35
+F520,CUST9620,Acceptable product for the price point.,Neutral,email,2025-02-18,2025-02-18 13:00:35
+F521,CUST5420,Excellent service and fast delivery. Highly recommended! Issue with product availability.,Positive,review_site,2025-03-08,2025-03-08 13:00:35
+F522,CUST3933,Impressive features and functionality. Love it! |:' Issue with product features.,Positive,email,2024-11-08,2024-11-08 13:00:35
+F523,CUST9956,Extremely disappointed with the quality. Not recommended. Issue with product quality.,Negative,social_media,2025-04-14,2025-04-14 13:00:35
+F524,CUST4153,User-friendly interface and intuitive design.,Positive,chat,2025-06-20,2025-06-20 13:00:35
+F525,CUST4975,This is exactly what I was looking for. Great quality!,Positive,chat,2025-01-16,2025-01-16 13:00:35
+F526,CUST4518,Difficult to use and confusing interface. Issue with customer service.,Negative,social_media,2024-12-23,2024-12-23 13:00:35
+F527,CUST9173,Overpriced for the features provided. Not worth it.,Negative,social_media,2025-01-02,2025-01-02 13:00:35
+F528,CUST2688,Waste of money. Product doesn't work as advertised.,Negative,social_media,2025-08-21,2025-08-21 13:00:35
+F529,CUST7946,Horrible experience. Will never buy from here again. Issue with return process.,Negative,social_media,2025-08-17,2025-08-17 13:00:35
+F530,CUST1443,Poor customer service. No one responded to my queries. /^&?,Negative,chat,2025-05-09,2025-05-09 13:00:35
+F531,CUST7975,Mediocre experience overall.,Neutral,review_site,2025-08-10,2025-08-10 13:00:35
+F532,CUST5458,Product is okay. Nothing special but does the job. \|?:# Issue with product features.,Neutral,review_site,2024-12-23,2024-12-23 13:00:35
+F533,CUST3496,Difficult to use and confusing interface. Issue with delivery delays.,Negative,review_site,2024-12-03,2024-12-03 13:00:35
+F534,CUST9474,Decent product with room for improvement. \:;`,Neutral,email,2025-08-19,2025-08-19 13:00:35
+F535,CUST5120,"It's fine, not great but not terrible either.",Neutral,email,2025-06-15,2025-06-15 13:00:35
+F536,CUST1228,"Waste of money. Product doesn't work as advertised. ""+",Negative,social_media,2024-12-04,2024-12-04 13:00:35
+F537,CUST9606,Great value for money. Worth every penny! \_/]<,Positive,social_media,2025-10-22,2025-10-22 13:00:35
+F538,CUST6424,Horrible experience. Will never buy from here again. {`,Negative,email,2025-08-21,2025-08-21 13:00:35
+F539,CUST2064,Extremely disappointed with the quality. Not recommended. ]?=,Negative,chat,2025-05-01,2025-05-01 13:00:35
+F540,CUST8432,Overpriced for the features provided. Not worth it.,Negative,review_site,2025-09-19,2025-09-19 13:00:35
+F541,CUST3377,Frequent crashes and bugs. Needs improvement. `~?',Negative,review_site,2025-09-03,2025-09-03 13:00:35
+F542,CUST4099,Satisfactory service. Nothing to complain about.,Neutral,email,2025-09-07,2025-09-07 13:00:35
+F543,CUST3127,"This is exactly what I was looking for. Great quality! """,Positive,social_media,2025-06-23,2025-06-23 13:00:35
+F544,CUST7013,Standard quality. Meets basic expectations.,Neutral,social_media,2025-08-28,2025-08-28 13:00:35
+F545,CUST2853,Extremely disappointed with the quality. Not recommended. ^?@,Negative,review_site,2024-11-16,2024-11-16 13:00:35
+F546,CUST2862,Acceptable product for the price point. Issue with product features.,Neutral,chat,2025-02-06,2025-02-06 13:00:35
+F547,CUST9715,Acceptable product for the price point. Issue with product availability.,Neutral,review_site,2025-06-04,2025-06-04 13:00:35
+F548,CUST3513,User-friendly interface and intuitive design. Issue with pricing.,Positive,email,2025-01-10,2025-01-10 13:00:35
+F549,CUST6359,Poor customer service. No one responded to my queries. +>`;|,Negative,review_site,2024-12-15,2024-12-15 13:00:35
+F550,CUST2102,Decent product with room for improvement. $/ Issue with website navigation.,Neutral,chat,2025-08-24,2025-08-24 13:00:35
+F551,CUST3876,Product is okay. Nothing special but does the job.,Neutral,email,2024-10-31,2024-10-31 13:00:35
+F552,CUST5372,Excellent service and fast delivery. Highly recommended! Issue with product quality.,Positive,review_site,2025-07-04,2025-07-04 13:00:35
+F553,CUST9017,"Waste of money. Product doesn't work as advertised. ""{;[~ Issue with delivery delays.",Negative,email,2025-09-28,2025-09-28 13:00:35
+F554,CUST1123,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-06-08,2025-06-08 13:00:35
+F555,CUST4731,"It's fine, not great but not terrible either. ]*;[",Neutral,social_media,2025-08-13,2025-08-13 13:00:35
+F556,CUST7326,Outstanding customer support. They resolved my issue quickly. {:(,Positive,chat,2025-02-27,2025-02-27 13:00:35
+F557,CUST1910,Terrible experience. Product broke after one day. Issue with product features.,Negative,social_media,2024-12-18,2024-12-18 13:00:35
+F558,CUST2379,Frequent crashes and bugs. Needs improvement. # Issue with product features.,Negative,chat,2025-05-03,2025-05-03 13:00:35
+F559,CUST3023,Outstanding customer support. They resolved my issue quickly. ?;$#,Positive,chat,2025-08-15,2025-08-15 13:00:35
+F560,CUST4768,"It's fine, not great but not terrible either. Issue with product quality.",Neutral,email,2025-01-05,2025-01-05 13:00:35
+F561,CUST6152,"The product exceeded my expectations. Very satisfied! ,]$~",Positive,review_site,2025-10-01,2025-10-01 13:00:35
+F562,CUST4061,Average experience. Some good points and some bad. Issue with return process.,Neutral,social_media,2025-05-11,2025-05-11 13:00:35
+F563,CUST7097,Decent product with room for improvement. '{<,Neutral,social_media,2025-05-05,2025-05-05 13:00:35
+F564,CUST5531,Excellent service and fast delivery. Highly recommended! ] Issue with pricing.,Positive,chat,2025-02-03,2025-02-03 13:00:35
+F565,CUST2580,Difficult to use and confusing interface.,Negative,chat,2025-05-09,2025-05-09 13:00:35
+F566,CUST9831,This is exactly what I was looking for. Great quality! }~,Positive,review_site,2025-04-20,2025-04-20 13:00:35
+F567,CUST2827,Acceptable product for the price point.,Neutral,chat,2025-08-20,2025-08-20 13:00:35
+F568,CUST6599,Late delivery and damaged packaging. Very upset! Issue with delivery delays.,Negative,review_site,2025-03-28,2025-03-28 13:00:35
+F569,CUST8449,Outstanding customer support. They resolved my issue quickly. >>&,Positive,social_media,2025-07-01,2025-07-01 13:00:35
+F570,CUST1677,Outstanding customer support. They resolved my issue quickly. };%?\,Positive,social_media,2025-05-02,2025-05-02 13:00:35
+F571,CUST8148,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-07-26,2025-07-26 13:00:35
+F572,CUST2021,Functional but could be better. Issue with product quality.,Neutral,social_media,2025-04-08,2025-04-08 13:00:35
+F573,CUST8311,Standard quality. Meets basic expectations. Issue with pricing.,Neutral,email,2025-05-23,2025-05-23 13:00:35
+F574,CUST3550,Extremely disappointed with the quality. Not recommended.,Negative,chat,2025-02-17,2025-02-17 13:00:35
+F575,CUST4839,Terrible experience. Product broke after one day.,Negative,review_site,2025-06-25,2025-06-25 13:00:35
+F576,CUST3971,Poor customer service. No one responded to my queries. Issue with website navigation.,Negative,review_site,2025-01-24,2025-01-24 13:00:35
+F577,CUST8767,This is exactly what I was looking for. Great quality!,Positive,chat,2025-05-11,2025-05-11 13:00:35
+F578,CUST4282,Reliable and durable product. No complaints whatsoever. Issue with product quality.,Positive,social_media,2025-05-08,2025-05-08 13:00:35
+F579,CUST5958,Reliable and durable product. No complaints whatsoever. Issue with technical issues.,Positive,chat,2025-01-18,2025-01-18 13:00:35
+F580,CUST6375,Functional but could be better. {?{#%,Neutral,review_site,2025-07-28,2025-07-28 13:00:35
+F581,CUST2694,"It's fine, not great but not terrible either. }'$~",Neutral,chat,2025-04-10,2025-04-10 13:00:35
+F582,CUST9209,Overpriced for the features provided. Not worth it. Issue with product quality.,Negative,review_site,2025-07-27,2025-07-27 13:00:35
+F583,CUST1954,"Frequent crashes and bugs. Needs improvement. .!,",Negative,social_media,2025-02-10,2025-02-10 13:00:35
+F584,CUST7229,User-friendly interface and intuitive design.,Positive,social_media,2025-06-07,2025-06-07 13:00:35
+F585,CUST5890,"It's fine, not great but not terrible either. ,;",Neutral,email,2025-04-18,2025-04-18 13:00:35
+F586,CUST5185,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-01-05,2025-01-05 13:00:35
+F587,CUST7609,Functional but could be better. Issue with technical issues.,Neutral,email,2025-02-26,2025-02-26 13:00:35
+F588,CUST8062,Outstanding customer support. They resolved my issue quickly.,Positive,social_media,2025-06-15,2025-06-15 13:00:35
+F589,CUST8915,User-friendly interface and intuitive design. Issue with website navigation.,Positive,chat,2025-06-24,2025-06-24 13:00:35
+F590,CUST5577,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-07-27,2025-07-27 13:00:35
+F591,CUST2982,This is exactly what I was looking for. Great quality! :. Issue with return process.,Positive,email,2025-08-20,2025-08-20 13:00:35
+F592,CUST4693,Mediocre experience overall. :~| Issue with website navigation.,Neutral,social_media,2025-07-17,2025-07-17 13:00:35
+F593,CUST9865,I absolutely love this product! It's amazing and works perfectly.,Positive,email,2025-10-07,2025-10-07 13:00:35
+F594,CUST2610,Standard quality. Meets basic expectations.,Neutral,chat,2025-06-09,2025-06-09 13:00:35
+F595,CUST2893,Outstanding customer support. They resolved my issue quickly.,Positive,chat,2025-02-03,2025-02-03 13:00:35
+F596,CUST1550,Product stopped working within a week. Poor quality. ^ Issue with product availability.,Negative,email,2025-01-03,2025-01-03 13:00:35
+F597,CUST6282,Acceptable product for the price point. Issue with product quality.,Neutral,email,2025-04-05,2025-04-05 13:00:35
+F598,CUST7485,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-03-20,2025-03-20 13:00:35
+F599,CUST2878,Terrible experience. Product broke after one day.,Negative,chat,2025-01-17,2025-01-17 13:00:35
+F600,CUST5645,Outstanding customer support. They resolved my issue quickly. Issue with product availability.,Positive,social_media,2025-10-06,2025-10-06 13:00:35
+F601,CUST7272,Product is okay. Nothing special but does the job.,Neutral,email,2025-04-01,2025-04-01 13:00:35
+F602,CUST7527,The product exceeded my expectations. Very satisfied! [` Issue with delivery delays.,Positive,chat,2025-07-24,2025-07-24 13:00:35
+F603,CUST4010,Frequent crashes and bugs. Needs improvement. ?*{>,Negative,social_media,2025-07-14,2025-07-14 13:00:35
+F604,CUST2266,Average experience. Some good points and some bad.,Neutral,chat,2025-08-11,2025-08-11 13:00:35
+F605,CUST4574,Standard quality. Meets basic expectations.,Neutral,chat,2025-08-05,2025-08-05 13:00:35
+F606,CUST7835,Product stopped working within a week. Poor quality.,Negative,review_site,2024-11-15,2024-11-15 13:00:35
+F607,CUST2311,Difficult to use and confusing interface.,Negative,social_media,2025-03-20,2025-03-20 13:00:35
+F608,CUST4558,Difficult to use and confusing interface. Issue with product features.,Negative,chat,2025-10-25,2025-10-25 13:00:35
+F609,CUST7451,Outstanding customer support. They resolved my issue quickly. Issue with customer service.,Positive,chat,2024-12-22,2024-12-22 13:00:35
+F610,CUST2027,"Excellent service and fast delivery. Highly recommended! _::&""",Positive,chat,2025-04-02,2025-04-02 13:00:35
+F611,CUST2051,Overpriced for the features provided. Not worth it. )' Issue with technical issues.,Negative,chat,2024-11-13,2024-11-13 13:00:35
+F612,CUST2001,Excellent service and fast delivery. Highly recommended! Issue with product quality.,Positive,email,2025-10-20,2025-10-20 13:00:35
+F613,CUST3353,Reliable and durable product. No complaints whatsoever. Issue with return process.,Positive,chat,2025-10-01,2025-10-01 13:00:35
+F614,CUST3752,Standard quality. Meets basic expectations. Issue with pricing.,Neutral,email,2025-02-19,2025-02-19 13:00:35
+F615,CUST7604,Impressive features and functionality. Love it!,Positive,chat,2025-09-18,2025-09-18 13:00:35
+F616,CUST5082,"Poor customer service. No one responded to my queries. #.,",Negative,review_site,2025-05-08,2025-05-08 13:00:35
+F617,CUST9526,Terrible experience. Product broke after one day.,Negative,email,2025-01-02,2025-01-02 13:00:35
+F618,CUST9679,Difficult to use and confusing interface.,Negative,social_media,2025-03-23,2025-03-23 13:00:35
+F619,CUST5697,Overpriced for the features provided. Not worth it. &])\,Negative,social_media,2024-11-08,2024-11-08 13:00:35
+F620,CUST5028,This is exactly what I was looking for. Great quality! Issue with return process.,Positive,email,2024-11-12,2024-11-12 13:00:35
+F621,CUST1687,This is exactly what I was looking for. Great quality!,Positive,email,2025-08-11,2025-08-11 13:00:35
+F622,CUST4391,Great value for money. Worth every penny! Issue with customer service.,Positive,social_media,2025-05-14,2025-05-14 13:00:35
+F623,CUST9382,Product stopped working within a week. Poor quality.,Negative,email,2024-11-07,2024-11-07 13:00:35
+F624,CUST7679,This is exactly what I was looking for. Great quality! Issue with product quality.,Positive,social_media,2025-01-10,2025-01-10 13:00:35
+F625,CUST5341,Great value for money. Worth every penny! ~<,Positive,review_site,2025-01-03,2025-01-03 13:00:35
+F626,CUST7128,Product is okay. Nothing special but does the job. Issue with product availability.,Neutral,review_site,2025-07-02,2025-07-02 13:00:35
+F627,CUST1589,"Acceptable product for the price point. ""# Issue with website navigation.",Neutral,chat,2025-08-05,2025-08-05 13:00:35
+F628,CUST6559,"It's fine, not great but not terrible either. Issue with product features.",Neutral,email,2025-08-19,2025-08-19 13:00:35
+F629,CUST3365,Product is okay. Nothing special but does the job. `&%`],Neutral,email,2025-02-15,2025-02-15 13:00:35
+F630,CUST9660,This is exactly what I was looking for. Great quality! Issue with website navigation.,Positive,review_site,2025-03-27,2025-03-27 13:00:35
+F631,CUST1414,This is exactly what I was looking for. Great quality!,Positive,email,2025-08-17,2025-08-17 13:00:35
+F632,CUST3701,Impressive features and functionality. Love it! Issue with return process.,Positive,review_site,2025-08-16,2025-08-16 13:00:35
+F633,CUST2881,Terrible experience. Product broke after one day. Issue with pricing.,Negative,review_site,2025-05-15,2025-05-15 13:00:35
+F634,CUST2710,Fantastic experience overall. Will definitely buy again!,Positive,review_site,2025-10-29,2025-10-29 13:00:35
+F635,CUST1735,"Waste of money. Product doesn't work as advertised. ""_/",Negative,social_media,2024-12-30,2024-12-30 13:00:35
+F636,CUST5584,Difficult to use and confusing interface. !\ Issue with website navigation.,Negative,social_media,2025-09-17,2025-09-17 13:00:35
+F637,CUST3465,Fantastic experience overall. Will definitely buy again! ?,Positive,social_media,2025-03-15,2025-03-15 13:00:35
+F638,CUST8260,Average experience. Some good points and some bad. ?,Neutral,social_media,2025-01-28,2025-01-28 13:00:35
+F639,CUST6183,Acceptable product for the price point. Issue with customer service.,Neutral,email,2025-06-04,2025-06-04 13:00:35
+F640,CUST3598,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-10-07,2025-10-07 13:00:35
+F641,CUST2207,Standard quality. Meets basic expectations.,Neutral,social_media,2025-09-10,2025-09-10 13:00:35
+F642,CUST7153,"It's fine, not great but not terrible either. }+}",Neutral,social_media,2024-11-28,2024-11-28 13:00:35
+F643,CUST5992,"Mediocre experience overall. ^;"" Issue with delivery delays.",Neutral,review_site,2024-11-16,2024-11-16 13:00:35
+F644,CUST3481,"Extremely disappointed with the quality. Not recommended. >%""",Negative,chat,2025-07-16,2025-07-16 13:00:35
+F645,CUST5388,I absolutely love this product! It's amazing and works perfectly. Issue with technical issues.,Positive,review_site,2025-05-06,2025-05-06 13:00:35
+F646,CUST4571,Product stopped working within a week. Poor quality. ++=.| Issue with customer service.,Negative,social_media,2025-10-01,2025-10-01 13:00:35
+F647,CUST8879,Extremely disappointed with the quality. Not recommended. Issue with delivery delays.,Negative,chat,2024-12-07,2024-12-07 13:00:35
+F648,CUST9111,Average experience. Some good points and some bad.,Neutral,chat,2025-06-14,2025-06-14 13:00:35
+F649,CUST3838,Mediocre experience overall. Issue with pricing.,Neutral,review_site,2025-07-28,2025-07-28 13:00:35
+F650,CUST1958,Waste of money. Product doesn't work as advertised. +; Issue with technical issues.,Negative,social_media,2024-12-02,2024-12-02 13:00:35
+F651,CUST3593,Functional but could be better.,Neutral,review_site,2025-10-06,2025-10-06 13:00:35
+F652,CUST3466,Extremely disappointed with the quality. Not recommended. <!@=,Negative,review_site,2025-06-14,2025-06-14 13:00:35
+F653,CUST9525,The product exceeded my expectations. Very satisfied!,Positive,chat,2025-05-30,2025-05-30 13:00:35
+F654,CUST7633,Late delivery and damaged packaging. Very upset! <~(,Negative,email,2025-08-11,2025-08-11 13:00:35
+F655,CUST3593,Product is okay. Nothing special but does the job.,Neutral,review_site,2024-11-08,2024-11-08 13:00:35
+F656,CUST9954,Frequent crashes and bugs. Needs improvement. Issue with product quality.,Negative,email,2025-04-27,2025-04-27 13:00:35
+F657,CUST7052,"Late delivery and damaged packaging. Very upset! '^{\"" Issue with customer service.",Negative,chat,2025-08-08,2025-08-08 13:00:35
+F658,CUST2448,Extremely disappointed with the quality. Not recommended.,Negative,chat,2025-09-16,2025-09-16 13:00:35
+F659,CUST7322,Outstanding customer support. They resolved my issue quickly. Issue with customer service.,Positive,email,2025-09-04,2025-09-04 13:00:35
+F660,CUST7524,Great value for money. Worth every penny!,Positive,social_media,2025-06-26,2025-06-26 13:00:35
+F661,CUST8309,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2025-08-26,2025-08-26 13:00:35
+F662,CUST3464,"Extremely disappointed with the quality. Not recommended. <,+ Issue with product availability.",Negative,email,2025-03-16,2025-03-16 13:00:35
+F663,CUST1832,Reliable and durable product. No complaints whatsoever. ~#*#@,Positive,chat,2024-12-15,2024-12-15 13:00:35
+F664,CUST3379,Outstanding customer support. They resolved my issue quickly. !!(,Positive,chat,2025-03-05,2025-03-05 13:00:35
+F665,CUST5806,Acceptable product for the price point.,Neutral,chat,2025-05-21,2025-05-21 13:00:35
+F666,CUST8901,User-friendly interface and intuitive design.,Positive,review_site,2025-03-20,2025-03-20 13:00:35
+F667,CUST6747,I absolutely love this product! It's amazing and works perfectly.,Positive,social_media,2024-11-18,2024-11-18 13:00:35
+F668,CUST1259,Product is okay. Nothing special but does the job. Issue with delivery delays.,Neutral,review_site,2025-08-10,2025-08-10 13:00:35
+F669,CUST7916,I absolutely love this product! It's amazing and works perfectly. ',Positive,email,2025-02-10,2025-02-10 13:00:35
+F670,CUST4276,Product is okay. Nothing special but does the job.,Neutral,chat,2025-08-10,2025-08-10 13:00:35
+F671,CUST1530,This is exactly what I was looking for. Great quality! /()> Issue with technical issues.,Positive,review_site,2025-05-14,2025-05-14 13:00:35
+F672,CUST6177,Average experience. Some good points and some bad. Issue with return process.,Neutral,social_media,2025-09-16,2025-09-16 13:00:35
+F673,CUST5303,Extremely disappointed with the quality. Not recommended. Issue with product quality.,Negative,email,2025-04-18,2025-04-18 13:00:35
+F674,CUST7463,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-07-05,2025-07-05 13:00:35
+F675,CUST9637,Poor customer service. No one responded to my queries. #?,Negative,social_media,2024-11-04,2024-11-04 13:00:35
+F676,CUST5865,Waste of money. Product doesn't work as advertised. Issue with customer service.,Negative,social_media,2025-10-05,2025-10-05 13:00:35
+F677,CUST2786,Outstanding customer support. They resolved my issue quickly. Issue with product quality.,Positive,social_media,2025-09-21,2025-09-21 13:00:35
+F678,CUST1951,Average experience. Some good points and some bad.,Neutral,review_site,2025-02-28,2025-02-28 13:00:35
+F679,CUST3007,Horrible experience. Will never buy from here again. +#[ Issue with website navigation.,Negative,chat,2024-11-11,2024-11-11 13:00:35
+F680,CUST7454,Extremely disappointed with the quality. Not recommended.,Negative,email,2024-10-31,2024-10-31 13:00:35
+F681,CUST8714,Satisfactory service. Nothing to complain about. ;+$,Neutral,chat,2024-11-14,2024-11-14 13:00:35
+F682,CUST6047,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2025-03-24,2025-03-24 13:00:35
+F683,CUST1344,Late delivery and damaged packaging. Very upset! Issue with product quality.,Negative,email,2025-01-08,2025-01-08 13:00:35
+F684,CUST2713,Poor customer service. No one responded to my queries. Issue with return process.,Negative,social_media,2025-08-14,2025-08-14 13:00:35
+F685,CUST9533,Decent product with room for improvement.,Neutral,social_media,2025-09-16,2025-09-16 13:00:35
+F686,CUST9597,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-09-01,2025-09-01 13:00:35
+F687,CUST3764,Impressive features and functionality. Love it! %^#,Positive,chat,2025-01-29,2025-01-29 13:00:35
+F688,CUST6999,"Difficult to use and confusing interface. |&""' Issue with website navigation.",Negative,chat,2024-11-12,2024-11-12 13:00:35
+F689,CUST2642,Extremely disappointed with the quality. Not recommended.,Negative,social_media,2025-07-11,2025-07-11 13:00:35
+F690,CUST3754,"Poor customer service. No one responded to my queries. ,$>_",Negative,email,2025-06-29,2025-06-29 13:00:35
+F691,CUST9767,I absolutely love this product! It's amazing and works perfectly. *$+~`,Positive,social_media,2025-08-18,2025-08-18 13:00:35
+F692,CUST1193,Waste of money. Product doesn't work as advertised.,Negative,chat,2025-01-06,2025-01-06 13:00:35
+F693,CUST4116,User-friendly interface and intuitive design. ~_~,Positive,review_site,2024-10-30,2024-10-30 13:00:35
+F694,CUST6224,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-05-14,2025-05-14 13:00:35
+F695,CUST7098,Impressive features and functionality. Love it! `/>,Positive,review_site,2025-03-04,2025-03-04 13:00:35
+F696,CUST3812,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-08-17,2025-08-17 13:00:35
+F697,CUST8762,Mediocre experience overall.,Neutral,email,2025-01-23,2025-01-23 13:00:35
+F698,CUST6777,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2025-04-14,2025-04-14 13:00:35
+F699,CUST4970,"Outstanding customer support. They resolved my issue quickly. )$?,.",Positive,review_site,2025-05-19,2025-05-19 13:00:35
+F700,CUST1732,Late delivery and damaged packaging. Very upset! Issue with customer service.,Negative,social_media,2025-09-10,2025-09-10 13:00:35
+F701,CUST2725,Product is okay. Nothing special but does the job. Issue with product features.,Neutral,review_site,2024-12-23,2024-12-23 13:00:35
+F702,CUST9431,I absolutely love this product! It's amazing and works perfectly. {,Positive,chat,2024-12-07,2024-12-07 13:00:35
+F703,CUST4990,Great value for money. Worth every penny! Issue with website navigation.,Positive,chat,2025-05-23,2025-05-23 13:00:35
+F704,CUST9016,Product is okay. Nothing special but does the job.,Neutral,chat,2025-10-19,2025-10-19 13:00:35
+F705,CUST3102,Late delivery and damaged packaging. Very upset! ^&>$ Issue with product features.,Negative,email,2025-06-07,2025-06-07 13:00:35
+F706,CUST3736,Product is okay. Nothing special but does the job.,Neutral,chat,2025-09-13,2025-09-13 13:00:35
+F707,CUST6640,Poor customer service. No one responded to my queries. *};( Issue with website navigation.,Negative,email,2025-02-14,2025-02-14 13:00:35
+F708,CUST1075,Reliable and durable product. No complaints whatsoever.,Positive,email,2025-03-01,2025-03-01 13:00:35
+F709,CUST1921,Difficult to use and confusing interface. ?<:%$ Issue with product features.,Negative,chat,2025-03-28,2025-03-28 13:00:35
+F710,CUST9915,Average experience. Some good points and some bad.,Neutral,chat,2025-02-18,2025-02-18 13:00:35
+F711,CUST9275,Excellent service and fast delivery. Highly recommended! Issue with pricing.,Positive,chat,2024-11-11,2024-11-11 13:00:35
+F712,CUST4843,Terrible experience. Product broke after one day. ?=:|} Issue with product features.,Negative,social_media,2025-02-24,2025-02-24 13:00:35
+F713,CUST6737,User-friendly interface and intuitive design. Issue with return process.,Positive,social_media,2025-07-25,2025-07-25 13:00:35
+F714,CUST6361,Difficult to use and confusing interface.,Negative,social_media,2025-10-27,2025-10-27 13:00:35
+F715,CUST3700,Product stopped working within a week. Poor quality.,Negative,social_media,2025-08-10,2025-08-10 13:00:35
+F716,CUST6361,Fantastic experience overall. Will definitely buy again! Issue with product features.,Positive,email,2025-03-02,2025-03-02 13:00:35
+F717,CUST9172,"It's fine, not great but not terrible either. ',+[",Neutral,review_site,2025-01-27,2025-01-27 13:00:35
+F718,CUST8216,I absolutely love this product! It's amazing and works perfectly. Issue with technical issues.,Positive,social_media,2025-05-17,2025-05-17 13:00:35
+F719,CUST1348,"It's fine, not great but not terrible either.",Neutral,social_media,2025-03-03,2025-03-03 13:00:35
+F720,CUST9342,Mediocre experience overall.,Neutral,email,2025-07-05,2025-07-05 13:00:35
+F721,CUST2469,Waste of money. Product doesn't work as advertised.,Negative,social_media,2024-12-31,2024-12-31 13:00:35
+F722,CUST2576,Impressive features and functionality. Love it! Issue with technical issues.,Positive,social_media,2025-09-13,2025-09-13 13:00:35
+F723,CUST3845,Difficult to use and confusing interface. Issue with product quality.,Negative,chat,2025-06-09,2025-06-09 13:00:35
+F724,CUST2573,Satisfactory service. Nothing to complain about. _?.,Neutral,review_site,2025-05-27,2025-05-27 13:00:35
+F725,CUST4098,Product is okay. Nothing special but does the job.,Neutral,email,2024-12-02,2024-12-02 13:00:35
+F726,CUST4623,Impressive features and functionality. Love it!,Positive,email,2025-02-08,2025-02-08 13:00:35
+F727,CUST8042,Horrible experience. Will never buy from here again.,Negative,chat,2025-07-12,2025-07-12 13:00:35
+F728,CUST5120,Terrible experience. Product broke after one day.,Negative,review_site,2025-04-21,2025-04-21 13:00:35
+F729,CUST5069,Product stopped working within a week. Poor quality. Issue with return process.,Negative,chat,2025-08-21,2025-08-21 13:00:35
+F730,CUST3874,Acceptable product for the price point. Issue with customer service.,Neutral,social_media,2025-08-10,2025-08-10 13:00:35
+F731,CUST2000,Average experience. Some good points and some bad.,Neutral,review_site,2024-11-23,2024-11-23 13:00:35
+F732,CUST8555,It's alright. Nothing remarkable to mention.,Neutral,social_media,2025-01-19,2025-01-19 13:00:35
+F733,CUST3102,Horrible experience. Will never buy from here again. Issue with pricing.,Negative,social_media,2024-12-06,2024-12-06 13:00:35
+F734,CUST5245,Difficult to use and confusing interface. ~} Issue with delivery delays.,Negative,chat,2025-01-31,2025-01-31 13:00:35
+F735,CUST3280,"This is exactly what I was looking for. Great quality! >{,?~ Issue with product quality.",Positive,social_media,2025-06-08,2025-06-08 13:00:35
+F736,CUST9491,User-friendly interface and intuitive design. Issue with return process.,Positive,social_media,2025-01-09,2025-01-09 13:00:35
+F737,CUST7519,Difficult to use and confusing interface.,Negative,review_site,2025-03-31,2025-03-31 13:00:35
+F738,CUST2090,Average experience. Some good points and some bad. Issue with website navigation.,Neutral,chat,2025-05-17,2025-05-17 13:00:35
+F739,CUST4143,"It's fine, not great but not terrible either. "">",Neutral,review_site,2025-01-06,2025-01-06 13:00:35
+F740,CUST4020,Poor customer service. No one responded to my queries. {;\; Issue with website navigation.,Negative,email,2025-01-23,2025-01-23 13:00:35
+F741,CUST8593,"The product exceeded my expectations. Very satisfied! ]""@%(",Positive,review_site,2024-11-02,2024-11-02 13:00:35
+F742,CUST7440,Impressive features and functionality. Love it! Issue with product features.,Positive,social_media,2025-10-10,2025-10-10 13:00:35
+F743,CUST6246,"It's fine, not great but not terrible either. Issue with product availability.",Neutral,email,2024-11-10,2024-11-10 13:00:35
+F744,CUST7258,"It's fine, not great but not terrible either.",Neutral,chat,2025-02-01,2025-02-01 13:00:35
+F745,CUST7689,Poor customer service. No one responded to my queries.,Negative,email,2025-05-11,2025-05-11 13:00:35
+F746,CUST1272,"Product stopped working within a week. Poor quality. .,/ Issue with delivery delays.",Negative,chat,2025-06-02,2025-06-02 13:00:35
+F747,CUST7601,Extremely disappointed with the quality. Not recommended. _]?@,Negative,chat,2024-11-21,2024-11-21 13:00:35
+F748,CUST6746,Outstanding customer support. They resolved my issue quickly. Issue with customer service.,Positive,email,2024-11-07,2024-11-07 13:00:35
+F749,CUST1108,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-08-29,2025-08-29 13:00:35
+F750,CUST2374,Standard quality. Meets basic expectations.,Neutral,chat,2025-01-10,2025-01-10 13:00:35
+F751,CUST1621,Overpriced for the features provided. Not worth it. Issue with website navigation.,Negative,review_site,2025-04-04,2025-04-04 13:00:35
+F752,CUST8903,Poor customer service. No one responded to my queries. ?\?`,Negative,review_site,2025-06-28,2025-06-28 13:00:35
+F753,CUST1818,Standard quality. Meets basic expectations.,Neutral,chat,2025-01-28,2025-01-28 13:00:35
+F754,CUST6582,This is exactly what I was looking for. Great quality!,Positive,email,2025-03-09,2025-03-09 13:00:35
+F755,CUST6995,Average experience. Some good points and some bad.,Neutral,chat,2025-01-05,2025-01-05 13:00:35
+F756,CUST6052,Extremely disappointed with the quality. Not recommended.,Negative,review_site,2025-04-22,2025-04-22 13:00:35
+F757,CUST3014,It's alright. Nothing remarkable to mention.,Neutral,email,2025-04-26,2025-04-26 13:00:35
+F758,CUST7295,Standard quality. Meets basic expectations.,Neutral,review_site,2025-07-29,2025-07-29 13:00:35
+F759,CUST9747,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-03-07,2025-03-07 13:00:35
+F760,CUST8817,"Outstanding customer support. They resolved my issue quickly. /""!",Positive,review_site,2024-11-08,2024-11-08 13:00:35
+F761,CUST9902,Standard quality. Meets basic expectations. \ Issue with product availability.,Neutral,social_media,2024-12-30,2024-12-30 13:00:35
+F762,CUST8968,Fantastic experience overall. Will definitely buy again!,Positive,email,2025-03-05,2025-03-05 13:00:35
+F763,CUST8754,Reliable and durable product. No complaints whatsoever. {,Positive,review_site,2025-04-20,2025-04-20 13:00:35
+F764,CUST8029,Mediocre experience overall. ',Neutral,social_media,2025-03-15,2025-03-15 13:00:35
+F765,CUST9000,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-09-26,2025-09-26 13:00:35
+F766,CUST5824,Reliable and durable product. No complaints whatsoever. Issue with website navigation.,Positive,email,2024-11-11,2024-11-11 13:00:35
+F767,CUST6392,Acceptable product for the price point. Issue with product availability.,Neutral,social_media,2025-10-21,2025-10-21 13:00:35
+F768,CUST9489,Late delivery and damaged packaging. Very upset! Issue with return process.,Negative,chat,2025-08-22,2025-08-22 13:00:35
+F769,CUST3670,Satisfactory service. Nothing to complain about. Issue with return process.,Neutral,review_site,2024-12-02,2024-12-02 13:00:35
+F770,CUST4405,"Excellent service and fast delivery. Highly recommended! ]""+",Positive,chat,2024-12-26,2024-12-26 13:00:35
+F771,CUST6880,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-03-11,2025-03-11 13:00:35
+F772,CUST3389,Extremely disappointed with the quality. Not recommended.,Negative,review_site,2025-03-21,2025-03-21 13:00:35
+F773,CUST4267,Product stopped working within a week. Poor quality. Issue with return process.,Negative,chat,2024-12-21,2024-12-21 13:00:35
+F774,CUST8653,"It's fine, not great but not terrible either. _?$% Issue with product availability.",Neutral,email,2025-01-07,2025-01-07 13:00:35
+F775,CUST4911,Poor customer service. No one responded to my queries. [(,Negative,review_site,2025-01-29,2025-01-29 13:00:35
+F776,CUST9565,User-friendly interface and intuitive design. $,Positive,email,2025-02-21,2025-02-21 13:00:35
+F777,CUST7282,Terrible experience. Product broke after one day.,Negative,social_media,2024-11-16,2024-11-16 13:00:35
+F778,CUST1789,Difficult to use and confusing interface. \@[ Issue with pricing.,Negative,email,2025-01-19,2025-01-19 13:00:35
+F779,CUST8866,Product is okay. Nothing special but does the job.,Neutral,review_site,2025-03-04,2025-03-04 13:00:35
+F780,CUST1812,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-06-04,2025-06-04 13:00:35
+F781,CUST9474,It's alright. Nothing remarkable to mention. Issue with pricing.,Neutral,social_media,2025-07-07,2025-07-07 13:00:35
+F782,CUST6381,Great value for money. Worth every penny! Issue with technical issues.,Positive,chat,2025-02-22,2025-02-22 13:00:35
+F783,CUST9717,Terrible experience. Product broke after one day.,Negative,social_media,2024-11-28,2024-11-28 13:00:35
+F784,CUST8898,Frequent crashes and bugs. Needs improvement. Issue with product availability.,Negative,email,2025-05-17,2025-05-17 13:00:35
+F785,CUST5596,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-02-11,2025-02-11 13:00:35
+F786,CUST1350,Impressive features and functionality. Love it!,Positive,review_site,2025-04-22,2025-04-22 13:00:35
+F787,CUST1527,Acceptable product for the price point. ^+@:,Neutral,email,2025-10-19,2025-10-19 13:00:35
+F788,CUST4950,Extremely disappointed with the quality. Not recommended. Issue with delivery delays.,Negative,social_media,2025-09-20,2025-09-20 13:00:35
+F789,CUST8272,Functional but could be better. >,Neutral,review_site,2025-10-12,2025-10-12 13:00:35
+F790,CUST6715,"It's fine, not great but not terrible either. Issue with product quality.",Neutral,chat,2025-07-24,2025-07-24 13:00:35
+F791,CUST6945,The product exceeded my expectations. Very satisfied! Issue with customer service.,Positive,email,2025-03-02,2025-03-02 13:00:35
+F792,CUST4729,Late delivery and damaged packaging. Very upset! Issue with product availability.,Negative,review_site,2024-11-21,2024-11-21 13:00:35
+F793,CUST3753,Product is okay. Nothing special but does the job. ^,Neutral,email,2025-10-05,2025-10-05 13:00:35
+F794,CUST9744,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-05-07,2025-05-07 13:00:35
+F795,CUST3353,Frequent crashes and bugs. Needs improvement. Issue with return process.,Negative,chat,2025-04-09,2025-04-09 13:00:35
+F796,CUST8374,Horrible experience. Will never buy from here again.,Negative,chat,2025-10-10,2025-10-10 13:00:35
+F797,CUST4862,Horrible experience. Will never buy from here again. $$=*,Negative,review_site,2024-11-21,2024-11-21 13:00:35
+F798,CUST9741,Waste of money. Product doesn't work as advertised. Issue with product availability.,Negative,email,2025-07-08,2025-07-08 13:00:35
+F799,CUST8211,"Reliable and durable product. No complaints whatsoever. ""=)""`",Positive,review_site,2025-09-22,2025-09-22 13:00:35
+F800,CUST7406,Frequent crashes and bugs. Needs improvement.,Negative,chat,2025-05-28,2025-05-28 13:00:35
+F801,CUST8678,Decent product with room for improvement. {<.;,Neutral,social_media,2024-11-06,2024-11-06 13:00:35
+F802,CUST8129,Overpriced for the features provided. Not worth it. Issue with product quality.,Negative,social_media,2025-09-08,2025-09-08 13:00:35
+F803,CUST9426,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,social_media,2025-02-06,2025-02-06 13:00:35
+F804,CUST3193,Fantastic experience overall. Will definitely buy again! <##,Positive,social_media,2024-12-02,2024-12-02 13:00:35
+F805,CUST4221,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-07-18,2025-07-18 13:00:35
+F806,CUST3558,I absolutely love this product! It's amazing and works perfectly. }|]] Issue with website navigation.,Positive,review_site,2025-09-28,2025-09-28 13:00:35
+F807,CUST6823,It's alright. Nothing remarkable to mention. $,Neutral,review_site,2025-03-14,2025-03-14 13:00:35
+F808,CUST9441,Great value for money. Worth every penny! }<&~,Positive,chat,2025-01-02,2025-01-02 13:00:35
+F809,CUST8214,Terrible experience. Product broke after one day.,Negative,email,2025-05-06,2025-05-06 13:00:35
+F810,CUST6218,Extremely disappointed with the quality. Not recommended.,Negative,chat,2024-12-17,2024-12-17 13:00:35
+F811,CUST8174,"Poor customer service. No one responded to my queries. =""$",Negative,email,2025-07-14,2025-07-14 13:00:35
+F812,CUST7124,Extremely disappointed with the quality. Not recommended. Issue with product availability.,Negative,review_site,2025-06-03,2025-06-03 13:00:35
+F813,CUST2951,Terrible experience. Product broke after one day. Issue with return process.,Negative,review_site,2025-01-15,2025-01-15 13:00:35
+F814,CUST7839,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-03-15,2025-03-15 13:00:35
+F815,CUST2927,Decent product with room for improvement. =?=<,Neutral,email,2025-07-07,2025-07-07 13:00:35
+F816,CUST8079,Decent product with room for improvement. Issue with website navigation.,Neutral,chat,2025-07-24,2025-07-24 13:00:35
+F817,CUST7086,Horrible experience. Will never buy from here again. Issue with website navigation.,Negative,chat,2025-02-20,2025-02-20 13:00:35
+F818,CUST4026,Standard quality. Meets basic expectations.,Neutral,review_site,2024-11-19,2024-11-19 13:00:35
+F819,CUST1305,Decent product with room for improvement.,Neutral,review_site,2025-09-29,2025-09-29 13:00:35
+F820,CUST8513,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-08-07,2025-08-07 13:00:35
+F821,CUST4081,Decent product with room for improvement.,Neutral,email,2025-03-21,2025-03-21 13:00:35
+F822,CUST6792,User-friendly interface and intuitive design. %,Positive,chat,2025-08-17,2025-08-17 13:00:35
+F823,CUST8737,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2025-05-12,2025-05-12 13:00:35
+F824,CUST5908,Fantastic experience overall. Will definitely buy again!,Positive,email,2025-06-14,2025-06-14 13:00:35
+F825,CUST5331,The product exceeded my expectations. Very satisfied!,Positive,chat,2025-07-25,2025-07-25 13:00:35
+F826,CUST1443,This is exactly what I was looking for. Great quality! Issue with website navigation.,Positive,social_media,2025-10-23,2025-10-23 13:00:35
+F827,CUST3805,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-07-16,2025-07-16 13:00:35
+F828,CUST8596,Functional but could be better.,Neutral,review_site,2025-04-05,2025-04-05 13:00:35
+F829,CUST1180,Frequent crashes and bugs. Needs improvement. Issue with return process.,Negative,chat,2025-05-30,2025-05-30 13:00:35
+F830,CUST7389,Satisfactory service. Nothing to complain about. ;*&~ Issue with website navigation.,Neutral,review_site,2025-06-07,2025-06-07 13:00:35
+F831,CUST8648,Waste of money. Product doesn't work as advertised. Issue with website navigation.,Negative,social_media,2025-01-20,2025-01-20 13:00:35
+F832,CUST5328,Waste of money. Product doesn't work as advertised. ]+_~\,Negative,review_site,2025-02-20,2025-02-20 13:00:35
+F833,CUST6029,Terrible experience. Product broke after one day. ^$~,Negative,review_site,2025-01-20,2025-01-20 13:00:35
+F834,CUST5266,Outstanding customer support. They resolved my issue quickly. Issue with pricing.,Positive,social_media,2025-09-20,2025-09-20 13:00:35
+F835,CUST1324,"Terrible experience. Product broke after one day. ?""@^: Issue with pricing.",Negative,social_media,2025-03-29,2025-03-29 13:00:35
+F836,CUST9982,Product is okay. Nothing special but does the job.,Neutral,review_site,2025-06-22,2025-06-22 13:00:35
+F837,CUST8857,Reliable and durable product. No complaints whatsoever.,Positive,email,2024-12-21,2024-12-21 13:00:35
+F838,CUST3206,"It's fine, not great but not terrible either.",Neutral,review_site,2025-07-02,2025-07-02 13:00:35
+F839,CUST6324,Overpriced for the features provided. Not worth it.,Negative,chat,2024-12-06,2024-12-06 13:00:35
+F840,CUST2054,"It's fine, not great but not terrible either. ;+/^",Neutral,review_site,2024-12-30,2024-12-30 13:00:35
+F841,CUST8684,Average experience. Some good points and some bad. Issue with website navigation.,Neutral,social_media,2025-03-05,2025-03-05 13:00:35
+F842,CUST2155,I absolutely love this product! It's amazing and works perfectly. Issue with customer service.,Positive,social_media,2025-01-25,2025-01-25 13:00:35
+F843,CUST4283,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-07-06,2025-07-06 13:00:35
+F844,CUST8751,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-03-31,2025-03-31 13:00:35
+F845,CUST5151,Average experience. Some good points and some bad. Issue with website navigation.,Neutral,social_media,2025-01-09,2025-01-09 13:00:35
+F846,CUST9489,Late delivery and damaged packaging. Very upset!,Negative,review_site,2025-08-03,2025-08-03 13:00:35
+F847,CUST1853,This is exactly what I was looking for. Great quality!,Positive,chat,2025-01-02,2025-01-02 13:00:35
+F848,CUST1671,Frequent crashes and bugs. Needs improvement. (*~? Issue with product features.,Negative,chat,2025-05-01,2025-05-01 13:00:35
+F849,CUST4813,I absolutely love this product! It's amazing and works perfectly. :\_$,Positive,email,2025-05-25,2025-05-25 13:00:35
+F850,CUST2482,This is exactly what I was looking for. Great quality! >` Issue with technical issues.,Positive,review_site,2025-03-16,2025-03-16 13:00:35
+F851,CUST6870,Reliable and durable product. No complaints whatsoever. ^$!+,Positive,email,2025-02-13,2025-02-13 13:00:35
+F852,CUST5770,Satisfactory service. Nothing to complain about.,Neutral,chat,2025-06-17,2025-06-17 13:00:35
+F853,CUST3311,"This is exactly what I was looking for. Great quality! ^]>,{",Positive,social_media,2025-03-08,2025-03-08 13:00:35
+F854,CUST7284,Acceptable product for the price point.,Neutral,social_media,2025-08-04,2025-08-04 13:00:35
+F855,CUST4852,Acceptable product for the price point. Issue with return process.,Neutral,chat,2024-11-29,2024-11-29 13:00:35
+F856,CUST3936,Extremely disappointed with the quality. Not recommended. Issue with product availability.,Negative,chat,2025-03-18,2025-03-18 13:00:35
+F857,CUST5188,Reliable and durable product. No complaints whatsoever. *?,Positive,social_media,2024-12-31,2024-12-31 13:00:35
+F858,CUST8966,"Poor customer service. No one responded to my queries. ,>`*}",Negative,review_site,2025-08-02,2025-08-02 13:00:35
+F859,CUST8378,Waste of money. Product doesn't work as advertised. Issue with customer service.,Negative,social_media,2025-10-24,2025-10-24 13:00:35
+F860,CUST5684,Fantastic experience overall. Will definitely buy again!,Positive,review_site,2025-06-27,2025-06-27 13:00:35
+F861,CUST5951,Average experience. Some good points and some bad.,Neutral,chat,2025-03-18,2025-03-18 13:00:35
+F862,CUST4432,User-friendly interface and intuitive design. ;%=,Positive,social_media,2025-09-01,2025-09-01 13:00:35
+F863,CUST6342,Excellent service and fast delivery. Highly recommended! Issue with pricing.,Positive,email,2024-11-10,2024-11-10 13:00:35
+F864,CUST3702,I absolutely love this product! It's amazing and works perfectly. Issue with website navigation.,Positive,social_media,2025-01-03,2025-01-03 13:00:35
+F865,CUST9114,Fantastic experience overall. Will definitely buy again! Issue with customer service.,Positive,chat,2025-02-11,2025-02-11 13:00:35
+F866,CUST6321,Functional but could be better.,Neutral,social_media,2024-11-25,2024-11-25 13:00:35
+F867,CUST7157,Average experience. Some good points and some bad.,Neutral,email,2025-08-04,2025-08-04 13:00:35
+F868,CUST6925,User-friendly interface and intuitive design. Issue with technical issues.,Positive,email,2025-07-23,2025-07-23 13:00:35
+F869,CUST4333,Difficult to use and confusing interface.,Negative,review_site,2025-10-28,2025-10-28 13:00:35
+F870,CUST1884,"It's fine, not great but not terrible either.",Neutral,review_site,2025-08-09,2025-08-09 13:00:35
+F871,CUST9227,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-08-02,2025-08-02 13:00:35
+F872,CUST1051,"Reliable and durable product. No complaints whatsoever. (""@",Positive,email,2025-02-02,2025-02-02 13:00:35
+F873,CUST9730,Functional but could be better.,Neutral,email,2024-12-02,2024-12-02 13:00:35
+F874,CUST9903,Mediocre experience overall.,Neutral,review_site,2025-05-11,2025-05-11 13:00:35
+F875,CUST8101,Product is okay. Nothing special but does the job.,Neutral,email,2025-08-11,2025-08-11 13:00:35
+F876,CUST5615,Satisfactory service. Nothing to complain about.,Neutral,chat,2025-08-02,2025-08-02 13:00:35
+F877,CUST6303,Horrible experience. Will never buy from here again. >('#,Negative,chat,2025-03-29,2025-03-29 13:00:35
+F878,CUST7443,The product exceeded my expectations. Very satisfied! :`!,Positive,review_site,2025-08-09,2025-08-09 13:00:35
+F879,CUST4888,Standard quality. Meets basic expectations.,Neutral,social_media,2025-07-08,2025-07-08 13:00:35
+F880,CUST1009,Impressive features and functionality. Love it!,Positive,social_media,2024-11-22,2024-11-22 13:00:35
+F881,CUST9861,Excellent service and fast delivery. Highly recommended! Issue with delivery delays.,Positive,chat,2024-12-23,2024-12-23 13:00:35
+F882,CUST7088,Overpriced for the features provided. Not worth it. ? Issue with customer service.,Negative,social_media,2024-12-18,2024-12-18 13:00:35
+F883,CUST3438,Outstanding customer support. They resolved my issue quickly. &,Positive,email,2024-11-05,2024-11-05 13:00:35
+F884,CUST4266,Satisfactory service. Nothing to complain about.,Neutral,review_site,2025-05-16,2025-05-16 13:00:35
+F885,CUST8952,Poor customer service. No one responded to my queries.,Negative,social_media,2024-11-10,2024-11-10 13:00:35
+F886,CUST8995,User-friendly interface and intuitive design. Issue with technical issues.,Positive,social_media,2025-05-22,2025-05-22 13:00:35
+F887,CUST9588,Overpriced for the features provided. Not worth it.,Negative,email,2025-06-18,2025-06-18 13:00:35
+F888,CUST1536,Waste of money. Product doesn't work as advertised.,Negative,social_media,2025-05-28,2025-05-28 13:00:35
+F889,CUST1148,Acceptable product for the price point.,Neutral,social_media,2025-05-05,2025-05-05 13:00:35
+F890,CUST4649,This is exactly what I was looking for. Great quality!,Positive,email,2025-04-26,2025-04-26 13:00:35
+F891,CUST3325,Functional but could be better. Issue with product availability.,Neutral,review_site,2025-08-11,2025-08-11 13:00:35
+F892,CUST2953,Decent product with room for improvement. Issue with product features.,Neutral,chat,2024-12-21,2024-12-21 13:00:35
+F893,CUST4888,I absolutely love this product! It's amazing and works perfectly. Issue with website navigation.,Positive,social_media,2025-04-21,2025-04-21 13:00:35
+F894,CUST6617,Satisfactory service. Nothing to complain about.,Neutral,social_media,2024-11-03,2024-11-03 13:00:35
+F895,CUST8115,I absolutely love this product! It's amazing and works perfectly. !<,Positive,review_site,2024-11-15,2024-11-15 13:00:35
+F896,CUST4282,"The product exceeded my expectations. Very satisfied! >\"" Issue with product availability.",Positive,review_site,2025-04-23,2025-04-23 13:00:35
+F897,CUST7992,Functional but could be better. Issue with return process.,Neutral,email,2025-03-24,2025-03-24 13:00:35
+F898,CUST1923,Average experience. Some good points and some bad.,Neutral,chat,2024-11-14,2024-11-14 13:00:35
+F899,CUST1065,Product is okay. Nothing special but does the job.,Neutral,email,2025-09-30,2025-09-30 13:00:35
+F900,CUST3936,Fantastic experience overall. Will definitely buy again!,Positive,social_media,2025-09-14,2025-09-14 13:00:35
+F901,CUST4782,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-06-09,2025-06-09 13:00:35
+F902,CUST5865,User-friendly interface and intuitive design.,Positive,chat,2025-06-24,2025-06-24 13:00:35
+F903,CUST8703,Excellent service and fast delivery. Highly recommended! *}&`+,Positive,social_media,2025-04-24,2025-04-24 13:00:35
+F904,CUST1722,Poor customer service. No one responded to my queries. _=],Negative,chat,2025-01-24,2025-01-24 13:00:35
+F905,CUST5943,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-09-04,2025-09-04 13:00:35
+F906,CUST3838,Great value for money. Worth every penny!,Positive,chat,2025-08-27,2025-08-27 13:00:35
+F907,CUST8057,Difficult to use and confusing interface. Issue with customer service.,Negative,chat,2025-01-15,2025-01-15 13:00:35
+F908,CUST5410,I absolutely love this product! It's amazing and works perfectly. Issue with product availability.,Positive,review_site,2024-11-12,2024-11-12 13:00:35
+F909,CUST6218,I absolutely love this product! It's amazing and works perfectly. ;)~ Issue with product features.,Positive,review_site,2025-07-30,2025-07-30 13:00:35
+F910,CUST5712,Horrible experience. Will never buy from here again.,Negative,email,2025-02-27,2025-02-27 13:00:35
+F911,CUST9985,"It's fine, not great but not terrible either. Issue with technical issues.",Neutral,email,2025-06-30,2025-06-30 13:00:35
+F912,CUST6183,Satisfactory service. Nothing to complain about. Issue with return process.,Neutral,social_media,2024-12-24,2024-12-24 13:00:35
+F913,CUST6828,Frequent crashes and bugs. Needs improvement. ]?/+_,Negative,email,2025-09-20,2025-09-20 13:00:35
+F914,CUST8624,It's alright. Nothing remarkable to mention.,Neutral,review_site,2025-05-28,2025-05-28 13:00:35
+F915,CUST4246,Horrible experience. Will never buy from here again. }~/: Issue with technical issues.,Negative,email,2025-09-30,2025-09-30 13:00:35
+F916,CUST9688,Acceptable product for the price point. Issue with product quality.,Neutral,email,2025-06-09,2025-06-09 13:00:35
+F917,CUST3290,Standard quality. Meets basic expectations. Issue with product availability.,Neutral,review_site,2025-02-17,2025-02-17 13:00:35
+F918,CUST1845,Horrible experience. Will never buy from here again.,Negative,review_site,2025-01-25,2025-01-25 13:00:35
+F919,CUST2980,Frequent crashes and bugs. Needs improvement. +|*?{ Issue with website navigation.,Negative,chat,2025-02-11,2025-02-11 13:00:35
+F920,CUST2338,Horrible experience. Will never buy from here again. ]` Issue with technical issues.,Negative,review_site,2025-06-28,2025-06-28 13:00:35
+F921,CUST6262,Fantastic experience overall. Will definitely buy again! ;}/) Issue with pricing.,Positive,social_media,2025-08-07,2025-08-07 13:00:35
+F922,CUST2075,Frequent crashes and bugs. Needs improvement.,Negative,email,2025-07-23,2025-07-23 13:00:35
+F923,CUST7989,Average experience. Some good points and some bad.,Neutral,chat,2024-12-20,2024-12-20 13:00:35
+F924,CUST6213,I absolutely love this product! It's amazing and works perfectly. !+`^),Positive,review_site,2024-12-11,2024-12-11 13:00:35
+F925,CUST9207,Satisfactory service. Nothing to complain about. Issue with pricing.,Neutral,chat,2025-03-19,2025-03-19 13:00:35
+F926,CUST6830,Decent product with room for improvement.,Neutral,email,2025-09-21,2025-09-21 13:00:35
+F927,CUST5041,Functional but could be better. Issue with product features.,Neutral,email,2025-06-30,2025-06-30 13:00:35
+F928,CUST5352,Decent product with room for improvement. Issue with product features.,Neutral,social_media,2025-10-21,2025-10-21 13:00:35
+F929,CUST5440,Terrible experience. Product broke after one day.,Negative,review_site,2025-03-27,2025-03-27 13:00:35
+F930,CUST7276,Excellent service and fast delivery. Highly recommended!,Positive,email,2025-09-17,2025-09-17 13:00:35
+F931,CUST6226,Functional but could be better. Issue with customer service.,Neutral,social_media,2025-06-13,2025-06-13 13:00:35
+F932,CUST9228,Functional but could be better.,Neutral,social_media,2025-08-25,2025-08-25 13:00:35
+F933,CUST7193,Poor customer service. No one responded to my queries.,Negative,review_site,2025-07-24,2025-07-24 13:00:35
+F934,CUST9737,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-10-08,2025-10-08 13:00:35
+F935,CUST2523,User-friendly interface and intuitive design. } Issue with product quality.,Positive,chat,2025-09-15,2025-09-15 13:00:35
+F936,CUST7349,Impressive features and functionality. Love it! :$' Issue with pricing.,Positive,review_site,2025-08-22,2025-08-22 13:00:35
+F937,CUST5419,Acceptable product for the price point. Issue with return process.,Neutral,chat,2025-06-02,2025-06-02 13:00:35
+F938,CUST7069,Poor customer service. No one responded to my queries. Issue with technical issues.,Negative,review_site,2025-10-26,2025-10-26 13:00:35
+F939,CUST5794,The product exceeded my expectations. Very satisfied!,Positive,email,2025-05-13,2025-05-13 13:00:35
+F940,CUST4788,Extremely disappointed with the quality. Not recommended. [; Issue with product quality.,Negative,chat,2025-09-02,2025-09-02 13:00:35
+F941,CUST1071,Mediocre experience overall.,Neutral,review_site,2024-12-03,2024-12-03 13:00:35
+F942,CUST8257,User-friendly interface and intuitive design.,Positive,review_site,2025-03-11,2025-03-11 13:00:35
+F943,CUST2667,Decent product with room for improvement. Issue with product availability.,Neutral,review_site,2025-10-06,2025-10-06 13:00:35
+F944,CUST7465,Terrible experience. Product broke after one day.,Negative,social_media,2025-10-18,2025-10-18 13:00:35
+F945,CUST3754,Mediocre experience overall. Issue with return process.,Neutral,social_media,2025-10-30,2025-10-30 13:00:35
+F946,CUST1390,This is exactly what I was looking for. Great quality! Issue with website navigation.,Positive,email,2025-05-14,2025-05-14 13:00:35
+F947,CUST2014,Satisfactory service. Nothing to complain about.,Neutral,social_media,2025-02-05,2025-02-05 13:00:35
+F948,CUST1021,Average experience. Some good points and some bad.,Neutral,chat,2025-10-29,2025-10-29 13:00:35
+F949,CUST2036,Frequent crashes and bugs. Needs improvement. }\>,Negative,review_site,2025-07-05,2025-07-05 13:00:35
+F950,CUST8714,Product stopped working within a week. Poor quality. Issue with technical issues.,Negative,review_site,2024-11-30,2024-11-30 13:00:35
+F951,CUST9762,Average experience. Some good points and some bad. Issue with delivery delays.,Neutral,review_site,2024-11-07,2024-11-07 13:00:35
+F952,CUST3198,User-friendly interface and intuitive design. Issue with customer service.,Positive,review_site,2025-01-21,2025-01-21 13:00:35
+F953,CUST4656,Standard quality. Meets basic expectations.,Neutral,chat,2025-09-27,2025-09-27 13:00:35
+F954,CUST7761,Product stopped working within a week. Poor quality.,Negative,review_site,2025-02-18,2025-02-18 13:00:35
+F955,CUST7973,Decent product with room for improvement.,Neutral,social_media,2025-05-14,2025-05-14 13:00:35
+F956,CUST7168,Poor customer service. No one responded to my queries. !$?\>,Negative,chat,2025-06-05,2025-06-05 13:00:35
+F957,CUST8929,"This is exactly what I was looking for. Great quality! ""<, Issue with website navigation.",Positive,social_media,2025-01-07,2025-01-07 13:00:35
+F958,CUST3315,This is exactly what I was looking for. Great quality! &),Positive,email,2025-06-28,2025-06-28 13:00:35
+F959,CUST8375,Frequent crashes and bugs. Needs improvement. [;&\(,Negative,review_site,2025-02-11,2025-02-11 13:00:35
+F960,CUST9146,Decent product with room for improvement.,Neutral,chat,2025-02-01,2025-02-01 13:00:35
+F961,CUST6007,Product stopped working within a week. Poor quality. ;>],Negative,review_site,2025-04-15,2025-04-15 13:00:35
+F962,CUST3346,Product is okay. Nothing special but does the job.,Neutral,email,2025-03-27,2025-03-27 13:00:35
+F963,CUST1894,The product exceeded my expectations. Very satisfied!,Positive,chat,2025-06-27,2025-06-27 13:00:35
+F964,CUST8251,I absolutely love this product! It's amazing and works perfectly. _ Issue with product features.,Positive,email,2024-12-11,2024-12-11 13:00:35
+F965,CUST1314,Acceptable product for the price point.,Neutral,social_media,2025-02-21,2025-02-21 13:00:35
+F966,CUST1422,Acceptable product for the price point. Issue with website navigation.,Neutral,email,2025-03-10,2025-03-10 13:00:35
+F967,CUST8697,Mediocre experience overall. Issue with pricing.,Neutral,review_site,2024-12-11,2024-12-11 13:00:35
+F968,CUST9119,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-01-12,2025-01-12 13:00:35
+F969,CUST7617,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-07-19,2025-07-19 13:00:35
+F970,CUST5181,Fantastic experience overall. Will definitely buy again! &: Issue with product features.,Positive,social_media,2025-07-27,2025-07-27 13:00:35
+F971,CUST7201,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-07-02,2025-07-02 13:00:35
+F972,CUST6468,"It's fine, not great but not terrible either. Issue with product availability.",Neutral,social_media,2025-04-24,2025-04-24 13:00:35
+F973,CUST3107,Decent product with room for improvement.,Neutral,social_media,2025-03-30,2025-03-30 13:00:35
+F974,CUST8867,Poor customer service. No one responded to my queries.,Negative,chat,2025-06-27,2025-06-27 13:00:35
+F975,CUST8590,Late delivery and damaged packaging. Very upset! &]*'*,Negative,chat,2025-07-18,2025-07-18 13:00:35
+F976,CUST3510,Impressive features and functionality. Love it! .?/'\,Positive,chat,2025-04-04,2025-04-04 13:00:35
+F977,CUST2223,I absolutely love this product! It's amazing and works perfectly. =/[{^,Positive,chat,2025-01-20,2025-01-20 13:00:35
+F978,CUST7794,Overpriced for the features provided. Not worth it. ? Issue with product features.,Negative,social_media,2025-07-29,2025-07-29 13:00:35
+F979,CUST3796,Overpriced for the features provided. Not worth it.,Negative,social_media,2025-02-01,2025-02-01 13:00:35
+F980,CUST7959,Fantastic experience overall. Will definitely buy again!,Positive,review_site,2025-05-23,2025-05-23 13:00:35
+F981,CUST4465,Functional but could be better.,Neutral,social_media,2025-09-28,2025-09-28 13:00:35
+F982,CUST8971,"Reliable and durable product. No complaints whatsoever. >}\?, Issue with delivery delays.",Positive,chat,2025-01-18,2025-01-18 13:00:35
+F983,CUST6930,The product exceeded my expectations. Very satisfied! Issue with product features.,Positive,email,2025-05-09,2025-05-09 13:00:35
+F984,CUST2162,Late delivery and damaged packaging. Very upset! Issue with customer service.,Negative,review_site,2024-11-10,2024-11-10 13:00:35
+F985,CUST1204,User-friendly interface and intuitive design.,Positive,email,2025-04-10,2025-04-10 13:00:35
+F986,CUST2582,Late delivery and damaged packaging. Very upset!,Negative,review_site,2025-06-03,2025-06-03 13:00:35
+F987,CUST8404,Great value for money. Worth every penny! * Issue with delivery delays.,Positive,review_site,2024-12-28,2024-12-28 13:00:35
+F988,CUST2071,Standard quality. Meets basic expectations. ?\,Neutral,social_media,2025-10-24,2025-10-24 13:00:35
+F989,CUST3569,This is exactly what I was looking for. Great quality!,Positive,social_media,2025-06-07,2025-06-07 13:00:35
+F990,CUST4666,Overpriced for the features provided. Not worth it.,Negative,chat,2025-03-26,2025-03-26 13:00:35
+F991,CUST4409,Average experience. Some good points and some bad.,Neutral,review_site,2024-11-24,2024-11-24 13:00:35
+F992,CUST6695,Average experience. Some good points and some bad.,Neutral,chat,2025-03-07,2025-03-07 13:00:35
+F993,CUST1942,Satisfactory service. Nothing to complain about. Issue with technical issues.,Neutral,social_media,2024-10-31,2024-10-31 13:00:35
+F994,CUST9560,Overpriced for the features provided. Not worth it.,Negative,email,2024-11-16,2024-11-16 13:00:35
+F995,CUST5638,Reliable and durable product. No complaints whatsoever. Issue with return process.,Positive,social_media,2025-05-22,2025-05-22 13:00:35
+F996,CUST5277,"Great value for money. Worth every penny! ""=) Issue with product availability.",Positive,social_media,2025-09-05,2025-09-05 13:00:35
+F997,CUST9707,Extremely disappointed with the quality. Not recommended. ~};,Negative,email,2025-04-07,2025-04-07 13:00:35
+F998,CUST9737,Fantastic experience overall. Will definitely buy again! Issue with delivery delays.,Positive,review_site,2025-07-01,2025-07-01 13:00:35
+F999,CUST1336,Waste of money. Product doesn't work as advertised. ]?| Issue with website navigation.,Negative,social_media,2025-09-21,2025-09-21 13:00:35
+F1000,CUST4216,Standard quality. Meets basic expectations. |,Neutral,email,2025-07-23,2025-07-23 13:00:35
+F1001,CUST1834,Impressive features and functionality. Love it! ?~,Positive,social_media,2025-02-02,2025-02-02 13:00:35
+F1002,CUST4096,Functional but could be better. {,Neutral,chat,2025-08-25,2025-08-25 13:00:35
+F1003,CUST4136,Difficult to use and confusing interface. =>!.;,Negative,review_site,2024-11-24,2024-11-24 13:00:35
+F1004,CUST4113,Impressive features and functionality. Love it!,Positive,email,2025-09-15,2025-09-15 13:00:35
+F1005,CUST2238,Horrible experience. Will never buy from here again.,Negative,chat,2025-06-19,2025-06-19 13:00:35
+F1006,CUST8913,"Average experience. Some good points and some bad. {,?",Neutral,email,2024-12-28,2024-12-28 13:00:35
+F1007,CUST2456,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,email,2025-05-30,2025-05-30 13:00:35
+F1008,CUST7664,Reliable and durable product. No complaints whatsoever.,Positive,review_site,2025-05-03,2025-05-03 13:00:35
+F1009,CUST6905,"Mediocre experience overall. )?,| Issue with return process.",Neutral,review_site,2025-10-19,2025-10-19 13:00:35
+F1010,CUST6835,Impressive features and functionality. Love it!,Positive,social_media,2024-12-02,2024-12-02 13:00:35
+F1011,CUST9229,Satisfactory service. Nothing to complain about.,Neutral,review_site,2024-11-20,2024-11-20 13:00:35
+F1012,CUST4242,Terrible experience. Product broke after one day.,Negative,social_media,2025-02-07,2025-02-07 13:00:35
+F1013,CUST9585,Decent product with room for improvement.,Neutral,email,2025-09-03,2025-09-03 13:00:35
+F1014,CUST5410,"It's fine, not great but not terrible either. >'!{",Neutral,chat,2025-02-05,2025-02-05 13:00:35
+F1015,CUST3905,The product exceeded my expectations. Very satisfied! *.&,Positive,chat,2025-02-11,2025-02-11 13:00:35
+F1016,CUST3204,Terrible experience. Product broke after one day. Issue with pricing.,Negative,review_site,2025-10-06,2025-10-06 13:00:35
+F1017,CUST5565,I absolutely love this product! It's amazing and works perfectly. Issue with website navigation.,Positive,review_site,2024-12-17,2024-12-17 13:00:35
+F1018,CUST2898,Overpriced for the features provided. Not worth it. Issue with delivery delays.,Negative,review_site,2025-10-28,2025-10-28 13:00:35
+F1019,CUST2436,It's alright. Nothing remarkable to mention. #[ Issue with product features.,Neutral,review_site,2025-01-04,2025-01-04 13:00:35
+F1020,CUST5644,Difficult to use and confusing interface. $]\,Negative,social_media,2024-12-31,2024-12-31 13:00:35
+F1021,CUST8548,Extremely disappointed with the quality. Not recommended.,Negative,email,2024-12-13,2024-12-13 13:00:35
+F1022,CUST8584,Horrible experience. Will never buy from here again.,Negative,chat,2025-06-21,2025-06-21 13:00:35
+F1023,CUST2117,Satisfactory service. Nothing to complain about.,Neutral,social_media,2025-04-05,2025-04-05 13:00:35
+F1024,CUST8423,Outstanding customer support. They resolved my issue quickly. Issue with return process.,Positive,email,2025-10-29,2025-10-29 13:00:35
+F1025,CUST2621,Terrible experience. Product broke after one day. Issue with product features.,Negative,email,2024-12-15,2024-12-15 13:00:35
+F1026,CUST3786,Difficult to use and confusing interface. >*(' Issue with pricing.,Negative,chat,2025-05-31,2025-05-31 13:00:35
+F1027,CUST5054,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-05-09,2025-05-09 13:00:35
+F1028,CUST1519,Outstanding customer support. They resolved my issue quickly. Issue with return process.,Positive,review_site,2025-04-30,2025-04-30 13:00:35
+F1029,CUST3166,Frequent crashes and bugs. Needs improvement.,Negative,social_media,2024-12-31,2024-12-31 13:00:35
+F1030,CUST6294,Product stopped working within a week. Poor quality. Issue with website navigation.,Negative,review_site,2025-07-13,2025-07-13 13:00:35
+F1031,CUST3188,Outstanding customer support. They resolved my issue quickly.,Positive,chat,2025-08-10,2025-08-10 13:00:35
+F1032,CUST5685,Product is okay. Nothing special but does the job. _,Neutral,email,2025-05-08,2025-05-08 13:00:35
+F1033,CUST6636,Overpriced for the features provided. Not worth it.,Negative,email,2025-03-07,2025-03-07 13:00:35
+F1034,CUST3780,Frequent crashes and bugs. Needs improvement. :|>#,Negative,chat,2024-11-10,2024-11-10 13:00:35
+F1035,CUST5052,Acceptable product for the price point. .\&$,Neutral,social_media,2025-07-08,2025-07-08 13:00:35
+F1036,CUST3128,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,social_media,2025-08-29,2025-08-29 13:00:35
+F1037,CUST8306,Fantastic experience overall. Will definitely buy again!,Positive,review_site,2025-07-02,2025-07-02 13:00:35
+F1038,CUST1564,Great value for money. Worth every penny! Issue with product availability.,Positive,email,2025-08-08,2025-08-08 13:00:35
+F1039,CUST4366,Decent product with room for improvement. (&&,Neutral,review_site,2025-01-04,2025-01-04 13:00:35
+F1040,CUST8737,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-08-03,2025-08-03 13:00:35
+F1041,CUST7518,"Reliable and durable product. No complaints whatsoever. '""@$\",Positive,chat,2025-02-22,2025-02-22 13:00:35
+F1042,CUST6866,Great value for money. Worth every penny! [?!<^,Positive,review_site,2025-01-13,2025-01-13 13:00:35
+F1043,CUST4225,The product exceeded my expectations. Very satisfied! Issue with pricing.,Positive,social_media,2025-04-19,2025-04-19 13:00:35
+F1044,CUST6037,User-friendly interface and intuitive design.,Positive,social_media,2025-10-17,2025-10-17 13:00:35
+F1045,CUST4078,"Mediocre experience overall. /""#@=",Neutral,review_site,2025-04-11,2025-04-11 13:00:35
+F1046,CUST1096,Great value for money. Worth every penny!,Positive,email,2025-04-20,2025-04-20 13:00:35
+F1047,CUST9984,Frequent crashes and bugs. Needs improvement. (,Negative,social_media,2024-11-14,2024-11-14 13:00:35
+F1048,CUST6773,Product is okay. Nothing special but does the job. \): Issue with return process.,Neutral,social_media,2025-03-27,2025-03-27 13:00:35
+F1049,CUST5667,Product is okay. Nothing special but does the job. Issue with customer service.,Neutral,social_media,2025-05-21,2025-05-21 13:00:35
+F1050,CUST6493,Excellent service and fast delivery. Highly recommended! _;,Positive,social_media,2025-10-18,2025-10-18 13:00:35
+F1051,CUST3371,Product is okay. Nothing special but does the job. Issue with product availability.,Neutral,chat,2025-10-26,2025-10-26 13:00:35
+F1052,CUST2985,Mediocre experience overall.,Neutral,email,2025-04-24,2025-04-24 13:00:35
+F1053,CUST5542,User-friendly interface and intuitive design. Issue with website navigation.,Positive,chat,2024-12-25,2024-12-25 13:00:35
+F1054,CUST2628,Waste of money. Product doesn't work as advertised. %#:~ Issue with return process.,Negative,email,2025-04-10,2025-04-10 13:00:35
+F1055,CUST6774,Standard quality. Meets basic expectations. $,Neutral,email,2025-03-08,2025-03-08 13:00:35
+F1056,CUST4965,Product is okay. Nothing special but does the job.,Neutral,review_site,2025-05-03,2025-05-03 13:00:35
+F1057,CUST7579,Horrible experience. Will never buy from here again. Issue with product features.,Negative,email,2024-11-16,2024-11-16 13:00:35
+F1058,CUST1011,Standard quality. Meets basic expectations. [$,Neutral,review_site,2024-12-29,2024-12-29 13:00:35
+F1059,CUST6553,Frequent crashes and bugs. Needs improvement.,Negative,chat,2025-09-28,2025-09-28 13:00:35
+F1060,CUST2650,I absolutely love this product! It's amazing and works perfectly. Issue with technical issues.,Positive,email,2025-06-22,2025-06-22 13:00:35
+F1061,CUST2032,Standard quality. Meets basic expectations.,Neutral,email,2025-06-01,2025-06-01 13:00:35
+F1062,CUST5226,User-friendly interface and intuitive design.,Positive,email,2025-03-13,2025-03-13 13:00:35
+F1063,CUST1170,Excellent service and fast delivery. Highly recommended! Issue with customer service.,Positive,social_media,2024-12-24,2024-12-24 13:00:35
+F1064,CUST1538,Reliable and durable product. No complaints whatsoever. Issue with delivery delays.,Positive,email,2024-11-05,2024-11-05 13:00:35
+F1065,CUST7142,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-06-21,2025-06-21 13:00:35
+F1066,CUST9362,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-01-15,2025-01-15 13:00:35
+F1067,CUST8801,Overpriced for the features provided. Not worth it.,Negative,social_media,2024-11-14,2024-11-14 13:00:35
+F1068,CUST4975,Frequent crashes and bugs. Needs improvement. }{?{,Negative,social_media,2024-11-28,2024-11-28 13:00:35
+F1069,CUST6698,Waste of money. Product doesn't work as advertised. Issue with customer service.,Negative,chat,2025-03-29,2025-03-29 13:00:35
+F1070,CUST5000,Extremely disappointed with the quality. Not recommended.,Negative,review_site,2024-12-18,2024-12-18 13:00:35
+F1071,CUST8249,Impressive features and functionality. Love it! Issue with delivery delays.,Positive,chat,2025-07-06,2025-07-06 13:00:35
+F1072,CUST7226,Decent product with room for improvement.,Neutral,social_media,2025-04-29,2025-04-29 13:00:35
+F1073,CUST2338,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2025-01-19,2025-01-19 13:00:35
+F1074,CUST6497,Functional but could be better.,Neutral,chat,2025-04-18,2025-04-18 13:00:35
+F1075,CUST7278,Product is okay. Nothing special but does the job. Issue with product quality.,Neutral,email,2025-05-22,2025-05-22 13:00:35
+F1076,CUST1638,Waste of money. Product doesn't work as advertised. Issue with product features.,Negative,social_media,2025-06-30,2025-06-30 13:00:35
+F1077,CUST2618,Fantastic experience overall. Will definitely buy again! .% Issue with customer service.,Positive,review_site,2025-03-19,2025-03-19 13:00:35
+F1078,CUST3791,Decent product with room for improvement.,Neutral,email,2025-01-16,2025-01-16 13:00:35
+F1079,CUST1087,Excellent service and fast delivery. Highly recommended! Issue with product features.,Positive,chat,2025-05-04,2025-05-04 13:00:35
+F1080,CUST6299,The product exceeded my expectations. Very satisfied! Issue with technical issues.,Positive,email,2025-04-02,2025-04-02 13:00:35
+F1081,CUST2663,Functional but could be better.,Neutral,review_site,2025-04-12,2025-04-12 13:00:35
+F1082,CUST9342,Acceptable product for the price point. #,Neutral,email,2025-08-28,2025-08-28 13:00:35
+F1083,CUST9602,"It's fine, not great but not terrible either. Issue with website navigation.",Neutral,review_site,2025-05-04,2025-05-04 13:00:35
+F1084,CUST3689,"Excellent service and fast delivery. Highly recommended! <,",Positive,chat,2025-01-03,2025-01-03 13:00:35
+F1085,CUST8210,"The product exceeded my expectations. Very satisfied! ,&_*",Positive,review_site,2025-09-23,2025-09-23 13:00:35
+F1086,CUST3609,Great value for money. Worth every penny! Issue with return process.,Positive,email,2025-02-07,2025-02-07 13:00:35
+F1087,CUST4940,Average experience. Some good points and some bad.,Neutral,social_media,2025-06-13,2025-06-13 13:00:35
+F1088,CUST8198,Poor customer service. No one responded to my queries. Issue with technical issues.,Negative,chat,2025-08-08,2025-08-08 13:00:35
+F1089,CUST4597,The product exceeded my expectations. Very satisfied!,Positive,social_media,2025-05-27,2025-05-27 13:00:35
+F1090,CUST9555,It's alright. Nothing remarkable to mention. Issue with website navigation.,Neutral,chat,2025-10-08,2025-10-08 13:00:35
+F1091,CUST9255,Terrible experience. Product broke after one day.,Negative,review_site,2025-08-10,2025-08-10 13:00:35
+F1092,CUST3971,Average experience. Some good points and some bad. Issue with pricing.,Neutral,review_site,2025-01-11,2025-01-11 13:00:35
+F1093,CUST1023,Horrible experience. Will never buy from here again. Issue with website navigation.,Negative,social_media,2025-04-17,2025-04-17 13:00:35
+F1094,CUST2974,I absolutely love this product! It's amazing and works perfectly. Issue with product availability.,Positive,social_media,2025-07-23,2025-07-23 13:00:35
+F1095,CUST9623,Satisfactory service. Nothing to complain about. Issue with product quality.,Neutral,review_site,2025-07-10,2025-07-10 13:00:35
+F1096,CUST7703,"It's fine, not great but not terrible either.",Neutral,chat,2025-09-26,2025-09-26 13:00:35
+F1097,CUST6540,Frequent crashes and bugs. Needs improvement.,Negative,review_site,2025-02-05,2025-02-05 13:00:35
+F1098,CUST8035,Poor customer service. No one responded to my queries.,Negative,chat,2025-09-20,2025-09-20 13:00:35
+F1099,CUST2351,"Terrible experience. Product broke after one day. @,{*; Issue with product quality.",Negative,social_media,2025-05-21,2025-05-21 13:00:35
+F1100,CUST4263,Outstanding customer support. They resolved my issue quickly. $(}.&,Positive,chat,2025-04-12,2025-04-12 13:00:35
+F1101,CUST3381,Standard quality. Meets basic expectations. ^,Neutral,review_site,2025-10-21,2025-10-21 13:00:35
+F1102,CUST2461,Standard quality. Meets basic expectations. Issue with product quality.,Neutral,email,2025-08-26,2025-08-26 13:00:35
+F1103,CUST9887,Impressive features and functionality. Love it!,Positive,chat,2025-07-11,2025-07-11 13:00:35
+F1104,CUST7726,Difficult to use and confusing interface. %\:=,Negative,email,2025-08-27,2025-08-27 13:00:35
+F1105,CUST1497,Acceptable product for the price point. Issue with product quality.,Neutral,review_site,2024-12-09,2024-12-09 13:00:35
+F1106,CUST7473,Product is okay. Nothing special but does the job. {#;` Issue with website navigation.,Neutral,social_media,2025-06-26,2025-06-26 13:00:35
+F1107,CUST2328,The product exceeded my expectations. Very satisfied! Issue with product quality.,Positive,chat,2024-11-01,2024-11-01 13:00:35
+F1108,CUST7221,Waste of money. Product doesn't work as advertised. `\# Issue with delivery delays.,Negative,email,2025-02-20,2025-02-20 13:00:35
+F1109,CUST9079,Acceptable product for the price point. Issue with technical issues.,Neutral,chat,2025-05-01,2025-05-01 13:00:35
+F1110,CUST5839,"This is exactly what I was looking for. Great quality! ""'(% Issue with customer service.",Positive,email,2025-05-03,2025-05-03 13:00:35
+F1111,CUST8941,Great value for money. Worth every penny!,Positive,chat,2025-08-06,2025-08-06 13:00:35
+F1112,CUST7509,Horrible experience. Will never buy from here again.,Negative,chat,2025-06-25,2025-06-25 13:00:35
+F1113,CUST8593,Fantastic experience overall. Will definitely buy again! { Issue with pricing.,Positive,email,2025-09-20,2025-09-20 13:00:35
+F1114,CUST2244,Acceptable product for the price point.,Neutral,social_media,2025-05-04,2025-05-04 13:00:35
+F1115,CUST5590,Impressive features and functionality. Love it! ~<`@ Issue with product features.,Positive,review_site,2025-03-14,2025-03-14 13:00:35
+F1116,CUST2913,Overpriced for the features provided. Not worth it.,Negative,review_site,2025-10-26,2025-10-26 13:00:35
+F1117,CUST5351,Great value for money. Worth every penny! Issue with product availability.,Positive,social_media,2025-01-23,2025-01-23 13:00:35
+F1118,CUST8236,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-08-06,2025-08-06 13:00:35
+F1119,CUST6912,Impressive features and functionality. Love it!,Positive,email,2025-06-07,2025-06-07 13:00:35
+F1120,CUST3971,Decent product with room for improvement. Issue with return process.,Neutral,chat,2025-01-13,2025-01-13 13:00:35
+F1121,CUST9222,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-06-07,2025-06-07 13:00:35
+F1122,CUST3079,Mediocre experience overall. Issue with technical issues.,Neutral,review_site,2025-05-25,2025-05-25 13:00:35
+F1123,CUST6592,Poor customer service. No one responded to my queries. :{][+ Issue with delivery delays.,Negative,review_site,2024-12-19,2024-12-19 13:00:35
+F1124,CUST6991,User-friendly interface and intuitive design. .|.! Issue with technical issues.,Positive,email,2025-04-01,2025-04-01 13:00:35
+F1125,CUST9629,Acceptable product for the price point. Issue with return process.,Neutral,chat,2025-10-26,2025-10-26 13:00:35
+F1126,CUST9911,Overpriced for the features provided. Not worth it. Issue with customer service.,Negative,review_site,2025-09-19,2025-09-19 13:00:35
+F1127,CUST7283,Product is okay. Nothing special but does the job. < Issue with technical issues.,Neutral,social_media,2025-04-17,2025-04-17 13:00:35
+F1128,CUST5845,Impressive features and functionality. Love it! =}\| Issue with website navigation.,Positive,chat,2025-01-12,2025-01-12 13:00:35
+F1129,CUST9836,Great value for money. Worth every penny! Issue with website navigation.,Positive,chat,2025-03-19,2025-03-19 13:00:35
+F1130,CUST5715,Late delivery and damaged packaging. Very upset! Issue with product availability.,Negative,review_site,2025-02-12,2025-02-12 13:00:35
+F1131,CUST7565,User-friendly interface and intuitive design.,Positive,social_media,2025-01-05,2025-01-05 13:00:35
+F1132,CUST6551,Terrible experience. Product broke after one day. Issue with technical issues.,Negative,chat,2025-05-13,2025-05-13 13:00:35
+F1133,CUST7582,Fantastic experience overall. Will definitely buy again! :~* Issue with product quality.,Positive,social_media,2025-10-11,2025-10-11 13:00:35
+F1134,CUST3616,Terrible experience. Product broke after one day.,Negative,email,2025-01-31,2025-01-31 13:00:35
+F1135,CUST4307,"Excellent service and fast delivery. Highly recommended! ,):",Positive,email,2025-08-24,2025-08-24 13:00:35
+F1136,CUST6884,Reliable and durable product. No complaints whatsoever. Issue with delivery delays.,Positive,review_site,2024-11-14,2024-11-14 13:00:35
+F1137,CUST8682,Frequent crashes and bugs. Needs improvement. `! Issue with website navigation.,Negative,social_media,2025-06-15,2025-06-15 13:00:35
+F1138,CUST4519,Waste of money. Product doesn't work as advertised. Issue with delivery delays.,Negative,email,2025-02-19,2025-02-19 13:00:35
+F1139,CUST5089,Outstanding customer support. They resolved my issue quickly. Issue with pricing.,Positive,social_media,2025-01-05,2025-01-05 13:00:35
+F1140,CUST1576,Impressive features and functionality. Love it!,Positive,social_media,2025-02-02,2025-02-02 13:00:35
+F1141,CUST8529,User-friendly interface and intuitive design.,Positive,review_site,2025-07-13,2025-07-13 13:00:35
+F1142,CUST7392,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2024-12-02,2024-12-02 13:00:35
+F1143,CUST9296,Mediocre experience overall. |;+>,Neutral,review_site,2025-06-18,2025-06-18 13:00:35
+F1144,CUST6263,The product exceeded my expectations. Very satisfied!,Positive,review_site,2025-10-30,2025-10-30 13:00:35
+F1145,CUST8735,It's alright. Nothing remarkable to mention.,Neutral,review_site,2025-06-02,2025-06-02 13:00:35
+F1146,CUST5082,Horrible experience. Will never buy from here again. Issue with website navigation.,Negative,review_site,2025-10-09,2025-10-09 13:00:35
+F1147,CUST6897,Great value for money. Worth every penny! %;(%$,Positive,email,2025-10-06,2025-10-06 13:00:35
+F1148,CUST6762,Reliable and durable product. No complaints whatsoever. Issue with product availability.,Positive,chat,2025-06-19,2025-06-19 13:00:35
+F1149,CUST7049,Late delivery and damaged packaging. Very upset!,Negative,chat,2024-11-08,2024-11-08 13:00:35
+F1150,CUST6041,It's alright. Nothing remarkable to mention. Issue with return process.,Neutral,email,2025-03-04,2025-03-04 13:00:35
+F1151,CUST6138,Satisfactory service. Nothing to complain about.,Neutral,chat,2025-01-25,2025-01-25 13:00:35
+F1152,CUST7284,The product exceeded my expectations. Very satisfied!,Positive,email,2024-12-21,2024-12-21 13:00:35
+F1153,CUST5863,Standard quality. Meets basic expectations. ^+( Issue with product quality.,Neutral,social_media,2024-12-16,2024-12-16 13:00:35
+F1154,CUST3627,User-friendly interface and intuitive design.,Positive,chat,2024-12-04,2024-12-04 13:00:35
+F1155,CUST3502,User-friendly interface and intuitive design.,Positive,chat,2025-10-28,2025-10-28 13:00:35
+F1156,CUST9282,The product exceeded my expectations. Very satisfied!,Positive,email,2025-03-14,2025-03-14 13:00:35
+F1157,CUST7562,Product stopped working within a week. Poor quality. {[|$=,Negative,chat,2025-10-17,2025-10-17 13:00:35
+F1158,CUST6545,Product stopped working within a week. Poor quality. Issue with product features.,Negative,social_media,2025-01-18,2025-01-18 13:00:35
+F1159,CUST3567,Average experience. Some good points and some bad.,Neutral,social_media,2025-06-20,2025-06-20 13:00:35
+F1160,CUST5295,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-01-13,2025-01-13 13:00:35
+F1161,CUST2361,User-friendly interface and intuitive design. Issue with technical issues.,Positive,social_media,2025-10-25,2025-10-25 13:00:35
+F1162,CUST2241,Excellent service and fast delivery. Highly recommended! &%%,Positive,review_site,2025-02-04,2025-02-04 13:00:35
+F1163,CUST7703,User-friendly interface and intuitive design.,Positive,social_media,2025-01-08,2025-01-08 13:00:35
+F1164,CUST3235,"Extremely disappointed with the quality. Not recommended. [,&",Negative,chat,2025-03-12,2025-03-12 13:00:35
+F1165,CUST2392,Impressive features and functionality. Love it!,Positive,email,2025-02-13,2025-02-13 13:00:35
+F1166,CUST7405,Excellent service and fast delivery. Highly recommended! :,Positive,chat,2024-12-19,2024-12-19 13:00:35
+F1167,CUST3955,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-01-24,2025-01-24 13:00:35
+F1168,CUST4259,Impressive features and functionality. Love it!,Positive,email,2025-06-19,2025-06-19 13:00:35
+F1169,CUST5442,Impressive features and functionality. Love it! #,Positive,email,2025-04-28,2025-04-28 13:00:35
+F1170,CUST4564,Terrible experience. Product broke after one day. <>,Negative,review_site,2025-01-25,2025-01-25 13:00:35
+F1171,CUST7922,Difficult to use and confusing interface. Issue with customer service.,Negative,email,2025-09-22,2025-09-22 13:00:35
+F1172,CUST3120,Great value for money. Worth every penny!,Positive,review_site,2024-12-11,2024-12-11 13:00:35
+F1173,CUST7590,I absolutely love this product! It's amazing and works perfectly.,Positive,email,2025-07-14,2025-07-14 13:00:35
+F1174,CUST9448,Great value for money. Worth every penny!,Positive,chat,2025-06-11,2025-06-11 13:00:35
+F1175,CUST5371,Average experience. Some good points and some bad.,Neutral,chat,2025-09-30,2025-09-30 13:00:35
+F1176,CUST4856,The product exceeded my expectations. Very satisfied! ;&& Issue with customer service.,Positive,review_site,2025-05-06,2025-05-06 13:00:35
+F1177,CUST5100,Poor customer service. No one responded to my queries.,Negative,email,2025-09-09,2025-09-09 13:00:35
+F1178,CUST3722,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-08-08,2025-08-08 13:00:35
+F1179,CUST8450,This is exactly what I was looking for. Great quality! %#? Issue with technical issues.,Positive,email,2025-07-13,2025-07-13 13:00:35
+F1180,CUST9839,Excellent service and fast delivery. Highly recommended!,Positive,social_media,2025-06-06,2025-06-06 13:00:35
+F1181,CUST8055,Overpriced for the features provided. Not worth it.,Negative,social_media,2025-09-06,2025-09-06 13:00:35
+F1182,CUST2275,Late delivery and damaged packaging. Very upset!,Negative,email,2025-05-26,2025-05-26 13:00:35
+F1183,CUST8646,This is exactly what I was looking for. Great quality! |^]`>,Positive,chat,2025-07-01,2025-07-01 13:00:35
+F1184,CUST4845,"Impressive features and functionality. Love it! """,Positive,review_site,2025-09-23,2025-09-23 13:00:35
+F1185,CUST7853,Functional but could be better.,Neutral,email,2025-04-18,2025-04-18 13:00:35
+F1186,CUST6952,Product is okay. Nothing special but does the job.,Neutral,email,2025-03-04,2025-03-04 13:00:35
+F1187,CUST1373,The product exceeded my expectations. Very satisfied! Issue with pricing.,Positive,review_site,2025-04-17,2025-04-17 13:00:35
+F1188,CUST8350,Fantastic experience overall. Will definitely buy again! `/|;,Positive,social_media,2025-09-06,2025-09-06 13:00:35
+F1189,CUST2667,Fantastic experience overall. Will definitely buy again!,Positive,review_site,2025-03-08,2025-03-08 13:00:35
+F1190,CUST3808,"It's fine, not great but not terrible either. ?%)",Neutral,review_site,2025-06-15,2025-06-15 13:00:35
+F1191,CUST2603,User-friendly interface and intuitive design. ?,Positive,chat,2025-07-04,2025-07-04 13:00:35
+F1192,CUST5620,Average experience. Some good points and some bad. Issue with pricing.,Neutral,email,2024-11-02,2024-11-02 13:00:35
+F1193,CUST6247,Difficult to use and confusing interface. Issue with technical issues.,Negative,chat,2024-10-30,2024-10-30 13:00:35
+F1194,CUST5675,Impressive features and functionality. Love it!,Positive,social_media,2025-09-21,2025-09-21 13:00:35
+F1195,CUST5152,Poor customer service. No one responded to my queries. Issue with delivery delays.,Negative,chat,2025-05-05,2025-05-05 13:00:35
+F1196,CUST1022,Outstanding customer support. They resolved my issue quickly.,Positive,email,2025-09-12,2025-09-12 13:00:35
+F1197,CUST3313,"Great value for money. Worth every penny! ~|,} Issue with product features.",Positive,social_media,2025-05-11,2025-05-11 13:00:35
+F1198,CUST4900,Great value for money. Worth every penny!,Positive,email,2024-12-01,2024-12-01 13:00:35
+F1199,CUST6014,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,review_site,2025-06-11,2025-06-11 13:00:35
+F1200,CUST4621,Impressive features and functionality. Love it! )?;,Positive,review_site,2025-02-11,2025-02-11 13:00:35
+F1201,CUST4863,Great value for money. Worth every penny!,Positive,review_site,2025-04-23,2025-04-23 13:00:35
+F1202,CUST4509,Horrible experience. Will never buy from here again. `^*,Negative,social_media,2024-11-23,2024-11-23 13:00:35
+F1203,CUST7719,"Mediocre experience overall. ,$|'",Neutral,chat,2024-12-14,2024-12-14 13:00:35
+F1204,CUST3384,Functional but could be better.,Neutral,chat,2024-11-07,2024-11-07 13:00:35
+F1205,CUST4227,Overpriced for the features provided. Not worth it. =,Negative,social_media,2024-11-25,2024-11-25 13:00:35
+F1206,CUST7529,Excellent service and fast delivery. Highly recommended! > Issue with delivery delays.,Positive,review_site,2025-01-17,2025-01-17 13:00:35
+F1207,CUST6636,I absolutely love this product! It's amazing and works perfectly. %_&,Positive,email,2025-07-24,2025-07-24 13:00:35
+F1208,CUST5158,Satisfactory service. Nothing to complain about. Issue with product availability.,Neutral,review_site,2025-09-20,2025-09-20 13:00:35
+F1209,CUST7329,It's alright. Nothing remarkable to mention.,Neutral,email,2025-05-10,2025-05-10 13:00:35
+F1210,CUST9626,"It's fine, not great but not terrible either. , Issue with customer service.",Neutral,chat,2025-10-17,2025-10-17 13:00:35
+F1211,CUST3029,Outstanding customer support. They resolved my issue quickly. `/ Issue with product features.,Positive,email,2025-08-13,2025-08-13 13:00:35
+F1212,CUST8144,Waste of money. Product doesn't work as advertised.,Negative,chat,2025-08-31,2025-08-31 13:00:35
+F1213,CUST5112,Frequent crashes and bugs. Needs improvement.,Negative,chat,2025-02-07,2025-02-07 13:00:35
+F1214,CUST6069,Reliable and durable product. No complaints whatsoever.,Positive,chat,2025-05-15,2025-05-15 13:00:35
+F1215,CUST9774,Product is okay. Nothing special but does the job.,Neutral,social_media,2025-10-17,2025-10-17 13:00:35
+F1216,CUST1322,This is exactly what I was looking for. Great quality! Issue with delivery delays.,Positive,review_site,2025-08-26,2025-08-26 13:00:35
+F1217,CUST8248,User-friendly interface and intuitive design. ~.?_),Positive,email,2025-03-08,2025-03-08 13:00:35
+F1218,CUST6827,Outstanding customer support. They resolved my issue quickly.,Positive,chat,2025-04-19,2025-04-19 13:00:35
+F1219,CUST9624,Overpriced for the features provided. Not worth it. Issue with product features.,Negative,email,2025-04-17,2025-04-17 13:00:35
+F1220,CUST4626,Frequent crashes and bugs. Needs improvement.,Negative,social_media,2024-12-20,2024-12-20 13:00:35
+F1221,CUST1398,Fantastic experience overall. Will definitely buy again! Issue with product quality.,Positive,chat,2025-01-12,2025-01-12 13:00:35
+F1222,CUST3796,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-09-07,2025-09-07 13:00:35
+F1223,CUST4057,Standard quality. Meets basic expectations. Issue with product availability.,Neutral,social_media,2025-10-13,2025-10-13 13:00:35
+F1224,CUST7819,"Frequent crashes and bugs. Needs improvement. /)>, Issue with customer service.",Negative,social_media,2025-09-24,2025-09-24 13:00:35
+F1225,CUST4668,"Average experience. Some good points and some bad. ^("" Issue with product availability.",Neutral,chat,2025-03-13,2025-03-13 13:00:35
+F1226,CUST4289,Product stopped working within a week. Poor quality.,Negative,review_site,2024-12-03,2024-12-03 13:00:35
+F1227,CUST2613,Difficult to use and confusing interface. /[ Issue with product availability.,Negative,review_site,2025-05-04,2025-05-04 13:00:35
+F1228,CUST8676,Fantastic experience overall. Will definitely buy again! [{,Positive,social_media,2025-01-01,2025-01-01 13:00:35
+F1229,CUST5065,Overpriced for the features provided. Not worth it. =.$,Negative,chat,2025-07-11,2025-07-11 13:00:35
+F1230,CUST7687,Mediocre experience overall.,Neutral,review_site,2024-11-07,2024-11-07 13:00:35
+F1231,CUST9485,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-05-06,2025-05-06 13:00:35
+F1232,CUST3589,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2025-05-15,2025-05-15 13:00:35
+F1233,CUST4364,Satisfactory service. Nothing to complain about.,Neutral,review_site,2025-09-30,2025-09-30 13:00:35
+F1234,CUST4045,It's alright. Nothing remarkable to mention.,Neutral,email,2025-02-26,2025-02-26 13:00:35
+F1235,CUST3652,Average experience. Some good points and some bad. |/$(* Issue with product availability.,Neutral,chat,2025-05-02,2025-05-02 13:00:35
+F1236,CUST1552,Great value for money. Worth every penny!,Positive,email,2025-10-06,2025-10-06 13:00:35
+F1237,CUST5677,Outstanding customer support. They resolved my issue quickly.,Positive,review_site,2025-06-28,2025-06-28 13:00:35
+F1238,CUST4577,Functional but could be better.,Neutral,chat,2025-05-15,2025-05-15 13:00:35
+F1239,CUST1645,Average experience. Some good points and some bad. ;,Neutral,email,2025-10-11,2025-10-11 13:00:35
+F1240,CUST7342,Product stopped working within a week. Poor quality. . Issue with customer service.,Negative,email,2025-08-20,2025-08-20 13:00:35
+F1241,CUST8691,Outstanding customer support. They resolved my issue quickly. Issue with website navigation.,Positive,social_media,2025-01-29,2025-01-29 13:00:35
+F1242,CUST7692,Late delivery and damaged packaging. Very upset! &~= Issue with website navigation.,Negative,social_media,2025-05-29,2025-05-29 13:00:35
+F1243,CUST1869,Excellent service and fast delivery. Highly recommended!,Positive,chat,2025-01-17,2025-01-17 13:00:35
+F1244,CUST9542,Reliable and durable product. No complaints whatsoever. Issue with product availability.,Positive,email,2025-08-19,2025-08-19 13:00:35
+F1245,CUST8423,Terrible experience. Product broke after one day.,Negative,chat,2025-07-23,2025-07-23 13:00:35
+F1246,CUST2969,Late delivery and damaged packaging. Very upset! !]) Issue with customer service.,Negative,social_media,2025-01-26,2025-01-26 13:00:35
+F1247,CUST9949,Average experience. Some good points and some bad. >,Neutral,chat,2025-03-18,2025-03-18 13:00:35
+F1248,CUST6421,Impressive features and functionality. Love it! ${},Positive,email,2025-07-14,2025-07-14 13:00:35
+F1249,CUST7931,Mediocre experience overall. #?^\ Issue with technical issues.,Neutral,social_media,2025-05-17,2025-05-17 13:00:35
+F1250,CUST2203,Standard quality. Meets basic expectations. Issue with product quality.,Neutral,social_media,2025-08-30,2025-08-30 13:00:35
+F1251,CUST9189,This is exactly what I was looking for. Great quality! :<@< Issue with customer service.,Positive,social_media,2024-12-18,2024-12-18 13:00:35
+F1252,CUST5391,Waste of money. Product doesn't work as advertised.,Negative,review_site,2024-12-24,2024-12-24 13:00:35
+F1253,CUST7174,Product is okay. Nothing special but does the job. Issue with customer service.,Neutral,review_site,2025-09-10,2025-09-10 13:00:35
+F1254,CUST5524,Standard quality. Meets basic expectations.,Neutral,social_media,2025-03-02,2025-03-02 13:00:35
+F1255,CUST8566,The product exceeded my expectations. Very satisfied! ( Issue with pricing.,Positive,review_site,2025-09-21,2025-09-21 13:00:35
+F1256,CUST1110,Satisfactory service. Nothing to complain about.,Neutral,chat,2024-12-08,2024-12-08 13:00:35
+F1257,CUST3230,Functional but could be better.,Neutral,review_site,2025-09-27,2025-09-27 13:00:35
+F1258,CUST5493,Satisfactory service. Nothing to complain about. Issue with website navigation.,Neutral,email,2025-05-12,2025-05-12 13:00:35
+F1259,CUST2816,Frequent crashes and bugs. Needs improvement. @ Issue with product quality.,Negative,email,2025-07-13,2025-07-13 13:00:35
+F1260,CUST7517,The product exceeded my expectations. Very satisfied! Issue with technical issues.,Positive,email,2025-10-04,2025-10-04 13:00:35
+F1261,CUST1541,Difficult to use and confusing interface. |,Negative,social_media,2024-11-17,2024-11-17 13:00:35
+F1262,CUST7947,Terrible experience. Product broke after one day. Issue with product quality.,Negative,chat,2025-08-09,2025-08-09 13:00:35
+F1263,CUST4069,Product stopped working within a week. Poor quality. Issue with product quality.,Negative,social_media,2025-09-09,2025-09-09 13:00:35
+F1264,CUST8956,Average experience. Some good points and some bad. [@' Issue with return process.,Neutral,review_site,2024-12-24,2024-12-24 13:00:35
+F1265,CUST8967,Great value for money. Worth every penny! Issue with product quality.,Positive,social_media,2025-08-22,2025-08-22 13:00:35
+F1266,CUST3835,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-09-17,2025-09-17 13:00:35
+F1267,CUST2666,Mediocre experience overall. _#',Neutral,chat,2025-06-01,2025-06-01 13:00:35
+F1268,CUST1317,Waste of money. Product doesn't work as advertised.,Negative,review_site,2025-10-04,2025-10-04 13:00:35
+F1269,CUST3562,Functional but could be better.,Neutral,chat,2024-12-16,2024-12-16 13:00:35
+F1270,CUST8997,Waste of money. Product doesn't work as advertised. `|,Negative,review_site,2025-03-23,2025-03-23 13:00:35
+F1271,CUST4647,User-friendly interface and intuitive design. '):~,Positive,email,2025-02-16,2025-02-16 13:00:35
+F1272,CUST8980,Waste of money. Product doesn't work as advertised. Issue with website navigation.,Negative,social_media,2025-03-28,2025-03-28 13:00:35
+F1273,CUST2153,It's alright. Nothing remarkable to mention. Issue with delivery delays.,Neutral,chat,2025-05-15,2025-05-15 13:00:35
+F1274,CUST8179,Decent product with room for improvement. Issue with delivery delays.,Neutral,chat,2025-08-28,2025-08-28 13:00:35
+F1275,CUST7836,Product stopped working within a week. Poor quality. Issue with product quality.,Negative,chat,2025-04-25,2025-04-25 13:00:35
+F1276,CUST4961,Impressive features and functionality. Love it!,Positive,review_site,2025-10-02,2025-10-02 13:00:35
+F1277,CUST1759,Impressive features and functionality. Love it! Issue with return process.,Positive,chat,2025-10-08,2025-10-08 13:00:35
+F1278,CUST7927,"It's fine, not great but not terrible either. `<`",Neutral,review_site,2025-04-09,2025-04-09 13:00:35
+F1279,CUST9094,Great value for money. Worth every penny!,Positive,chat,2025-01-01,2025-01-01 13:00:35
+F1280,CUST7492,I absolutely love this product! It's amazing and works perfectly.,Positive,chat,2025-07-11,2025-07-11 13:00:35
+F1281,CUST8025,Waste of money. Product doesn't work as advertised. +&!,Negative,social_media,2025-06-05,2025-06-05 13:00:35
+F1282,CUST8635,I absolutely love this product! It's amazing and works perfectly. (.}` Issue with website navigation.,Positive,email,2025-10-27,2025-10-27 13:00:35
+F1283,CUST6482,It's alright. Nothing remarkable to mention.,Neutral,chat,2025-02-26,2025-02-26 13:00:35
+F1284,CUST4791,Functional but could be better.,Neutral,social_media,2025-01-25,2025-01-25 13:00:35
+F1285,CUST3849,Extremely disappointed with the quality. Not recommended. Issue with return process.,Negative,email,2025-01-03,2025-01-03 13:00:35
+F1286,CUST9553,Outstanding customer support. They resolved my issue quickly. %;@> Issue with pricing.,Positive,review_site,2025-01-02,2025-01-02 13:00:35
+F1287,CUST7850,Impressive features and functionality. Love it!,Positive,email,2025-07-05,2025-07-05 13:00:35
+F1288,CUST5365,User-friendly interface and intuitive design. ! Issue with product availability.,Positive,email,2024-12-15,2024-12-15 13:00:35
+F1289,CUST4577,Standard quality. Meets basic expectations.,Neutral,social_media,2025-04-30,2025-04-30 13:00:35
+F1290,CUST7189,Average experience. Some good points and some bad.,Neutral,social_media,2025-04-26,2025-04-26 13:00:35
+F1291,CUST5922,Extremely disappointed with the quality. Not recommended. {',Negative,chat,2024-11-04,2024-11-04 13:00:35
+F1292,CUST5163,The product exceeded my expectations. Very satisfied!,Positive,review_site,2025-02-22,2025-02-22 13:00:35
+F1293,CUST6981,Poor customer service. No one responded to my queries. Issue with technical issues.,Negative,email,2025-09-14,2025-09-14 13:00:35
+F1294,CUST6537,Difficult to use and confusing interface.,Negative,chat,2025-02-10,2025-02-10 13:00:35
+F1295,CUST1966,Standard quality. Meets basic expectations. Issue with product availability.,Neutral,chat,2025-06-16,2025-06-16 13:00:35
+F1296,CUST8013,Impressive features and functionality. Love it! Issue with return process.,Positive,chat,2025-03-27,2025-03-27 13:00:35
+F1297,CUST3215,User-friendly interface and intuitive design. +?' Issue with technical issues.,Positive,review_site,2025-08-04,2025-08-04 13:00:35
+F1298,CUST6277,Average experience. Some good points and some bad. !|\,Neutral,review_site,2025-01-29,2025-01-29 13:00:35
+F1299,CUST2173,Standard quality. Meets basic expectations. *,Neutral,social_media,2024-11-19,2024-11-19 13:00:35
+F1300,CUST3299,Outstanding customer support. They resolved my issue quickly. / Issue with website navigation.,Positive,chat,2025-06-12,2025-06-12 13:00:35
+F1301,CUST5021,Waste of money. Product doesn't work as advertised.,Negative,email,2025-03-18,2025-03-18 13:00:35
+F1302,CUST3180,Average experience. Some good points and some bad. Issue with delivery delays.,Neutral,review_site,2025-04-03,2025-04-03 13:00:35
+F1303,CUST9364,Difficult to use and confusing interface.,Negative,social_media,2024-12-15,2024-12-15 13:00:35
+F1304,CUST4491,It's alright. Nothing remarkable to mention. : Issue with delivery delays.,Neutral,email,2025-09-07,2025-09-07 13:00:35
+F1305,CUST6127,Outstanding customer support. They resolved my issue quickly. =|@,Positive,chat,2025-07-13,2025-07-13 13:00:35
+F1306,CUST1874,Standard quality. Meets basic expectations.,Neutral,review_site,2024-12-10,2024-12-10 13:00:35
+F1307,CUST7987,This is exactly what I was looking for. Great quality!,Positive,review_site,2025-08-23,2025-08-23 13:00:35
+F1308,CUST7075,Decent product with room for improvement. &@ Issue with product quality.,Neutral,review_site,2025-09-22,2025-09-22 13:00:35
+F1309,CUST7042,Mediocre experience overall. \,Neutral,email,2025-09-25,2025-09-25 13:00:35
+F1310,CUST7063,Overpriced for the features provided. Not worth it.,Negative,chat,2025-06-09,2025-06-09 13:00:35
+F1311,CUST1417,Average experience. Some good points and some bad.,Neutral,social_media,2025-03-25,2025-03-25 13:00:35
+F1312,CUST1731,Horrible experience. Will never buy from here again. Issue with product features.,Negative,review_site,2025-09-28,2025-09-28 13:00:35
+F1313,CUST7191,Horrible experience. Will never buy from here again. `,Negative,social_media,2025-05-31,2025-05-31 13:00:35
+F1314,CUST5582,Excellent service and fast delivery. Highly recommended! Issue with customer service.,Positive,review_site,2024-11-07,2024-11-07 13:00:35
+F1315,CUST2802,Acceptable product for the price point.,Neutral,chat,2025-03-05,2025-03-05 13:00:35
+F1316,CUST6188,Late delivery and damaged packaging. Very upset! &~>[ Issue with website navigation.,Negative,social_media,2025-04-02,2025-04-02 13:00:35
+F1317,CUST1684,Overpriced for the features provided. Not worth it. Issue with product quality.,Negative,review_site,2025-07-30,2025-07-30 13:00:35
+F1318,CUST4653,Fantastic experience overall. Will definitely buy again!,Positive,email,2025-03-22,2025-03-22 13:00:35
+F1319,CUST9788,Decent product with room for improvement.,Neutral,chat,2025-07-28,2025-07-28 13:00:35
+F1320,CUST7966,Functional but could be better. &[.\,Neutral,social_media,2025-04-13,2025-04-13 13:00:35
+F1321,CUST8372,Reliable and durable product. No complaints whatsoever. @;(; Issue with technical issues.,Positive,email,2025-10-04,2025-10-04 13:00:35
+F1322,CUST6661,"Excellent service and fast delivery. Highly recommended! ?"" Issue with product availability.",Positive,social_media,2025-10-20,2025-10-20 13:00:35
+F1323,CUST4581,Product is okay. Nothing special but does the job.,Neutral,social_media,2025-04-12,2025-04-12 13:00:35
+F1324,CUST7115,Product stopped working within a week. Poor quality. Issue with delivery delays.,Negative,email,2025-02-05,2025-02-05 13:00:35
+F1325,CUST4421,Overpriced for the features provided. Not worth it. Issue with delivery delays.,Negative,email,2025-05-30,2025-05-30 13:00:35
+F1326,CUST5228,User-friendly interface and intuitive design. /=*~,Positive,review_site,2025-09-26,2025-09-26 13:00:35
+F1327,CUST1610,"Great value for money. Worth every penny! "".(>",Positive,review_site,2025-05-22,2025-05-22 13:00:35
+F1328,CUST6560,Mediocre experience overall.,Neutral,chat,2025-05-18,2025-05-18 13:00:35
+F1329,CUST6079,This is exactly what I was looking for. Great quality! @;]),Positive,chat,2025-06-23,2025-06-23 13:00:35
+F1330,CUST7621,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-10-13,2025-10-13 13:00:35
+F1331,CUST8153,Acceptable product for the price point.,Neutral,review_site,2024-12-28,2024-12-28 13:00:35
+F1332,CUST9002,Acceptable product for the price point.,Neutral,review_site,2025-07-14,2025-07-14 13:00:35
+F1333,CUST1756,Excellent service and fast delivery. Highly recommended! &}.,Positive,social_media,2024-12-25,2024-12-25 13:00:35
+F1334,CUST4833,Product is okay. Nothing special but does the job. Issue with website navigation.,Neutral,email,2025-03-24,2025-03-24 13:00:35
+F1335,CUST9613,Horrible experience. Will never buy from here again.,Negative,chat,2025-06-20,2025-06-20 13:00:35
+F1336,CUST9781,This is exactly what I was looking for. Great quality! Issue with return process.,Positive,social_media,2025-05-16,2025-05-16 13:00:35
+F1337,CUST3322,Acceptable product for the price point.,Neutral,chat,2024-12-24,2024-12-24 13:00:35
+F1338,CUST3408,Horrible experience. Will never buy from here again. Issue with return process.,Negative,review_site,2025-05-22,2025-05-22 13:00:35
+F1339,CUST6225,This is exactly what I was looking for. Great quality! Issue with product availability.,Positive,review_site,2025-06-14,2025-06-14 13:00:35
+F1340,CUST2374,Standard quality. Meets basic expectations.,Neutral,social_media,2025-09-04,2025-09-04 13:00:35
+F1341,CUST6104,Frequent crashes and bugs. Needs improvement. Issue with technical issues.,Negative,email,2025-02-17,2025-02-17 13:00:35
+F1342,CUST7195,Functional but could be better.,Neutral,email,2024-12-02,2024-12-02 13:00:35
+F1343,CUST7998,"Terrible experience. Product broke after one day. ;)},| Issue with technical issues.",Negative,chat,2025-03-03,2025-03-03 13:00:35
+F1344,CUST1199,Acceptable product for the price point.,Neutral,email,2025-01-19,2025-01-19 13:00:35
+F1345,CUST3955,Decent product with room for improvement.,Neutral,chat,2025-07-20,2025-07-20 13:00:35
+F1346,CUST2661,Fantastic experience overall. Will definitely buy again!,Positive,chat,2025-06-22,2025-06-22 13:00:35
+F1347,CUST5683,Horrible experience. Will never buy from here again.,Negative,chat,2025-08-25,2025-08-25 13:00:35
+F1348,CUST3462,Great value for money. Worth every penny!,Positive,social_media,2025-01-03,2025-01-03 13:00:35
+F1349,CUST7846,Standard quality. Meets basic expectations.,Neutral,review_site,2025-09-19,2025-09-19 13:00:35
+F1350,CUST3482,Decent product with room for improvement. Issue with return process.,Neutral,review_site,2025-04-04,2025-04-04 13:00:35
+F1351,CUST3821,Late delivery and damaged packaging. Very upset! Issue with return process.,Negative,social_media,2025-09-23,2025-09-23 13:00:35
+F1352,CUST7905,Decent product with room for improvement.,Neutral,review_site,2024-11-21,2024-11-21 13:00:35
+F1353,CUST6226,Extremely disappointed with the quality. Not recommended. ! Issue with delivery delays.,Negative,review_site,2025-08-21,2025-08-21 13:00:35
+F1354,CUST8740,Decent product with room for improvement.,Neutral,review_site,2025-05-22,2025-05-22 13:00:35
+F1355,CUST6018,Great value for money. Worth every penny! Issue with return process.,Positive,email,2025-06-19,2025-06-19 13:00:35
+F1356,CUST7266,Impressive features and functionality. Love it! Issue with product availability.,Positive,social_media,2025-07-20,2025-07-20 13:00:35
+F1357,CUST9888,Impressive features and functionality. Love it! Issue with customer service.,Positive,chat,2025-05-03,2025-05-03 13:00:35
+F1358,CUST7519,Mediocre experience overall.,Neutral,email,2025-03-17,2025-03-17 13:00:35
+F1359,CUST7281,Great value for money. Worth every penny!,Positive,review_site,2025-08-07,2025-08-07 13:00:35
+F1360,CUST8055,Standard quality. Meets basic expectations. ~|,Neutral,review_site,2025-05-06,2025-05-06 13:00:35
+F1361,CUST2721,Satisfactory service. Nothing to complain about. :[=,Neutral,chat,2025-06-16,2025-06-16 13:00:35
+F1362,CUST3663,This is exactly what I was looking for. Great quality!,Positive,social_media,2025-03-20,2025-03-20 13:00:35
+F1363,CUST8275,It's alright. Nothing remarkable to mention. Issue with product quality.,Neutral,social_media,2025-02-17,2025-02-17 13:00:35
+F1364,CUST7627,Outstanding customer support. They resolved my issue quickly.,Positive,social_media,2025-02-06,2025-02-06 13:00:35
+F1365,CUST3532,Late delivery and damaged packaging. Very upset!,Negative,email,2025-10-18,2025-10-18 13:00:35
+F1366,CUST5483,Overpriced for the features provided. Not worth it. Issue with customer service.,Negative,social_media,2025-04-21,2025-04-21 13:00:35
+F1367,CUST4093,Excellent service and fast delivery. Highly recommended! Issue with return process.,Positive,social_media,2024-10-30,2024-10-30 13:00:35
+F1368,CUST5894,Product stopped working within a week. Poor quality.,Negative,email,2025-02-20,2025-02-20 13:00:35
+F1369,CUST9524,Reliable and durable product. No complaints whatsoever. Issue with product features.,Positive,social_media,2025-05-27,2025-05-27 13:00:35
+F1370,CUST1459,Fantastic experience overall. Will definitely buy again!,Positive,email,2024-12-01,2024-12-01 13:00:35
+F1371,CUST1542,Decent product with room for improvement. { Issue with product quality.,Neutral,email,2025-01-25,2025-01-25 13:00:35
+F1372,CUST7346,Horrible experience. Will never buy from here again.,Negative,review_site,2024-12-26,2024-12-26 13:00:35
+F1373,CUST3130,I absolutely love this product! It's amazing and works perfectly. Issue with pricing.,Positive,social_media,2024-10-31,2024-10-31 13:00:35
+F1374,CUST4884,"Waste of money. Product doesn't work as advertised. ,' Issue with technical issues.",Negative,review_site,2025-04-28,2025-04-28 13:00:35
+F1375,CUST4329,Excellent service and fast delivery. Highly recommended!,Positive,review_site,2024-11-01,2024-11-01 13:00:35
+F1376,CUST3276,Poor customer service. No one responded to my queries. _!,Negative,social_media,2025-09-13,2025-09-13 13:00:35
+F1377,CUST4737,Difficult to use and confusing interface. :],Negative,review_site,2025-07-17,2025-07-17 13:00:35
+F1378,CUST1330,"Decent product with room for improvement. [""[ Issue with website navigation.",Neutral,chat,2025-01-18,2025-01-18 13:00:35
+F1379,CUST7205,This is exactly what I was looking for. Great quality! ; Issue with product quality.,Positive,review_site,2025-05-13,2025-05-13 13:00:35
+F1380,CUST2471,Poor customer service. No one responded to my queries. ``=[],Negative,chat,2025-02-20,2025-02-20 13:00:35
+F1381,CUST7205,Impressive features and functionality. Love it! ],Positive,chat,2025-10-27,2025-10-27 13:00:35
+F1382,CUST3824,Terrible experience. Product broke after one day.,Negative,social_media,2025-04-24,2025-04-24 13:00:35
+F1383,CUST8977,Late delivery and damaged packaging. Very upset! }[@<<,Negative,social_media,2025-02-11,2025-02-11 13:00:35
+F1384,CUST8115,This is exactly what I was looking for. Great quality! \@{)%,Positive,review_site,2025-04-26,2025-04-26 13:00:35
+F1385,CUST6304,Great value for money. Worth every penny!,Positive,social_media,2025-01-04,2025-01-04 13:00:35
+F1386,CUST5567,Excellent service and fast delivery. Highly recommended! Issue with customer service.,Positive,review_site,2025-07-18,2025-07-18 13:00:35
+F1387,CUST7410,Outstanding customer support. They resolved my issue quickly.,Positive,social_media,2024-11-16,2024-11-16 13:00:35
+F1388,CUST5527,The product exceeded my expectations. Very satisfied! Issue with pricing.,Positive,chat,2025-04-01,2025-04-01 13:00:35
+F1389,CUST1227,Frequent crashes and bugs. Needs improvement.,Negative,chat,2025-06-05,2025-06-05 13:00:35
+F1390,CUST4359,Product stopped working within a week. Poor quality.,Negative,social_media,2024-11-13,2024-11-13 13:00:35
+F1391,CUST3387,Product stopped working within a week. Poor quality. _,Negative,review_site,2025-03-13,2025-03-13 13:00:35
+F1392,CUST3036,Product stopped working within a week. Poor quality.,Negative,review_site,2025-04-05,2025-04-05 13:00:35
+F1393,CUST2766,I absolutely love this product! It's amazing and works perfectly. @|(_ Issue with return process.,Positive,email,2024-11-06,2024-11-06 13:00:35
+F1394,CUST8200,Mediocre experience overall.,Neutral,email,2024-11-24,2024-11-24 13:00:35
+F1395,CUST8868,Horrible experience. Will never buy from here again. &# Issue with delivery delays.,Negative,social_media,2024-12-17,2024-12-17 13:00:35
+F1396,CUST7604,Standard quality. Meets basic expectations. {={~ Issue with website navigation.,Neutral,chat,2025-09-07,2025-09-07 13:00:35
+F1397,CUST1966,Acceptable product for the price point. [~{(> Issue with delivery delays.,Neutral,social_media,2025-03-05,2025-03-05 13:00:35
+F1398,CUST8519,Functional but could be better.,Neutral,social_media,2025-07-12,2025-07-12 13:00:35
+F1399,CUST9034,Waste of money. Product doesn't work as advertised. _.],Negative,review_site,2025-01-22,2025-01-22 13:00:35
+F1400,CUST5873,Terrible experience. Product broke after one day. _.< Issue with product availability.,Negative,chat,2025-05-09,2025-05-09 13:00:35
+F1401,CUST7921,Fantastic experience overall. Will definitely buy again!,Positive,social_media,2025-01-20,2025-01-20 13:00:35
+F1402,CUST8130,Impressive features and functionality. Love it!,Positive,email,2025-06-06,2025-06-06 13:00:35
+F1403,CUST5679,"The product exceeded my expectations. Very satisfied! %""",Positive,email,2025-02-13,2025-02-13 13:00:35
+F1404,CUST6807,This is exactly what I was looking for. Great quality!,Positive,social_media,2024-11-11,2024-11-11 13:00:35
+F1405,CUST6397,Average experience. Some good points and some bad.,Neutral,review_site,2025-09-28,2025-09-28 13:00:35
+F1406,CUST6049,Excellent service and fast delivery. Highly recommended! Issue with product quality.,Positive,email,2025-07-15,2025-07-15 13:00:35
+F1407,CUST6593,Fantastic experience overall. Will definitely buy again!,Positive,social_media,2025-03-11,2025-03-11 13:00:35
+F1408,CUST9540,Difficult to use and confusing interface.,Negative,review_site,2025-08-30,2025-08-30 13:00:35
+F1409,CUST3344,Standard quality. Meets basic expectations. Issue with pricing.,Neutral,email,2025-10-19,2025-10-19 13:00:35
+F1410,CUST3510,Product stopped working within a week. Poor quality.,Negative,email,2025-08-30,2025-08-30 13:00:35
+F1411,CUST7538,Poor customer service. No one responded to my queries.,Negative,social_media,2025-10-03,2025-10-03 13:00:35
+F1412,CUST3688,Impressive features and functionality. Love it! Issue with website navigation.,Positive,email,2024-11-25,2024-11-25 13:00:35
+F1413,CUST3902,Reliable and durable product. No complaints whatsoever.,Positive,social_media,2025-09-18,2025-09-18 13:00:35
+F1414,CUST5970,User-friendly interface and intuitive design.,Positive,email,2025-02-09,2025-02-09 13:00:35
+F1415,CUST8411,Acceptable product for the price point. +,Neutral,email,2025-04-05,2025-04-05 13:00:35
+F1416,CUST4746,Outstanding customer support. They resolved my issue quickly. Issue with return process.,Positive,email,2025-05-04,2025-05-04 13:00:35
+F1417,CUST9495,Outstanding customer support. They resolved my issue quickly. Issue with technical issues.,Positive,chat,2025-06-02,2025-06-02 13:00:35
+F1418,CUST1209,Frequent crashes and bugs. Needs improvement. Issue with customer service.,Negative,social_media,2025-07-07,2025-07-07 13:00:35
+F1419,CUST1412,Overpriced for the features provided. Not worth it. Issue with product availability.,Negative,social_media,2025-10-07,2025-10-07 13:00:35
+F1420,CUST2591,Frequent crashes and bugs. Needs improvement. Issue with customer service.,Negative,review_site,2025-03-25,2025-03-25 13:00:35
+F1421,CUST8087,The product exceeded my expectations. Very satisfied! \,Positive,review_site,2025-10-28,2025-10-28 13:00:35
+F1422,CUST5473,Decent product with room for improvement.,Neutral,social_media,2025-10-07,2025-10-07 13:00:35
+F1423,CUST8577,Standard quality. Meets basic expectations. <)^| Issue with website navigation.,Neutral,social_media,2024-11-25,2024-11-25 13:00:35
+F1424,CUST5554,Decent product with room for improvement. Issue with product quality.,Neutral,email,2025-07-13,2025-07-13 13:00:35
+F1425,CUST7714,Decent product with room for improvement. %`,Neutral,chat,2025-04-19,2025-04-19 13:00:35
+F1426,CUST1911,Late delivery and damaged packaging. Very upset! Issue with delivery delays.,Negative,chat,2025-04-15,2025-04-15 13:00:35
+F1427,CUST5868,Frequent crashes and bugs. Needs improvement. %%,Negative,social_media,2024-11-06,2024-11-06 13:00:35
+F1428,CUST8239,Satisfactory service. Nothing to complain about. .)%/& Issue with customer service.,Neutral,review_site,2025-02-18,2025-02-18 13:00:35
+F1429,CUST8658,Great value for money. Worth every penny! Issue with website navigation.,Positive,email,2025-02-15,2025-02-15 13:00:35
+F1430,CUST6043,Difficult to use and confusing interface. .);. Issue with product features.,Negative,review_site,2024-11-09,2024-11-09 13:00:35
+F1431,CUST3161,Fantastic experience overall. Will definitely buy again!,Positive,social_media,2025-05-25,2025-05-25 13:00:35
+F1432,CUST3993,This is exactly what I was looking for. Great quality! Issue with delivery delays.,Positive,email,2025-02-24,2025-02-24 13:00:35
+F1433,CUST6128,Terrible experience. Product broke after one day. Issue with product features.,Negative,review_site,2025-02-15,2025-02-15 13:00:35
+F1434,CUST8184,Frequent crashes and bugs. Needs improvement. {.~$ Issue with customer service.,Negative,email,2025-07-16,2025-07-16 13:00:35
+F1435,CUST6554,"Mediocre experience overall. %=;!,",Neutral,chat,2025-06-08,2025-06-08 13:00:35
+F1436,CUST3689,Poor customer service. No one responded to my queries.,Negative,chat,2025-05-10,2025-05-10 13:00:35
+F1437,CUST8898,Late delivery and damaged packaging. Very upset! Issue with product quality.,Negative,review_site,2025-06-04,2025-06-04 13:00:35
+F1438,CUST5030,I absolutely love this product! It's amazing and works perfectly. Issue with delivery delays.,Positive,chat,2025-06-29,2025-06-29 13:00:35
+F1439,CUST9891,Outstanding customer support. They resolved my issue quickly. *;:%,Positive,social_media,2025-02-10,2025-02-10 13:00:35
+F1440,CUST5991,Frequent crashes and bugs. Needs improvement.,Negative,email,2024-11-09,2024-11-09 13:00:35
+F1441,CUST2070,Overpriced for the features provided. Not worth it.,Negative,email,2025-08-29,2025-08-29 13:00:35
+F1442,CUST3805,Terrible experience. Product broke after one day.,Negative,review_site,2025-09-12,2025-09-12 13:00:35
+F1443,CUST8014,Fantastic experience overall. Will definitely buy again! Issue with delivery delays.,Positive,chat,2025-07-28,2025-07-28 13:00:35
+F1444,CUST3036,Impressive features and functionality. Love it!,Positive,chat,2025-10-21,2025-10-21 13:00:35
+F1445,CUST7293,Reliable and durable product. No complaints whatsoever.,Positive,chat,2025-10-24,2025-10-24 13:00:35
+F1446,CUST5308,User-friendly interface and intuitive design.,Positive,review_site,2024-11-12,2024-11-12 13:00:35
+F1447,CUST1424,Product stopped working within a week. Poor quality.,Negative,social_media,2025-02-18,2025-02-18 13:00:35
+F1448,CUST4953,Fantastic experience overall. Will definitely buy again! ;:}~,Positive,email,2025-06-04,2025-06-04 13:00:35
+F1449,CUST7014,Difficult to use and confusing interface.,Negative,review_site,2025-03-20,2025-03-20 13:00:35
+F1450,CUST6003,User-friendly interface and intuitive design. Issue with product quality.,Positive,social_media,2025-04-10,2025-04-10 13:00:35
+F1451,CUST2699,"Difficult to use and confusing interface. ]""?|+ Issue with delivery delays.",Negative,chat,2025-01-06,2025-01-06 13:00:35
+F1452,CUST6286,Standard quality. Meets basic expectations. :>`^_,Neutral,chat,2025-06-14,2025-06-14 13:00:35
+F1453,CUST2401,The product exceeded my expectations. Very satisfied! Issue with return process.,Positive,review_site,2025-04-30,2025-04-30 13:00:35
+F1454,CUST2095,Functional but could be better. Issue with return process.,Neutral,email,2025-07-07,2025-07-07 13:00:35
+F1455,CUST4931,Extremely disappointed with the quality. Not recommended.,Negative,chat,2024-11-13,2024-11-13 13:00:35
+F1456,CUST9561,Great value for money. Worth every penny! .) Issue with website navigation.,Positive,email,2025-02-14,2025-02-14 13:00:35
+F1457,CUST6421,"Standard quality. Meets basic expectations. *,+*",Neutral,email,2025-01-29,2025-01-29 13:00:35
+F1458,CUST1336,Great value for money. Worth every penny!,Positive,chat,2025-01-11,2025-01-11 13:00:35
+F1459,CUST2455,Frequent crashes and bugs. Needs improvement.,Negative,email,2024-11-29,2024-11-29 13:00:35
+F1460,CUST8915,The product exceeded my expectations. Very satisfied!,Positive,email,2025-04-06,2025-04-06 13:00:35
+F1461,CUST5935,"Mediocre experience overall. ;,* Issue with website navigation.",Neutral,social_media,2024-12-10,2024-12-10 13:00:35
+F1462,CUST5302,The product exceeded my expectations. Very satisfied!,Positive,social_media,2025-04-29,2025-04-29 13:00:35
+F1463,CUST8920,I absolutely love this product! It's amazing and works perfectly.,Positive,review_site,2025-05-22,2025-05-22 13:00:35
+F1464,CUST7274,Difficult to use and confusing interface.,Negative,chat,2024-12-14,2024-12-14 13:00:35
+F1465,CUST1224,Excellent service and fast delivery. Highly recommended!,Positive,social_media,2025-04-07,2025-04-07 13:00:35
+F1466,CUST8838,Great value for money. Worth every penny! |$<_:,Positive,email,2025-01-17,2025-01-17 13:00:35
+F1467,CUST8942,Excellent service and fast delivery. Highly recommended!,Positive,social_media,2025-05-28,2025-05-28 13:00:35
+F1468,CUST4134,Waste of money. Product doesn't work as advertised. Issue with technical issues.,Negative,chat,2024-11-09,2024-11-09 13:00:35
+F1469,CUST2532,"Poor customer service. No one responded to my queries. **~,",Negative,social_media,2025-05-12,2025-05-12 13:00:35
+F1470,CUST9437,Standard quality. Meets basic expectations. Issue with technical issues.,Neutral,review_site,2025-06-15,2025-06-15 13:00:35
+F1471,CUST9263,Fantastic experience overall. Will definitely buy again!,Positive,chat,2024-11-29,2024-11-29 13:00:35
+F1472,CUST8866,Excellent service and fast delivery. Highly recommended! &,Positive,chat,2024-12-01,2024-12-01 13:00:35
+F1473,CUST1123,Excellent service and fast delivery. Highly recommended! Issue with customer service.,Positive,social_media,2025-01-14,2025-01-14 13:00:35
+F1474,CUST1663,Fantastic experience overall. Will definitely buy again!,Positive,email,2025-06-05,2025-06-05 13:00:35
+F1475,CUST9234,Standard quality. Meets basic expectations.,Neutral,social_media,2025-07-06,2025-07-06 13:00:35
+F1476,CUST4827,Difficult to use and confusing interface.,Negative,email,2025-01-02,2025-01-02 13:00:35
+F1477,CUST3114,"Functional but could be better. &,(",Neutral,chat,2025-04-26,2025-04-26 13:00:35
+F1478,CUST1877,Acceptable product for the price point. Issue with product quality.,Neutral,social_media,2025-03-23,2025-03-23 13:00:35
+F1479,CUST3116,Excellent service and fast delivery. Highly recommended! Issue with customer service.,Positive,social_media,2025-08-25,2025-08-25 13:00:35
+F1480,CUST9173,Standard quality. Meets basic expectations. Issue with customer service.,Neutral,chat,2025-01-12,2025-01-12 13:00:35
+F1481,CUST8154,Product stopped working within a week. Poor quality. |($ Issue with technical issues.,Negative,chat,2024-11-02,2024-11-02 13:00:35
+F1482,CUST1544,Difficult to use and confusing interface. Issue with product features.,Negative,review_site,2025-01-07,2025-01-07 13:00:35
+F1483,CUST1002,Standard quality. Meets basic expectations.,Neutral,social_media,2025-08-23,2025-08-23 13:00:35
+F1484,CUST9103,Product stopped working within a week. Poor quality. Issue with product availability.,Negative,chat,2025-01-09,2025-01-09 13:00:35
+F1485,CUST8066,Outstanding customer support. They resolved my issue quickly. Issue with return process.,Positive,chat,2025-08-05,2025-08-05 13:00:35
+F1486,CUST5222,Great value for money. Worth every penny!,Positive,social_media,2025-06-10,2025-06-10 13:00:35
+F1487,CUST5958,Product stopped working within a week. Poor quality. >@_;&,Negative,review_site,2025-03-14,2025-03-14 13:00:35
+F1488,CUST3366,"It's fine, not great but not terrible either.",Neutral,social_media,2025-06-03,2025-06-03 13:00:35
+F1489,CUST5384,Standard quality. Meets basic expectations. { Issue with product features.,Neutral,social_media,2025-09-02,2025-09-02 13:00:35
+F1490,CUST1115,Frequent crashes and bugs. Needs improvement. Issue with technical issues.,Negative,chat,2025-04-19,2025-04-19 13:00:35
+F1491,CUST1835,Waste of money. Product doesn't work as advertised.,Negative,chat,2025-10-25,2025-10-25 13:00:35
+F1492,CUST4171,Late delivery and damaged packaging. Very upset! Issue with pricing.,Negative,review_site,2024-11-26,2024-11-26 13:00:35
+F1493,CUST7025,The product exceeded my expectations. Very satisfied! `,Positive,email,2025-01-31,2025-01-31 13:00:35
+F1494,CUST5813,It's alright. Nothing remarkable to mention. Issue with return process.,Neutral,review_site,2025-05-26,2025-05-26 13:00:35
+F1495,CUST4418,Impressive features and functionality. Love it!,Positive,review_site,2025-04-18,2025-04-18 13:00:35
+F1496,CUST2352,Difficult to use and confusing interface. Issue with product quality.,Negative,email,2025-07-05,2025-07-05 13:00:35
+F1497,CUST8081,Extremely disappointed with the quality. Not recommended.,Negative,email,2025-06-01,2025-06-01 13:00:35
+F1498,CUST4258,Great value for money. Worth every penny!,Positive,email,2025-06-15,2025-06-15 13:00:35
+F1499,CUST1477,"Frequent crashes and bugs. Needs improvement. !""{_%",Negative,email,2025-09-01,2025-09-01 13:00:35
+F1500,CUST9702,Average experience. Some good points and some bad. Issue with product quality.,Neutral,email,2025-01-05,2025-01-05 13:00:35
