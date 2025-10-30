@@ -1,4 +1,4 @@
-# Intelligent Customer Feedback Analysis System
+# FeedMind Intelligent Customer Feedback Analysis System
 
 This project implements an AI-based system that analyzes, summarizes, and predicts customer sentiment from feedback data collected through various sources such as emails, chat logs, and social media comments.
 
