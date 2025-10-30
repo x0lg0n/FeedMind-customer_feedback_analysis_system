@@ -41,6 +41,21 @@ customer_feedback_analysis_system/
    pip install -r app/requirements.txt
    ```
 
+## Model Files
+
+**Note**: The large pre-trained model files (specifically `models/sentiment_model/model.safetensors`) are not included in this repository due to their size (over 250MB). 
+
+To use the sentiment analysis functionality, you'll need to:
+
+1. Run the sentiment model training script to generate the model files:
+   ```bash
+   python src/sentiment_model.py
+   ```
+
+This will create the necessary model files in the `models/sentiment_model/` directory.
+
+Alternatively, if you have access to the pre-trained model files, place them in the `models/sentiment_model/` directory.
+
 ## Usage
 
 ### 1. Data Generation
